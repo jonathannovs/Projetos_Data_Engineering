@@ -1,0 +1,1001 @@
+id_receita,id_empresa,id_cliente,categoria,valor,data,descricao
+1,6,107,Serviço,84587.43,2025-04-03,Ab quo dolorum iusto fugiat facilis tempora.
+2,6,172,Consultoria,71949.15,2024-11-08,Autem ipsa saepe cum explicabo.
+3,6,192,Consultoria,12288.31,2024-09-29,Facere sit dicta.
+4,4,101,Licenciamento,36158.76,2024-06-26,Aliquam hic quia tempore cum.
+5,5,171,Licenciamento,70507.51,2024-06-30,Vero voluptatem blanditiis laudantium libero placeat consectetur.
+6,1,122,Consultoria,14904.47,2025-01-30,Magnam unde sapiente harum autem autem.
+7,7,114,Licenciamento,61474.32,2024-04-22,Culpa magnam quisquam dolores.
+8,4,116,Consultoria,22343.36,2025-01-02,Inventore nisi ab laboriosam eligendi assumenda.
+9,4,192,Licenciamento,11668.81,2024-09-27,Nulla quas deleniti eligendi beatae.
+10,7,106,Venda Produto,77442.37,2024-07-25,Pariatur inventore labore quos aut.
+11,8,159,Serviço,96421.62,2025-01-22,Nostrum deleniti sequi occaecati corrupti blanditiis illo.
+12,1,168,Venda Produto,55769.41,2024-07-29,Ut incidunt nulla at amet.
+13,7,175,Consultoria,92512.72,2024-09-19,Esse odio doloremque excepturi laboriosam magni officia.
+14,3,189,Serviço,73318.97,2024-08-10,Earum eligendi expedita in.
+15,3,114,Consultoria,66094.66,2024-08-16,Delectus a optio.
+16,10,142,Consultoria,42447.81,2024-08-16,Eligendi eius non inventore dolorum.
+17,10,189,Serviço,28085.99,2024-10-21,Ex beatae pariatur placeat quo consectetur.
+18,6,138,Consultoria,80674.89,2024-09-01,Quia nihil non dolores eius nesciunt.
+19,3,153,Licenciamento,84464.37,2024-05-17,Consectetur quia blanditiis nesciunt.
+20,9,141,Serviço,20888.02,2025-04-03,Deserunt ipsum atque velit nulla.
+21,10,192,Licenciamento,68974.52,2024-08-09,Voluptatibus dicta quam aliquam deleniti mollitia dolorum.
+22,3,191,Serviço,50885.45,2025-03-20,Voluptate tempora ipsum quaerat tenetur architecto in.
+23,6,191,Venda Produto,76316.73,2025-04-10,Ratione cumque earum voluptas enim veritatis aperiam.
+24,9,162,Consultoria,67750.11,2025-01-08,Qui id placeat sit voluptas.
+25,9,137,Consultoria,81022.17,2024-06-17,Quibusdam fugit quod id earum delectus.
+26,9,114,Venda Produto,38706.16,2024-06-15,Dolor possimus sunt ratione iste provident minima.
+27,1,186,Venda Produto,20790.34,2024-08-09,Eos eaque blanditiis dolore modi.
+28,3,137,Licenciamento,15496.41,2024-08-05,Odit velit eius.
+29,1,189,Licenciamento,21196.09,2024-06-04,Sit amet voluptatem voluptatibus distinctio.
+30,9,105,Licenciamento,81588.6,2024-05-29,Officiis odio voluptas.
+31,2,179,Serviço,74498.86,2024-08-18,Veniam sunt eaque consequatur.
+32,9,150,Serviço,51581.31,2025-03-28,Eos voluptates numquam ab explicabo quas eius ducimus.
+33,5,189,Venda Produto,92722.0,2024-04-20,Omnis sint vel nesciunt quam porro veniam.
+34,7,154,Licenciamento,96617.49,2024-07-22,Odio mollitia repellendus dolore eaque neque repellat quidem.
+35,1,102,Licenciamento,21105.64,2024-06-13,Doloremque quas fuga temporibus atque delectus delectus.
+36,8,129,Licenciamento,75755.66,2025-03-14,Deleniti laudantium quas officia.
+37,9,195,Serviço,77838.53,2024-04-22,Cum debitis hic non architecto.
+38,4,138,Consultoria,18565.16,2024-05-11,Doloribus tenetur voluptas aut minima quas.
+39,2,124,Serviço,73772.87,2025-02-21,Nobis fugiat accusantium.
+40,2,149,Venda Produto,43422.27,2025-03-01,Quis officia aliquam.
+41,9,134,Serviço,16931.96,2024-07-19,Eaque vel nobis recusandae.
+42,5,101,Licenciamento,47166.8,2024-04-17,Molestiae repellendus sequi assumenda.
+43,3,106,Serviço,92934.2,2024-06-07,Quis tempora repellendus esse laboriosam doloribus molestiae.
+44,10,107,Licenciamento,49564.54,2024-07-26,Molestiae accusantium aliquid molestias aut suscipit impedit a.
+45,10,171,Licenciamento,8215.2,2024-07-10,Dolorem harum explicabo.
+46,6,168,Serviço,95741.78,2024-08-03,Ullam placeat placeat quaerat temporibus.
+47,9,109,Serviço,42177.19,2024-10-22,Voluptatibus dolore vero eligendi.
+48,9,152,Venda Produto,35590.89,2024-05-13,Ex facere unde assumenda aliquam corrupti inventore ex.
+49,4,185,Licenciamento,33775.59,2024-06-23,Corrupti pariatur error repellendus expedita aut.
+50,5,128,Consultoria,99666.48,2025-04-04,Optio ut repellat quae asperiores a ut.
+51,1,115,Licenciamento,45121.06,2024-06-10,Eum hic quam quos.
+52,10,180,Serviço,95930.78,2024-10-16,Beatae incidunt quas corporis.
+53,6,149,Venda Produto,39201.72,2024-08-17,Delectus harum eum incidunt.
+54,9,193,Licenciamento,3445.87,2025-01-08,Nobis odio consequuntur velit ullam fugit.
+55,9,199,Licenciamento,51916.6,2024-11-13,Molestiae laudantium modi dolorem assumenda quaerat minima.
+56,9,158,Consultoria,5341.31,2025-02-09,Praesentium doloremque a voluptatibus accusantium.
+57,4,142,Venda Produto,94872.97,2024-11-16,Vero ullam animi expedita sed sint reprehenderit.
+58,3,199,Venda Produto,63066.37,2024-08-06,Corporis sequi voluptas totam doloribus repudiandae animi.
+59,4,186,Serviço,86630.13,2024-06-06,Vitae provident fugiat ad.
+60,7,114,Serviço,54237.67,2024-09-25,Amet autem neque labore nisi culpa.
+61,7,183,Venda Produto,74942.19,2024-06-10,Consequuntur doloribus accusamus rerum impedit quisquam.
+62,3,104,Consultoria,71969.96,2024-10-13,Quibusdam praesentium error illum.
+63,1,112,Venda Produto,6372.54,2024-08-23,Quos possimus enim culpa sunt adipisci.
+64,5,172,Venda Produto,57921.27,2025-01-30,Magnam ab rerum perspiciatis.
+65,4,134,Consultoria,39415.23,2025-03-20,Mollitia repudiandae ullam magnam quae incidunt culpa.
+66,7,156,Licenciamento,2672.21,2024-05-19,Fugiat veritatis quia id animi hic reprehenderit.
+67,2,169,Venda Produto,64500.85,2024-11-17,Sapiente repellendus iusto et odit repudiandae cum rem.
+68,10,109,Venda Produto,70387.32,2024-12-21,Deserunt autem aspernatur nobis sed adipisci.
+69,2,146,Venda Produto,29693.82,2024-08-01,Molestiae aperiam nisi quidem.
+70,5,178,Venda Produto,28870.23,2024-08-12,Mollitia odit adipisci eaque voluptate.
+71,8,149,Consultoria,82390.11,2024-11-19,Natus ratione aliquid.
+72,1,161,Serviço,53813.31,2024-08-14,Velit ab explicabo eligendi.
+73,3,196,Consultoria,79880.27,2024-09-15,Deserunt quibusdam quas voluptate praesentium atque illum.
+74,9,138,Serviço,30507.59,2025-01-26,Aut rem corrupti nesciunt fugit nesciunt sequi.
+75,6,102,Serviço,13200.28,2024-08-04,Corrupti iure suscipit at.
+76,1,174,Consultoria,54178.05,2025-01-18,Sunt rem omnis quisquam cum.
+77,2,140,Serviço,75081.36,2024-10-25,Voluptatibus non minima quisquam ipsum consectetur enim.
+78,6,128,Consultoria,90657.18,2024-12-12,Aliquam quae placeat dolores voluptatum non.
+79,9,119,Serviço,19215.28,2024-06-12,Occaecati libero rem consequuntur sit molestias voluptas.
+80,10,133,Serviço,12347.63,2025-02-11,Libero iste cumque eos.
+81,10,107,Consultoria,64822.78,2024-05-10,Nemo explicabo architecto quae itaque.
+82,2,138,Venda Produto,25818.07,2024-10-14,Quis ipsam unde velit voluptas.
+83,4,193,Consultoria,95202.45,2024-10-20,Facilis enim illum.
+84,6,117,Serviço,10904.46,2024-12-10,Ipsam maiores numquam et.
+85,10,109,Serviço,32460.81,2024-05-16,Magni ea soluta placeat nulla officia.
+86,8,143,Licenciamento,69652.35,2025-01-26,Praesentium natus culpa autem fugiat.
+87,3,173,Licenciamento,80962.28,2024-11-21,Sequi dolore soluta pariatur expedita iusto.
+88,7,122,Venda Produto,32008.26,2024-11-07,Autem debitis autem vero id inventore illo.
+89,4,192,Consultoria,28391.3,2024-05-09,Exercitationem nobis distinctio qui beatae iste.
+90,6,118,Licenciamento,87910.7,2024-11-11,Veniam corporis distinctio necessitatibus.
+91,8,158,Licenciamento,77701.93,2024-12-03,Aperiam repellat ratione voluptatem distinctio distinctio.
+92,8,171,Venda Produto,18401.25,2024-04-22,Earum odio assumenda architecto illo error.
+93,10,111,Licenciamento,86012.65,2025-01-15,Sit minima pariatur ea rerum at temporibus.
+94,3,169,Serviço,27060.23,2024-08-24,Cum expedita in labore porro.
+95,2,194,Venda Produto,89318.41,2024-06-15,Explicabo possimus harum ab quos nisi.
+96,9,181,Venda Produto,81451.6,2024-05-14,Nulla eum voluptates vel quia qui et corrupti.
+97,10,152,Serviço,90724.05,2024-10-09,Libero et recusandae perferendis.
+98,9,134,Consultoria,65736.91,2024-07-25,Quam voluptates velit similique odio odit neque.
+99,3,147,Consultoria,23107.36,2024-04-28,Quia deleniti possimus quo nobis.
+100,10,194,Licenciamento,14254.24,2024-07-06,Distinctio deleniti perspiciatis veritatis fuga facilis.
+101,9,166,Venda Produto,40281.73,2024-08-09,Magnam sint praesentium officiis iste.
+102,9,102,Serviço,84950.2,2024-09-20,Explicabo molestiae minima quisquam beatae cupiditate.
+103,10,188,Serviço,75963.4,2024-09-27,Debitis nisi molestiae fugit sapiente porro.
+104,3,158,Serviço,18735.37,2024-09-30,Praesentium vel temporibus aut assumenda.
+105,10,185,Serviço,73856.06,2025-03-05,At accusamus ut aut.
+106,8,146,Venda Produto,22663.09,2025-01-30,Unde aut ipsam neque adipisci enim in dolore.
+107,8,130,Venda Produto,27171.35,2024-10-07,Fugit deserunt iusto commodi voluptas totam impedit.
+108,4,106,Serviço,52270.64,2025-02-26,Ab fugiat dolore eligendi sunt eaque.
+109,6,150,Consultoria,91872.29,2025-03-05,Perferendis a tenetur adipisci ad ratione.
+110,1,106,Licenciamento,11219.28,2025-03-06,Reprehenderit nobis ex vero voluptatibus doloribus voluptate.
+111,9,182,Licenciamento,83652.35,2024-06-27,Officia repudiandae reiciendis neque consectetur odio voluptate cupiditate.
+112,5,175,Serviço,38289.3,2025-03-31,Maxime ipsa aut reiciendis magnam occaecati.
+113,7,147,Venda Produto,52149.63,2025-02-12,Sapiente occaecati ea mollitia veniam dignissimos.
+114,7,129,Consultoria,35936.9,2024-05-20,Ipsa occaecati nihil.
+115,6,163,Consultoria,88830.02,2024-04-24,Provident ullam aspernatur fugit quia consectetur iste occaecati.
+116,1,165,Serviço,44549.97,2024-08-31,Dolores tempore error modi.
+117,4,110,Licenciamento,21940.19,2024-07-18,Quo omnis eius vel occaecati odit.
+118,3,121,Licenciamento,60600.01,2024-11-24,Beatae unde commodi consequuntur.
+119,2,185,Serviço,42046.75,2024-07-24,At laudantium facere saepe.
+120,6,193,Venda Produto,48670.15,2024-09-12,Laudantium accusantium asperiores vero.
+121,8,162,Serviço,59488.3,2024-05-13,Porro fugiat et tenetur repellat.
+122,7,103,Serviço,5271.29,2024-06-22,Ab debitis necessitatibus non adipisci.
+123,10,176,Serviço,14337.68,2024-08-25,Laborum nostrum molestias culpa qui unde.
+124,9,106,Serviço,6535.29,2024-06-27,Adipisci ad maiores corrupti sint beatae dolor eveniet.
+125,5,124,Consultoria,60336.39,2024-07-08,Quas velit eaque laboriosam.
+126,10,182,Venda Produto,87972.39,2024-05-19,Provident officiis iusto repellat ipsa veniam.
+127,5,111,Serviço,45471.13,2025-04-07,Dolorum dicta sapiente quaerat vitae.
+128,8,162,Serviço,22717.02,2024-05-23,Recusandae nesciunt cumque dignissimos quam inventore ipsum nisi.
+129,7,177,Serviço,79666.99,2024-07-28,Numquam non inventore necessitatibus fugiat odio.
+130,3,180,Licenciamento,17604.45,2024-05-08,Cumque alias maiores nesciunt eos repudiandae officia.
+131,6,159,Venda Produto,23751.56,2024-11-06,Id beatae repellat inventore delectus doloribus.
+132,7,117,Venda Produto,2639.7,2024-07-06,Fuga quod commodi et ab eveniet.
+133,9,165,Consultoria,82824.9,2024-10-11,Recusandae tempore natus harum nobis minima aut.
+134,10,113,Serviço,48111.05,2024-07-30,Veniam rem perferendis nemo officia placeat ipsa repellendus.
+135,10,177,Venda Produto,87897.51,2024-06-29,Amet laudantium aliquid earum blanditiis.
+136,9,165,Venda Produto,10225.81,2024-10-06,Nobis nihil dolores accusantium.
+137,3,178,Venda Produto,89799.93,2024-04-20,Voluptates tenetur eligendi sapiente illo tempore ullam.
+138,7,167,Consultoria,37667.37,2024-04-29,Officia architecto atque rem quam earum.
+139,1,190,Consultoria,23719.14,2025-01-31,Id nam est nostrum hic possimus.
+140,8,199,Consultoria,35701.26,2024-10-07,Sed voluptas commodi fugiat nulla adipisci aliquid.
+141,10,113,Consultoria,14254.43,2024-04-18,Autem eum porro ipsa.
+142,8,199,Serviço,91098.45,2024-06-19,Deleniti temporibus fuga temporibus.
+143,2,137,Consultoria,26522.69,2024-04-15,Ea quos beatae.
+144,1,191,Venda Produto,58220.73,2024-08-10,Ea porro recusandae fugit.
+145,2,167,Venda Produto,38127.96,2025-01-10,Unde nesciunt blanditiis eum.
+146,4,189,Licenciamento,41475.66,2024-06-10,Suscipit vitae impedit ipsum commodi minus neque optio.
+147,2,120,Consultoria,65506.02,2024-07-31,Quo laboriosam at quisquam quae explicabo.
+148,5,134,Consultoria,56902.35,2025-03-04,Optio quasi dignissimos aspernatur voluptas.
+149,10,136,Consultoria,75742.22,2024-05-07,Accusamus dolor repellendus deleniti autem.
+150,7,171,Consultoria,18693.24,2024-07-04,Quis maiores et velit provident omnis sed autem.
+151,9,172,Consultoria,26123.99,2024-06-03,Totam harum iste nulla dicta.
+152,5,174,Licenciamento,77645.25,2024-09-16,Architecto incidunt placeat veritatis neque.
+153,7,195,Serviço,85644.89,2024-05-23,Itaque autem beatae accusantium.
+154,2,196,Serviço,45212.89,2024-10-09,Eaque labore minus explicabo.
+155,3,113,Serviço,51326.01,2024-05-29,Assumenda inventore corrupti magnam magni amet earum.
+156,6,171,Venda Produto,16913.06,2024-05-21,Officiis quasi in.
+157,1,112,Serviço,47695.2,2024-08-06,Illo nisi minus laudantium inventore.
+158,10,156,Venda Produto,7343.97,2025-01-03,Officia vero dolor.
+159,4,148,Venda Produto,61293.86,2024-05-04,Nemo dolores minus.
+160,7,152,Licenciamento,71448.98,2024-07-29,Sunt praesentium illo hic dolore.
+161,10,108,Serviço,64388.84,2025-02-28,Libero cupiditate dignissimos odio provident.
+162,8,102,Serviço,85206.2,2024-08-03,Atque magnam praesentium.
+163,9,137,Serviço,4327.33,2024-10-16,Sequi porro cumque placeat cumque.
+164,10,166,Serviço,61903.81,2024-08-20,Consequuntur accusamus labore ex debitis eaque aspernatur.
+165,1,147,Serviço,65846.89,2025-01-02,Nisi voluptas nesciunt.
+166,3,112,Licenciamento,78187.62,2024-10-20,Labore aliquid accusantium perspiciatis enim.
+167,6,186,Consultoria,41139.65,2024-07-11,Magnam quidem quod aut rem excepturi laudantium.
+168,4,167,Venda Produto,73955.63,2024-08-28,Ducimus laborum facilis accusamus explicabo quae tempora.
+169,2,112,Licenciamento,72887.73,2025-02-08,Laborum earum maxime odit corporis illum dolore voluptatibus.
+170,9,175,Licenciamento,35400.03,2024-08-30,Adipisci neque possimus inventore dignissimos at ullam.
+171,5,129,Serviço,46021.14,2024-09-07,Vitae soluta perspiciatis tempore.
+172,7,174,Venda Produto,26849.64,2024-10-05,Cupiditate tenetur expedita ex nihil veniam eius.
+173,7,165,Venda Produto,56304.44,2024-06-27,Neque praesentium rerum.
+174,9,138,Licenciamento,94754.53,2024-05-31,Recusandae necessitatibus recusandae expedita beatae ab.
+175,9,133,Licenciamento,69724.99,2025-04-09,Iure corrupti vitae numquam.
+176,7,173,Consultoria,77226.75,2024-12-27,Esse enim reiciendis accusamus.
+177,6,200,Consultoria,68477.87,2024-04-29,Eligendi nihil amet esse inventore.
+178,10,104,Consultoria,12510.56,2024-12-26,Amet consequuntur soluta.
+179,2,149,Serviço,68014.38,2025-02-12,Pariatur quisquam culpa assumenda earum voluptatum deserunt.
+180,4,141,Consultoria,95589.12,2024-11-27,Enim adipisci ut dolorum.
+181,9,169,Venda Produto,70381.04,2025-01-02,In vitae atque ea error est.
+182,5,132,Licenciamento,10207.93,2024-11-18,Perspiciatis eum neque placeat dicta consequatur.
+183,6,110,Serviço,48178.99,2024-11-15,Error assumenda necessitatibus occaecati molestias.
+184,6,128,Licenciamento,19095.66,2024-09-07,Atque minima possimus magnam placeat facere.
+185,4,164,Serviço,24251.28,2024-08-29,Iure vero itaque totam ad quisquam.
+186,4,134,Serviço,23691.55,2024-05-18,Nostrum esse doloribus maiores.
+187,4,180,Licenciamento,16443.56,2024-06-02,Molestiae natus eos quidem hic illo ab rem.
+188,2,116,Venda Produto,67905.4,2025-03-19,Itaque amet amet rerum officiis ex atque.
+189,8,179,Venda Produto,76660.18,2024-08-04,Laboriosam ex aperiam qui perferendis qui amet.
+190,9,106,Consultoria,37748.46,2024-07-02,Corporis qui libero dolore perferendis sequi error.
+191,6,164,Licenciamento,49589.73,2024-08-12,Rem numquam dicta.
+192,9,136,Consultoria,22987.19,2024-05-10,Corrupti sunt maxime.
+193,10,117,Venda Produto,53047.81,2024-07-19,Aut ad magni hic unde.
+194,7,162,Venda Produto,50745.05,2024-08-08,Laborum delectus doloremque sed ea nostrum.
+195,7,188,Serviço,46262.41,2024-10-01,Commodi corporis accusantium consequuntur quia dolores maiores praesentium.
+196,2,190,Consultoria,32249.48,2024-06-30,Laboriosam enim aut nihil facilis eius harum.
+197,1,102,Serviço,38563.37,2025-02-18,Iure repellendus corporis eligendi.
+198,2,142,Licenciamento,61665.03,2024-05-30,Harum neque alias officiis omnis ipsam tenetur.
+199,5,124,Licenciamento,24476.78,2024-08-29,Iusto quam eius voluptatem.
+200,8,179,Licenciamento,37226.49,2024-08-30,Sequi magnam expedita provident hic aperiam omnis.
+201,8,155,Serviço,42490.2,2024-08-28,Excepturi quaerat ratione eius quis esse hic.
+202,6,147,Consultoria,28683.32,2025-04-04,Fugiat iusto omnis nemo unde quod minima.
+203,3,174,Serviço,97947.97,2024-06-03,Nihil neque nesciunt rerum architecto adipisci.
+204,4,113,Licenciamento,80604.67,2025-01-23,Doloremque pariatur libero perspiciatis.
+205,9,156,Consultoria,20410.26,2024-08-17,Voluptatem repellat quasi dolores tempore.
+206,3,161,Venda Produto,18484.12,2024-06-20,Quidem in aperiam nostrum beatae sed.
+207,8,118,Licenciamento,78747.96,2024-05-12,Quis non sapiente unde eum praesentium.
+208,5,133,Venda Produto,40441.79,2024-09-07,Voluptates nemo dicta dolorum.
+209,3,108,Serviço,81567.99,2024-09-30,Dolorem quia inventore minus ratione.
+210,8,181,Venda Produto,45535.63,2024-05-17,Ad vero atque alias consequuntur a quo necessitatibus.
+211,6,134,Licenciamento,36670.35,2025-03-15,Exercitationem placeat vero quas.
+212,9,133,Licenciamento,2963.7,2024-11-05,Deleniti dignissimos repudiandae magnam explicabo tempore sequi.
+213,2,145,Serviço,58108.52,2025-02-19,Ipsa numquam soluta necessitatibus.
+214,9,123,Licenciamento,36155.79,2024-06-02,Error blanditiis dolorem nobis ex dolore velit.
+215,9,163,Consultoria,89073.61,2025-04-07,Hic facere sit culpa enim.
+216,7,179,Licenciamento,46911.46,2024-11-07,Dolores maxime nostrum est nulla molestias tempora.
+217,3,122,Licenciamento,42759.83,2024-11-26,Vel voluptates officiis adipisci in dicta suscipit.
+218,10,174,Consultoria,85041.18,2024-05-07,Dignissimos repellendus eveniet quidem.
+219,2,111,Serviço,35018.92,2025-04-03,Doloremque asperiores veniam temporibus.
+220,6,141,Licenciamento,71332.92,2025-01-12,Exercitationem architecto impedit.
+221,10,183,Consultoria,27853.56,2025-01-26,Ut suscipit laboriosam consectetur quam aut libero dolore.
+222,8,200,Licenciamento,75041.65,2024-08-28,Labore quos soluta dolorem ut ad.
+223,9,158,Consultoria,17564.49,2025-02-11,Modi similique placeat qui mollitia.
+224,1,117,Serviço,66540.23,2024-05-04,Quisquam possimus inventore incidunt consequuntur ipsa.
+225,2,127,Serviço,40307.51,2025-03-28,Voluptatem facilis deserunt ipsa animi doloremque nihil dolorem.
+226,2,109,Consultoria,55294.94,2025-01-29,Necessitatibus voluptatibus accusamus quam repellat asperiores consectetur.
+227,1,199,Consultoria,52874.3,2024-06-23,Aliquam expedita omnis doloribus eos.
+228,2,114,Licenciamento,62192.11,2024-12-05,Laboriosam commodi asperiores dolorum molestiae libero.
+229,2,184,Consultoria,31627.69,2025-01-24,Tempore similique ipsam esse facilis mollitia.
+230,4,195,Licenciamento,44872.88,2025-03-17,Minima eaque possimus magnam amet.
+231,3,117,Serviço,3828.56,2025-03-29,Provident numquam eius dignissimos consequatur voluptate.
+232,6,142,Consultoria,47252.15,2024-07-12,Quia distinctio fuga repellendus consequuntur.
+233,9,135,Consultoria,14376.38,2024-07-14,Officiis iste beatae libero alias eius.
+234,9,123,Consultoria,63473.7,2024-09-10,Repudiandae assumenda eius non libero.
+235,10,156,Licenciamento,90983.39,2025-03-15,Harum aliquid dignissimos delectus inventore amet.
+236,8,170,Serviço,80666.07,2024-08-10,Molestiae expedita ad.
+237,8,140,Licenciamento,41808.18,2024-12-06,Ullam tenetur repellat nihil quidem exercitationem.
+238,3,139,Venda Produto,1009.14,2025-03-02,Ipsa incidunt quas quasi animi autem harum quam.
+239,3,145,Licenciamento,47450.6,2025-01-02,Similique vel iure nemo necessitatibus.
+240,1,189,Consultoria,94748.79,2024-11-01,Cum fugit quia unde consequatur.
+241,8,139,Venda Produto,76821.05,2024-04-19,Reiciendis veritatis assumenda dolorum molestiae.
+242,5,177,Serviço,79879.97,2024-08-23,Hic nulla facere omnis quos repellat non.
+243,9,148,Serviço,41761.85,2024-06-01,Necessitatibus eum eaque debitis iure.
+244,9,156,Consultoria,25739.72,2024-10-01,Iure vitae laboriosam.
+245,7,149,Serviço,27035.05,2025-03-07,Dolor animi vel eius nostrum et aperiam.
+246,7,181,Serviço,52144.4,2024-06-22,Quisquam eius sit consectetur occaecati.
+247,10,189,Licenciamento,29183.01,2024-06-10,Omnis doloremque omnis delectus magni ipsam et mollitia.
+248,9,135,Consultoria,19612.06,2024-07-11,Veritatis voluptatibus voluptate accusamus.
+249,2,124,Serviço,29669.93,2025-03-08,Molestiae aliquid doloremque autem magni beatae.
+250,8,180,Consultoria,27941.28,2024-05-14,Dignissimos necessitatibus repudiandae perspiciatis architecto.
+251,10,163,Serviço,32743.73,2024-09-26,Corporis eveniet ratione ex illum.
+252,3,107,Venda Produto,19407.82,2024-12-23,Iusto voluptate numquam cum aliquid ut.
+253,2,137,Licenciamento,13378.88,2025-04-03,Ad non repellat magni quos magni neque exercitationem.
+254,8,194,Venda Produto,24048.24,2024-07-06,Rerum adipisci quas fugit voluptatum aspernatur.
+255,3,102,Consultoria,22501.62,2024-05-14,Natus voluptatum occaecati quasi molestiae.
+256,7,140,Consultoria,99798.38,2024-05-31,Reiciendis non omnis maxime et deserunt nemo.
+257,8,190,Venda Produto,33694.62,2025-04-02,Eveniet reiciendis voluptate doloremque et.
+258,3,108,Licenciamento,77789.64,2024-05-28,Ipsam vero illum aspernatur natus.
+259,2,170,Consultoria,18978.77,2024-05-13,Officiis non ipsum in necessitatibus repudiandae.
+260,5,149,Venda Produto,13074.19,2024-06-01,Doloribus tenetur perferendis pariatur non recusandae exercitationem.
+261,4,150,Consultoria,25469.06,2024-05-29,Illum magnam corrupti laudantium.
+262,1,126,Consultoria,73796.96,2025-03-22,Tempore soluta accusamus blanditiis ea.
+263,2,167,Serviço,47809.73,2024-11-15,Quia consectetur alias inventore porro voluptatibus consequatur.
+264,5,142,Serviço,63287.26,2025-03-16,Ullam temporibus explicabo illo nam quae blanditiis.
+265,1,196,Venda Produto,26077.96,2025-03-28,Nihil nulla voluptatibus aliquid qui explicabo.
+266,5,126,Licenciamento,88864.44,2024-10-05,Occaecati qui ipsa quidem praesentium quasi.
+267,4,115,Serviço,63657.99,2025-01-20,Totam vel assumenda tempora nisi fuga officiis fugit.
+268,6,102,Serviço,79644.65,2024-10-01,Magni nihil velit atque.
+269,10,116,Consultoria,79125.23,2024-08-07,Exercitationem natus tempore neque sapiente incidunt eum.
+270,1,106,Consultoria,69152.25,2024-08-15,Veritatis aliquam velit sunt.
+271,3,148,Venda Produto,25623.5,2025-01-22,Inventore eius sunt et expedita.
+272,8,112,Licenciamento,93154.03,2024-06-17,Enim laborum dolore cumque.
+273,1,108,Licenciamento,64812.91,2025-04-13,Voluptates quidem unde pariatur consequuntur.
+274,9,114,Serviço,49296.45,2024-07-03,Saepe quidem ad temporibus vero molestiae reiciendis.
+275,6,172,Licenciamento,80747.01,2024-04-16,Rerum ad dicta velit necessitatibus quasi maxime.
+276,8,194,Serviço,3113.93,2025-03-02,Eos autem provident sapiente ipsam inventore ea.
+277,7,146,Serviço,25818.93,2025-03-15,Voluptatibus quasi blanditiis explicabo.
+278,1,163,Consultoria,56343.45,2024-05-14,Quas eveniet magni eius occaecati.
+279,9,190,Consultoria,19787.81,2024-10-30,Provident et unde inventore.
+280,3,170,Licenciamento,33044.41,2025-04-11,Et sapiente optio soluta alias odio ab.
+281,8,136,Serviço,7818.78,2024-06-06,Fugiat velit perferendis eaque corrupti repellendus quasi eligendi.
+282,3,158,Licenciamento,82122.44,2024-06-30,Veritatis similique quibusdam a.
+283,9,147,Consultoria,1071.26,2024-05-10,Nam dignissimos debitis in ea fugit nesciunt.
+284,9,149,Serviço,88410.3,2024-12-17,Laborum omnis debitis error doloremque eos.
+285,10,147,Serviço,32748.72,2024-10-19,Reiciendis hic explicabo laboriosam atque beatae sunt.
+286,2,185,Consultoria,19797.08,2025-02-01,In ipsum dolorum incidunt debitis.
+287,8,199,Serviço,61690.88,2024-08-15,Expedita id consectetur sunt.
+288,6,153,Licenciamento,11935.95,2025-03-06,Nobis porro adipisci eaque dolor sed illum.
+289,9,185,Venda Produto,5333.95,2024-11-18,Ea et hic ipsam id totam.
+290,3,123,Venda Produto,21005.82,2024-07-27,Quas excepturi repellendus est illum nemo cumque.
+291,8,125,Venda Produto,4149.9,2024-07-03,Beatae voluptas nostrum consectetur molestiae veniam accusantium fugit.
+292,7,185,Consultoria,53056.31,2025-02-11,Totam quisquam mollitia omnis maxime facere.
+293,10,133,Venda Produto,37269.05,2024-06-30,Saepe hic quaerat enim.
+294,10,192,Venda Produto,2295.52,2024-06-15,Ex dolor quasi velit alias accusantium.
+295,4,184,Consultoria,92911.97,2025-04-14,Aut id laborum culpa error dolorem quo.
+296,2,160,Venda Produto,36731.68,2024-07-19,Earum commodi quos.
+297,7,148,Venda Produto,82540.65,2024-12-24,Consectetur qui earum assumenda asperiores quam.
+298,5,168,Venda Produto,73695.73,2025-02-04,Accusantium quia molestiae ullam atque nihil.
+299,5,110,Serviço,96098.09,2024-09-12,Rerum similique quos incidunt quia.
+300,2,113,Serviço,53634.44,2024-08-09,Itaque aut voluptas nemo fugiat.
+301,4,125,Serviço,57432.74,2024-09-27,Dolore illo eius eligendi.
+302,3,172,Consultoria,74864.73,2025-01-11,Magni fugit voluptatibus quas veritatis quis quaerat.
+303,10,146,Consultoria,70552.49,2024-10-06,Neque ad quo ipsum labore.
+304,7,114,Serviço,79453.7,2024-05-26,Ex repellat voluptate atque cumque.
+305,9,152,Licenciamento,66095.66,2025-03-15,Nisi assumenda illo saepe minima saepe quis.
+306,9,177,Consultoria,93418.48,2024-05-06,Dolorum est excepturi corrupti eum natus illo.
+307,6,171,Licenciamento,84640.55,2024-04-16,Porro quidem recusandae molestias est.
+308,7,198,Consultoria,82789.34,2024-12-23,Eum quae maiores similique voluptatibus.
+309,6,178,Serviço,56751.33,2024-05-15,Incidunt aspernatur consectetur accusamus.
+310,4,149,Licenciamento,36640.85,2024-11-01,Cumque ipsa voluptas aliquam.
+311,8,158,Consultoria,1019.37,2024-09-25,Cupiditate rem laborum quibusdam molestias id error.
+312,1,137,Venda Produto,52243.33,2024-09-30,Quam sunt earum eum suscipit.
+313,5,101,Licenciamento,98455.05,2024-11-18,Consequuntur minima dignissimos nostrum.
+314,4,141,Venda Produto,77380.78,2025-01-16,Maxime dolorum iure vel unde quam.
+315,5,171,Serviço,10334.43,2025-03-11,Cum quaerat labore et.
+316,8,146,Serviço,14702.41,2024-06-22,Iusto voluptatibus ab praesentium.
+317,6,175,Serviço,24066.42,2024-06-30,Modi ex aperiam iusto.
+318,5,112,Consultoria,57337.43,2024-06-13,Expedita nam dolorem occaecati.
+319,4,194,Venda Produto,72634.47,2025-04-09,Earum reprehenderit sint nesciunt esse.
+320,8,123,Consultoria,82744.82,2024-12-12,Vel natus odit dicta nihil aut.
+321,10,113,Licenciamento,4699.79,2024-07-07,Debitis natus consectetur minima officia.
+322,10,149,Venda Produto,78232.07,2024-09-09,Nemo sequi non vitae qui nulla.
+323,6,145,Consultoria,42235.65,2025-04-02,Distinctio a doloremque dolor ut nostrum corporis.
+324,2,199,Serviço,75020.19,2024-10-15,Eum tempore amet.
+325,10,102,Consultoria,6358.67,2024-10-29,Incidunt iusto esse quis dolores hic.
+326,9,106,Licenciamento,54453.04,2025-02-08,Provident explicabo saepe et aspernatur non.
+327,3,142,Serviço,16166.55,2024-07-06,Veniam rerum quae saepe.
+328,7,158,Venda Produto,22986.48,2024-11-17,Laudantium ratione placeat nam ipsa expedita.
+329,5,151,Serviço,14086.72,2024-04-23,Sequi quo exercitationem incidunt nulla soluta.
+330,2,161,Venda Produto,55267.09,2025-04-06,Fugit debitis quibusdam ab ipsam.
+331,5,111,Consultoria,50680.49,2024-11-04,Ab est atque fuga ducimus.
+332,3,198,Serviço,48611.33,2025-04-06,Non alias eius.
+333,4,163,Consultoria,65572.6,2024-10-16,Aliquam possimus ducimus numquam voluptas reprehenderit.
+334,4,172,Serviço,24989.19,2025-03-15,Voluptatum odio laudantium labore soluta quibusdam rem.
+335,5,200,Consultoria,33017.75,2024-04-28,Adipisci tempora corrupti quasi sit consectetur.
+336,10,112,Venda Produto,67503.01,2024-09-23,Animi odit aperiam atque.
+337,7,147,Licenciamento,19858.48,2024-11-11,Voluptatem deserunt nostrum accusantium saepe.
+338,6,177,Venda Produto,77198.45,2025-03-09,Tempore cumque voluptates quam facilis accusamus.
+339,3,145,Consultoria,62695.03,2024-12-28,Impedit pariatur aperiam deserunt quis corporis.
+340,8,106,Serviço,20768.84,2024-07-26,Cupiditate aliquid non porro.
+341,6,120,Venda Produto,12124.8,2024-09-19,Odio sapiente velit est.
+342,1,132,Serviço,87006.48,2024-11-17,Blanditiis iure saepe assumenda ut at.
+343,5,102,Licenciamento,69685.73,2025-04-05,Delectus assumenda et occaecati.
+344,2,140,Consultoria,47647.84,2024-04-21,Ratione dolor fugiat aspernatur.
+345,6,127,Serviço,21176.33,2025-01-20,Est perspiciatis velit sint quibusdam.
+346,9,197,Licenciamento,55331.21,2025-01-25,Est fugit enim eius.
+347,10,194,Serviço,69812.04,2024-11-19,Impedit saepe earum dicta voluptatem ea.
+348,1,149,Venda Produto,26290.18,2024-10-01,At explicabo facilis quo minima.
+349,1,137,Serviço,79129.66,2025-03-02,Porro cupiditate veniam nesciunt culpa necessitatibus voluptatibus inventore.
+350,10,135,Venda Produto,47031.12,2024-12-20,Dignissimos praesentium magnam rerum recusandae.
+351,1,109,Consultoria,66376.91,2024-05-19,Quo ducimus iusto adipisci beatae omnis delectus.
+352,6,114,Venda Produto,29957.06,2024-06-07,Nesciunt fuga fugiat nihil alias praesentium occaecati.
+353,7,130,Consultoria,51345.49,2025-03-17,Culpa labore excepturi.
+354,2,141,Consultoria,86810.5,2025-03-30,Deleniti facere cum molestias.
+355,9,112,Serviço,20688.64,2025-01-31,Ipsa nulla nisi.
+356,8,172,Venda Produto,4935.49,2025-01-08,Quasi labore doloribus quam nobis laboriosam.
+357,9,140,Licenciamento,49503.35,2024-09-16,Aliquam ut doloremque vel unde.
+358,3,103,Licenciamento,68746.82,2024-05-25,Incidunt earum neque nihil cum cumque.
+359,6,181,Licenciamento,24384.27,2024-08-08,Vitae velit dicta voluptas quibusdam consectetur ex vero.
+360,9,136,Venda Produto,62953.44,2024-05-19,Recusandae consequuntur exercitationem id itaque.
+361,7,104,Licenciamento,23332.69,2024-12-25,Dicta cupiditate esse delectus.
+362,6,151,Serviço,9691.71,2025-03-13,Ipsa quam culpa nam quod.
+363,7,167,Serviço,42316.0,2024-04-15,Culpa aut mollitia hic distinctio iusto fugiat.
+364,10,120,Consultoria,97083.18,2024-10-10,Quis atque consectetur quis consequatur.
+365,10,143,Consultoria,54681.14,2025-02-08,Tempore reprehenderit quas incidunt hic asperiores.
+366,4,184,Serviço,58522.04,2024-10-20,Ad suscipit debitis doloremque facere magnam a nobis.
+367,4,118,Licenciamento,69164.68,2024-09-15,Officia consequuntur deleniti distinctio.
+368,9,118,Consultoria,99572.89,2024-09-30,Excepturi omnis incidunt eligendi.
+369,3,184,Serviço,32432.12,2024-09-11,Alias vero in cum placeat rerum iure.
+370,9,169,Venda Produto,19229.39,2024-05-16,Placeat aut similique rem accusamus eum.
+371,3,194,Venda Produto,76778.07,2024-11-23,Fugit iste laborum vero illo quo esse.
+372,7,153,Licenciamento,44857.44,2024-07-23,Nobis rem ipsum fuga.
+373,5,120,Serviço,11570.37,2024-10-14,Sapiente voluptas beatae debitis incidunt quis.
+374,3,104,Licenciamento,60954.85,2025-03-17,Corrupti excepturi vel nihil.
+375,10,130,Serviço,23860.33,2024-06-29,Repellat quas iste aliquid eligendi commodi laudantium.
+376,1,146,Venda Produto,69125.99,2024-09-03,Suscipit placeat dolorum.
+377,8,118,Consultoria,71489.89,2024-08-23,Quisquam ad eaque eos impedit.
+378,6,124,Consultoria,49653.11,2024-10-04,Error alias beatae quasi minus id.
+379,3,121,Serviço,23401.03,2024-06-21,Modi commodi corporis laudantium.
+380,7,198,Venda Produto,92618.07,2025-03-26,Exercitationem itaque nulla ullam temporibus.
+381,7,129,Serviço,76019.88,2025-04-11,Necessitatibus aliquam eveniet alias non quam repellat.
+382,2,123,Consultoria,86845.77,2024-05-23,Maiores quas excepturi odio error id.
+383,8,189,Licenciamento,86810.72,2024-06-24,Quam quia aspernatur totam vitae.
+384,4,155,Consultoria,77845.26,2025-02-16,Necessitatibus voluptatum nulla molestiae recusandae.
+385,10,195,Consultoria,72299.89,2025-01-08,Fugiat labore quis.
+386,7,179,Venda Produto,52544.26,2024-09-30,Quia quod eius perferendis non.
+387,8,159,Venda Produto,87900.21,2025-04-02,Perspiciatis earum illum accusantium.
+388,4,167,Consultoria,98399.23,2024-09-21,Eius iure ratione odio.
+389,1,172,Consultoria,52096.54,2024-05-21,Dolore quae dolore nostrum quas.
+390,1,125,Licenciamento,44515.83,2024-12-06,Nihil odio eveniet harum ut accusamus excepturi.
+391,5,200,Licenciamento,46673.37,2024-08-26,Corrupti sequi libero minus cumque harum.
+392,7,138,Venda Produto,69305.34,2024-09-17,Optio necessitatibus aspernatur.
+393,3,160,Consultoria,9953.64,2024-10-19,Voluptates assumenda quibusdam minus esse quibusdam iste.
+394,9,115,Serviço,78094.38,2024-10-12,Culpa nesciunt numquam.
+395,9,118,Consultoria,41942.37,2024-11-19,Impedit quisquam quibusdam eligendi quia voluptatibus.
+396,8,104,Serviço,45914.39,2024-09-06,Consectetur non sed atque dolor voluptatibus necessitatibus.
+397,4,159,Venda Produto,25758.15,2024-06-22,Quisquam voluptates voluptatem mollitia.
+398,3,192,Venda Produto,10027.93,2024-08-28,In nobis eum facilis autem.
+399,8,182,Licenciamento,9445.35,2025-03-23,Magnam minus dolore illo quidem enim.
+400,7,194,Serviço,38489.18,2025-04-08,Culpa sit id a rerum quis omnis.
+401,7,106,Serviço,91313.03,2025-01-04,Fugit officiis voluptate illum.
+402,10,185,Serviço,17050.29,2024-12-17,Nulla consequuntur nulla.
+403,3,123,Venda Produto,42538.59,2024-05-15,Necessitatibus illum ad non cumque numquam placeat veritatis.
+404,5,194,Consultoria,29589.27,2024-04-22,Sunt omnis mollitia sint sed cum fuga soluta.
+405,3,116,Serviço,96082.95,2024-06-21,Vel ullam eum eos tempora dignissimos itaque.
+406,1,180,Licenciamento,2208.57,2024-07-18,Ipsam doloribus debitis itaque odit rem saepe sit.
+407,8,164,Venda Produto,61190.41,2025-04-01,Doloribus quam architecto quibusdam.
+408,8,131,Serviço,59297.37,2025-01-03,Sint voluptatum similique architecto impedit ea.
+409,8,159,Consultoria,44745.66,2025-01-17,Commodi quod officia modi ad laboriosam quas.
+410,10,177,Venda Produto,25226.6,2024-08-05,Repudiandae quam aliquam id unde occaecati.
+411,9,136,Serviço,5842.96,2024-10-01,Ratione aut sed quidem neque recusandae.
+412,3,108,Licenciamento,4635.38,2025-01-19,Facilis omnis consequuntur doloribus.
+413,1,186,Licenciamento,33780.0,2024-10-18,Eaque ex possimus itaque quae.
+414,2,107,Venda Produto,42278.74,2025-01-31,Quidem exercitationem porro ex ipsum.
+415,3,121,Licenciamento,61497.89,2024-07-23,Eius alias consequuntur maxime ad sunt natus.
+416,10,174,Serviço,96663.03,2025-01-16,Esse quaerat necessitatibus esse quae.
+417,10,147,Venda Produto,10219.5,2024-12-31,Culpa rem consectetur non similique.
+418,5,142,Licenciamento,89855.45,2024-07-22,Adipisci distinctio esse nesciunt ea.
+419,2,198,Consultoria,84487.65,2025-01-19,Quia voluptatum illo nulla cupiditate exercitationem culpa.
+420,2,138,Consultoria,14320.03,2025-03-11,Et fugiat sint laborum cumque minima cupiditate.
+421,5,143,Consultoria,52939.97,2025-03-28,Accusamus veniam exercitationem est dolore eius.
+422,4,179,Venda Produto,11820.92,2025-02-10,Officiis explicabo itaque totam.
+423,9,112,Consultoria,72683.34,2025-03-31,Saepe sapiente quos.
+424,10,191,Licenciamento,43278.31,2024-11-03,Qui facilis adipisci occaecati veritatis.
+425,6,134,Licenciamento,92783.43,2024-10-28,Earum vitae sed modi.
+426,10,173,Consultoria,52450.87,2024-05-14,Ipsum minima doloribus reiciendis.
+427,8,164,Serviço,88482.7,2024-06-23,Dolorem quaerat debitis voluptatem eaque.
+428,4,191,Licenciamento,97946.51,2024-07-30,Quia quasi totam temporibus.
+429,1,116,Venda Produto,47023.68,2024-06-04,Esse dignissimos doloribus quis labore atque sunt.
+430,2,195,Serviço,80156.87,2024-05-03,Ratione asperiores laboriosam ipsam labore aut.
+431,7,153,Venda Produto,34045.43,2024-11-28,Nisi error ab inventore temporibus.
+432,9,182,Serviço,2118.43,2025-01-18,Quod deserunt rem nostrum itaque a.
+433,4,189,Licenciamento,26187.33,2025-02-01,Nobis laudantium debitis magni maiores veritatis.
+434,2,140,Licenciamento,51162.27,2024-08-08,Sint dolorum eius natus est.
+435,6,199,Venda Produto,12269.84,2024-10-01,Voluptate veniam laborum eum.
+436,6,144,Consultoria,72715.27,2024-10-28,Libero debitis quis perferendis atque similique exercitationem.
+437,10,104,Serviço,20207.54,2025-01-05,Reprehenderit deserunt autem doloremque esse esse quisquam.
+438,6,187,Consultoria,91700.14,2024-10-14,Placeat unde distinctio perferendis.
+439,1,183,Serviço,48668.06,2024-08-17,Deleniti id cupiditate culpa.
+440,8,169,Licenciamento,46784.54,2024-12-27,Eveniet maiores labore nisi.
+441,7,196,Venda Produto,83675.47,2024-09-22,Dolorem ea vel rerum fuga.
+442,5,173,Licenciamento,55962.54,2024-08-10,Quas repudiandae et est natus quis.
+443,1,127,Licenciamento,80154.0,2024-04-16,Animi illum officia consequuntur itaque earum.
+444,6,109,Serviço,28765.54,2025-02-25,Dignissimos quaerat eos fuga eum.
+445,1,144,Consultoria,63024.57,2025-02-15,Eveniet nam dicta dolor magnam sequi.
+446,3,174,Consultoria,19550.51,2024-05-25,Doloribus eveniet laboriosam quam.
+447,2,197,Licenciamento,70821.35,2024-10-13,Quos harum vero.
+448,6,191,Venda Produto,27878.24,2025-01-13,Dolorum voluptates nesciunt animi animi exercitationem modi.
+449,2,164,Serviço,37786.77,2024-10-01,Beatae consequatur quibusdam eveniet quod.
+450,5,128,Licenciamento,18326.26,2024-09-21,Soluta nihil nemo natus.
+451,6,105,Serviço,91422.03,2024-10-01,Eveniet molestias optio nam repellendus.
+452,8,165,Venda Produto,80103.5,2025-01-06,Consequuntur quo sit.
+453,9,120,Serviço,34671.47,2025-01-10,Vero facere quo quibusdam dolor eum.
+454,8,194,Licenciamento,77777.79,2024-07-11,Facere dicta voluptas ea nobis ut consequuntur.
+455,3,199,Venda Produto,82391.71,2024-12-19,Incidunt rem reiciendis rerum animi voluptatibus.
+456,9,187,Serviço,21313.52,2024-09-06,Natus voluptatum vero.
+457,1,159,Consultoria,71654.06,2025-03-19,Ratione laudantium nemo odio quasi natus.
+458,9,115,Venda Produto,31787.15,2024-11-16,Minus reiciendis sed assumenda.
+459,1,188,Venda Produto,33995.69,2025-04-07,Nostrum voluptatibus quibusdam quisquam inventore eius iste.
+460,1,114,Licenciamento,3225.55,2025-03-21,Officiis asperiores officia excepturi.
+461,5,182,Serviço,32767.16,2024-11-04,Suscipit illo eos numquam harum ab.
+462,4,137,Licenciamento,53695.3,2024-08-17,Corrupti sequi nesciunt quisquam minus officiis.
+463,8,186,Venda Produto,27992.77,2024-06-30,Unde tempora quaerat nemo deleniti corporis est.
+464,3,136,Venda Produto,2510.42,2024-05-23,Modi velit aliquam.
+465,10,172,Venda Produto,21451.16,2024-06-02,Expedita architecto sit unde omnis dicta cum.
+466,6,171,Licenciamento,27834.16,2024-07-28,Vel dolor explicabo consequatur tempore.
+467,5,174,Serviço,17956.22,2024-10-01,Rerum fugiat ipsam quia.
+468,5,179,Licenciamento,54517.13,2025-01-26,Fugit ipsum id dignissimos fugit.
+469,1,117,Venda Produto,47602.82,2025-02-24,At cupiditate totam quam.
+470,1,114,Consultoria,6326.19,2024-05-31,Quidem blanditiis laudantium non.
+471,7,151,Serviço,70763.08,2025-01-30,Impedit distinctio at magni labore magni.
+472,10,181,Consultoria,62015.22,2024-10-08,Ab rem id.
+473,5,143,Serviço,71576.97,2025-03-13,Explicabo veniam saepe ipsa.
+474,9,111,Consultoria,57211.14,2025-03-09,Dolorem praesentium officiis repellat soluta.
+475,2,190,Consultoria,10629.04,2024-04-20,Quas tempore aliquid sed debitis.
+476,5,188,Consultoria,47584.04,2024-04-17,Maxime consequuntur iusto aliquam.
+477,4,119,Licenciamento,91373.3,2024-12-01,Sint optio fuga impedit culpa.
+478,7,124,Licenciamento,79089.09,2024-06-19,Vel vitae quia repellat.
+479,6,159,Consultoria,3996.15,2024-06-23,Soluta autem cum libero esse numquam.
+480,8,115,Licenciamento,48386.56,2025-04-02,Numquam adipisci ad adipisci iusto.
+481,3,137,Licenciamento,60839.58,2025-01-24,Totam aliquid fugiat nisi.
+482,3,166,Venda Produto,41162.91,2024-11-03,Culpa accusamus tempore at.
+483,2,142,Venda Produto,79450.66,2024-05-09,Voluptas iure impedit tempore.
+484,9,160,Consultoria,59463.06,2024-10-02,Sequi repellat a labore.
+485,4,180,Serviço,55246.95,2025-03-29,Consectetur omnis facilis nostrum quaerat.
+486,8,150,Venda Produto,34730.7,2024-10-16,Quibusdam sequi deserunt dolor consectetur velit dolorem.
+487,10,156,Consultoria,57153.91,2024-05-15,Quaerat eligendi nostrum dolorum.
+488,6,170,Serviço,18135.46,2024-07-20,Quas error quae iure.
+489,2,195,Consultoria,12317.96,2024-11-29,Maxime voluptates eaque tempore eveniet fugiat corporis.
+490,10,160,Licenciamento,55953.68,2025-01-24,Quibusdam reiciendis odio.
+491,8,123,Licenciamento,95632.46,2025-02-16,Voluptatem accusamus odio saepe dolores.
+492,2,177,Venda Produto,68865.36,2024-09-15,Accusamus laboriosam similique deleniti sit voluptas.
+493,10,199,Consultoria,33413.42,2024-09-18,Voluptatibus iste ea ipsam quia omnis maiores.
+494,1,112,Serviço,81886.33,2024-08-23,Voluptatum delectus exercitationem sit quo itaque.
+495,10,197,Venda Produto,75950.69,2024-05-21,Quis ea quos incidunt ad molestiae.
+496,3,158,Licenciamento,39608.28,2024-05-20,Voluptate rerum blanditiis quae commodi.
+497,10,158,Serviço,21360.51,2024-08-27,Iste mollitia vel vitae voluptas.
+498,6,139,Licenciamento,91931.66,2024-06-23,Reprehenderit suscipit magni consequuntur perspiciatis quod.
+499,7,192,Licenciamento,99038.64,2024-06-30,Minima quod natus minus aliquid modi.
+500,10,102,Consultoria,84916.04,2024-11-09,Possimus voluptatum cumque culpa perspiciatis.
+501,5,108,Licenciamento,90206.49,2024-12-16,Dolorem ut quaerat molestiae veritatis incidunt dicta aliquid.
+502,1,101,Licenciamento,11860.13,2024-09-16,Harum maxime in labore eum.
+503,5,104,Serviço,43739.83,2025-01-19,A dolorum nam est ullam.
+504,10,151,Licenciamento,71465.59,2024-12-08,Vero animi illum corporis reprehenderit quisquam rem veritatis.
+505,7,149,Consultoria,54966.76,2024-07-17,Ratione officia hic deserunt rerum architecto.
+506,3,161,Serviço,19634.46,2024-07-30,Tempora commodi qui velit.
+507,7,147,Consultoria,16272.46,2024-06-11,Ipsam perferendis quis ab blanditiis.
+508,3,118,Venda Produto,8102.85,2024-08-12,Aut occaecati iusto optio error commodi quia.
+509,1,119,Consultoria,66134.74,2024-10-07,Architecto voluptatem tenetur exercitationem.
+510,3,111,Serviço,64582.05,2024-07-28,Fugit tempora beatae.
+511,7,159,Consultoria,62701.6,2024-10-12,Nesciunt soluta porro recusandae quis dolore.
+512,8,166,Consultoria,55652.95,2024-05-24,Voluptatum nobis nobis facere.
+513,8,150,Licenciamento,23348.35,2025-03-17,Saepe vitae in odit sint eius quam.
+514,7,178,Venda Produto,58215.91,2024-07-30,Odit eveniet pariatur dolorum explicabo.
+515,4,192,Licenciamento,41672.94,2024-04-19,Quae laborum nesciunt dolore.
+516,9,174,Licenciamento,4312.73,2024-09-29,Aut quos provident natus saepe.
+517,1,173,Consultoria,70783.37,2024-09-06,Maxime unde fugit nobis nihil recusandae veritatis nemo.
+518,2,175,Consultoria,96212.04,2024-05-29,Facere perferendis temporibus in hic.
+519,2,119,Licenciamento,47028.7,2025-01-28,Expedita ratione sequi.
+520,2,167,Venda Produto,25277.9,2024-11-22,Alias id rem quia inventore tenetur dolor.
+521,2,188,Licenciamento,61690.87,2024-06-23,Occaecati eveniet eos.
+522,6,169,Venda Produto,47418.01,2024-09-21,Quas sed ducimus.
+523,9,161,Licenciamento,42680.59,2025-02-25,Explicabo vitae eius quos eveniet praesentium.
+524,5,138,Serviço,4497.3,2024-12-16,Quisquam cum nam sint officia.
+525,10,196,Licenciamento,72970.2,2025-01-26,Quidem quos cupiditate libero at explicabo.
+526,10,134,Venda Produto,63300.71,2024-11-09,Et esse totam at illo.
+527,10,122,Venda Produto,65975.67,2024-12-11,Odit quidem dicta sequi laborum excepturi ipsa.
+528,5,195,Venda Produto,29394.75,2024-09-01,Vero eum beatae neque.
+529,2,117,Venda Produto,85293.08,2025-04-01,Praesentium natus quidem modi id possimus dicta.
+530,5,133,Serviço,61963.98,2024-05-19,Totam optio sequi corporis excepturi explicabo consequatur harum.
+531,5,133,Venda Produto,74401.49,2025-03-08,Nostrum voluptas eum dolore repudiandae.
+532,10,123,Serviço,66256.41,2024-07-18,Culpa voluptatibus ad dolore possimus dolor soluta.
+533,6,123,Licenciamento,78470.24,2024-10-02,Corporis error vitae similique laboriosam.
+534,4,163,Serviço,80137.83,2024-10-01,Nam voluptatum deleniti delectus maxime id.
+535,1,144,Venda Produto,96767.22,2024-11-23,Quia provident voluptatem rem ea fuga.
+536,10,120,Consultoria,75523.37,2025-03-29,Eum explicabo vero consequatur similique.
+537,7,199,Consultoria,24556.8,2025-01-11,Recusandae neque atque totam voluptates.
+538,8,193,Serviço,21874.82,2025-01-14,Modi autem repudiandae dolorem expedita praesentium voluptate.
+539,6,107,Licenciamento,75792.91,2025-02-26,Iure nemo amet nulla libero.
+540,2,107,Serviço,46937.48,2024-09-30,Veritatis cupiditate nam nam.
+541,8,139,Consultoria,74868.9,2024-05-06,Labore provident aperiam explicabo veritatis eius.
+542,9,130,Consultoria,68667.49,2024-07-20,Quae laudantium provident.
+543,7,161,Licenciamento,15369.83,2024-06-04,Dolor iste modi perferendis ex necessitatibus.
+544,7,102,Licenciamento,92795.03,2025-03-20,Veniam corporis molestiae placeat et ab non.
+545,8,149,Licenciamento,96214.51,2025-01-15,Nesciunt quo architecto aperiam impedit cum.
+546,1,113,Licenciamento,95662.18,2024-06-28,Voluptatem quo voluptatibus saepe adipisci.
+547,7,179,Licenciamento,34161.77,2025-04-09,Quas ex atque illo praesentium placeat rem.
+548,5,113,Licenciamento,65779.98,2024-09-09,Consequuntur exercitationem atque explicabo provident soluta libero.
+549,7,160,Serviço,73697.03,2024-06-24,Illo dolorem voluptates odio excepturi.
+550,10,199,Serviço,52475.28,2025-01-30,Minima accusantium non voluptatem.
+551,3,141,Venda Produto,67607.38,2024-05-06,Atque a voluptates accusamus eveniet esse.
+552,2,102,Consultoria,10672.18,2025-02-18,Natus similique veritatis deleniti nulla delectus dolor.
+553,2,188,Consultoria,35800.13,2024-08-26,Sit totam nobis nemo.
+554,5,133,Serviço,4370.13,2025-03-26,Provident sunt debitis corrupti reprehenderit adipisci.
+555,10,112,Venda Produto,93912.04,2024-04-29,Suscipit recusandae blanditiis vel vel autem placeat.
+556,4,177,Venda Produto,71099.44,2024-11-29,Cumque aut deserunt culpa nostrum excepturi iste.
+557,2,112,Serviço,38219.89,2024-12-25,Rerum quos velit pariatur aperiam doloribus consequuntur.
+558,10,124,Venda Produto,69869.71,2025-02-25,Deleniti illo facere totam ullam repellat tenetur.
+559,5,138,Consultoria,66387.31,2025-01-13,Atque maxime optio eum minima nemo minus hic.
+560,2,182,Consultoria,92346.84,2024-11-12,Eligendi consequatur quis eos numquam.
+561,5,199,Consultoria,69529.93,2024-09-17,Fugiat laudantium laudantium eum laborum harum.
+562,6,133,Serviço,78292.4,2024-10-24,Quo praesentium minus aliquam veniam.
+563,5,200,Venda Produto,38897.1,2024-08-11,Quibusdam necessitatibus cupiditate et aliquid adipisci vitae harum.
+564,6,108,Licenciamento,95604.96,2024-08-28,Amet repudiandae soluta qui minima debitis fuga.
+565,5,123,Consultoria,7870.45,2025-01-10,Tenetur atque veniam.
+566,4,179,Consultoria,18665.77,2025-03-26,Quae asperiores dignissimos dignissimos odit.
+567,8,114,Serviço,54522.58,2024-04-20,Ullam dignissimos porro.
+568,7,128,Venda Produto,91348.31,2025-04-07,A dolores repellendus rerum voluptates.
+569,5,114,Venda Produto,8219.03,2024-09-12,Fuga saepe aliquid consequuntur doloribus.
+570,10,194,Licenciamento,77946.48,2024-12-29,Sunt in necessitatibus sint numquam.
+571,1,164,Serviço,65633.67,2024-07-02,Illum ab reprehenderit fugiat sapiente.
+572,1,105,Consultoria,27377.21,2024-06-26,Ducimus ab possimus aliquam quisquam consectetur porro.
+573,6,151,Venda Produto,52022.92,2024-05-11,Beatae temporibus laborum delectus.
+574,8,162,Consultoria,40987.36,2024-08-19,Velit ducimus perspiciatis ut.
+575,2,170,Serviço,1327.43,2024-09-15,Modi eligendi necessitatibus autem blanditiis.
+576,8,116,Licenciamento,34010.53,2025-02-27,Veniam mollitia libero consectetur voluptatum.
+577,5,152,Venda Produto,63594.98,2024-10-13,Autem dolorem rerum delectus quis rem dolores.
+578,2,147,Licenciamento,8965.22,2024-12-08,Ipsa consequuntur nisi aliquam ut quisquam.
+579,8,198,Licenciamento,65131.46,2024-06-26,Quam aliquam accusamus corrupti similique.
+580,3,171,Venda Produto,96783.78,2024-07-20,Expedita dicta officia hic.
+581,4,139,Consultoria,89749.61,2024-06-12,Magni dolore occaecati excepturi quam.
+582,6,163,Venda Produto,88636.2,2024-04-23,Architecto doloribus minus nam corporis vitae.
+583,8,195,Serviço,14854.35,2024-05-06,Placeat illum modi nulla.
+584,4,104,Serviço,49434.02,2024-06-18,Fuga corporis aut doloremque fugit natus.
+585,2,170,Licenciamento,50468.73,2025-02-24,Quisquam blanditiis dolore occaecati natus asperiores.
+586,8,103,Venda Produto,34589.23,2024-12-21,Vel officia eligendi nulla ipsum quibusdam placeat.
+587,6,193,Venda Produto,41145.28,2024-12-07,Exercitationem voluptates iste ullam corrupti.
+588,4,184,Consultoria,94068.89,2024-11-08,Dolore enim quasi vitae harum ducimus.
+589,9,120,Serviço,92556.77,2024-06-15,Qui inventore error aliquam illum sunt.
+590,1,195,Serviço,49400.58,2025-03-10,Voluptates commodi occaecati dignissimos illo.
+591,1,161,Venda Produto,25025.57,2025-03-23,Itaque iste veritatis iure excepturi pariatur.
+592,3,102,Serviço,63633.48,2024-06-04,Dignissimos dolor deleniti deserunt sit omnis nulla.
+593,5,113,Consultoria,61511.36,2025-03-29,Molestias quisquam illum officia distinctio consequuntur autem.
+594,10,109,Venda Produto,12303.79,2024-12-23,Error rerum quo numquam amet dolor mollitia.
+595,10,179,Serviço,7247.9,2024-06-13,Vel inventore velit ad dignissimos necessitatibus.
+596,4,155,Licenciamento,81340.58,2024-06-19,Voluptates perspiciatis quo odit nemo.
+597,7,142,Venda Produto,97609.47,2025-02-19,Corrupti et doloribus qui quis.
+598,10,170,Serviço,32837.4,2024-10-20,Nostrum quis minus occaecati alias atque.
+599,4,198,Venda Produto,59715.44,2024-05-09,Accusantium ullam sit ex.
+600,6,109,Venda Produto,28115.44,2024-05-18,Ut explicabo quia vero esse architecto.
+601,7,122,Licenciamento,55787.37,2024-12-12,Nesciunt repudiandae labore provident enim aut.
+602,8,132,Venda Produto,14203.72,2024-11-18,Tempore corrupti impedit minus.
+603,10,149,Serviço,2547.4,2024-12-10,Culpa mollitia iusto voluptatem porro temporibus.
+604,8,111,Venda Produto,1715.18,2024-05-28,Tenetur atque aliquam sunt.
+605,2,191,Licenciamento,42206.0,2024-10-14,Labore quisquam nesciunt voluptates facere ipsam.
+606,8,189,Serviço,21409.86,2024-11-22,Ipsum accusantium laudantium perferendis.
+607,5,167,Consultoria,41791.1,2024-08-25,Voluptates suscipit architecto consequatur error hic.
+608,3,179,Venda Produto,60030.93,2024-06-11,Voluptatibus ratione pariatur vitae.
+609,8,179,Venda Produto,63091.97,2024-08-16,Quae veniam assumenda nobis reiciendis.
+610,5,145,Consultoria,1452.43,2024-04-20,Tempora in cumque sed deleniti eligendi maxime totam.
+611,4,125,Venda Produto,98673.75,2024-10-21,Temporibus amet dolores esse ipsum inventore.
+612,2,180,Licenciamento,86410.37,2024-04-29,Quibusdam quis itaque aspernatur mollitia.
+613,9,165,Serviço,46957.38,2024-06-03,Ab nemo esse dicta iusto harum possimus earum.
+614,4,136,Venda Produto,20178.18,2024-09-06,Facilis maiores voluptatibus incidunt provident consequatur.
+615,3,188,Consultoria,50253.97,2024-08-26,Mollitia laborum eaque totam ullam.
+616,3,186,Venda Produto,6348.73,2024-05-16,Similique tempore ad consectetur quis doloribus.
+617,6,137,Serviço,44032.49,2024-06-21,Aperiam nemo dolores assumenda asperiores quam.
+618,6,179,Consultoria,5288.43,2025-01-25,Sit nulla culpa numquam sit itaque.
+619,1,169,Serviço,16646.52,2025-03-19,Ratione autem commodi provident dicta quia.
+620,1,163,Venda Produto,8015.09,2024-05-15,At veritatis a recusandae.
+621,4,193,Consultoria,59677.96,2024-07-13,Amet aspernatur eum minus labore.
+622,6,154,Serviço,74961.59,2024-06-29,Non delectus enim perspiciatis sint aperiam delectus.
+623,6,130,Venda Produto,33287.09,2024-04-16,Debitis deserunt corporis molestiae.
+624,2,131,Consultoria,87118.74,2024-06-26,Praesentium asperiores deleniti eum.
+625,7,129,Venda Produto,47628.04,2024-07-11,Hic saepe error impedit.
+626,8,107,Consultoria,15349.19,2024-12-18,Dolor dolorum exercitationem dolores ab.
+627,10,159,Serviço,39345.7,2025-03-25,Eligendi cum aperiam laudantium temporibus.
+628,3,159,Serviço,63570.09,2024-05-07,Quidem inventore perferendis tempore ipsum voluptate perferendis et.
+629,5,126,Licenciamento,13593.96,2025-02-07,Praesentium non vero necessitatibus quas eum.
+630,10,108,Licenciamento,14513.65,2024-08-31,Fuga error laudantium molestias quia dolorem cupiditate.
+631,8,159,Consultoria,17948.93,2025-01-07,Illum sunt eveniet recusandae veniam illo.
+632,6,129,Licenciamento,60759.96,2025-03-17,Iste consequuntur quibusdam in ad consequuntur et.
+633,10,122,Serviço,9560.96,2025-03-17,Corrupti facilis ipsa repellendus temporibus corrupti veniam dolor.
+634,9,163,Serviço,59566.51,2024-04-20,Iusto earum deserunt libero culpa rerum.
+635,8,136,Venda Produto,73271.76,2025-03-11,Eius deleniti non libero ipsa sed laborum.
+636,4,132,Licenciamento,43990.62,2024-12-28,Explicabo autem veritatis provident.
+637,4,176,Serviço,91461.72,2024-12-06,Consequuntur maxime laudantium dolor laudantium.
+638,1,154,Venda Produto,4965.81,2024-08-11,Culpa occaecati placeat inventore commodi consectetur eligendi quam.
+639,8,194,Venda Produto,43144.07,2025-02-21,Fuga voluptas aperiam ipsum.
+640,7,162,Venda Produto,45791.7,2024-09-22,Distinctio eveniet doloremque sit est.
+641,4,111,Venda Produto,69622.82,2025-04-04,Ratione nam neque ex deserunt consectetur eum.
+642,7,128,Serviço,36482.16,2024-12-15,Voluptas dolorem nihil dolores reprehenderit laborum iusto.
+643,4,183,Venda Produto,2577.09,2024-04-21,Magni atque quibusdam numquam aspernatur laudantium.
+644,5,121,Consultoria,85934.29,2024-12-04,Architecto harum deserunt quo quae.
+645,10,104,Consultoria,46912.3,2024-09-02,Labore dolore a explicabo.
+646,3,191,Consultoria,19309.63,2024-12-11,Natus quos vero laborum et sunt dicta.
+647,6,181,Consultoria,70686.3,2025-02-22,Vero nisi blanditiis quasi quasi.
+648,1,181,Venda Produto,39103.05,2024-06-28,Reiciendis eligendi ratione in repellendus ab ea.
+649,6,168,Venda Produto,30362.41,2024-06-08,Ad officiis quis aspernatur iure.
+650,5,190,Serviço,78981.49,2025-04-02,Ipsum fugit culpa ipsam.
+651,2,180,Licenciamento,73840.32,2024-08-13,Vel iste deserunt non.
+652,1,166,Licenciamento,88909.81,2024-08-02,Nesciunt eum accusantium amet.
+653,2,150,Licenciamento,47069.93,2024-08-18,Labore consequuntur rerum fugiat ad ipsa eum.
+654,1,147,Licenciamento,18351.47,2024-06-22,Nostrum quis officia eum quidem aliquam.
+655,9,191,Venda Produto,56515.06,2024-10-29,Quam quae libero unde.
+656,4,118,Licenciamento,24624.64,2024-06-07,Aut cum quae at.
+657,2,184,Consultoria,74000.63,2024-08-31,Excepturi impedit quibusdam laudantium molestias minima.
+658,10,190,Serviço,75564.18,2024-12-19,Possimus molestias at dignissimos culpa quis.
+659,4,142,Licenciamento,89895.37,2025-03-17,Dolorem animi placeat ad officia.
+660,9,188,Consultoria,28437.39,2025-01-09,Laboriosam aliquam quis veniam veritatis.
+661,2,148,Licenciamento,45788.65,2024-06-06,Eum harum odio id magni enim ad.
+662,9,168,Venda Produto,47546.22,2025-01-16,Mollitia aliquam nihil distinctio nesciunt ab.
+663,9,187,Licenciamento,45745.86,2025-01-11,Neque facilis tempore cum.
+664,6,187,Venda Produto,19647.0,2024-07-05,Modi totam quia eligendi.
+665,8,112,Venda Produto,39677.57,2024-11-16,Magni cum dicta non ex eveniet.
+666,3,137,Venda Produto,11827.13,2024-07-24,Blanditiis eligendi adipisci nobis officiis maiores.
+667,5,115,Serviço,50136.54,2024-09-18,Delectus aliquam rem quia soluta.
+668,4,167,Venda Produto,30023.77,2024-06-30,Quasi error porro dolor nihil esse iure.
+669,9,117,Consultoria,35323.32,2024-12-21,Dolorem tempora sapiente dolor ad accusamus repudiandae similique.
+670,8,195,Venda Produto,29860.16,2024-07-03,Veniam harum eveniet voluptates nobis cumque laudantium.
+671,2,103,Serviço,83659.8,2024-11-17,Eligendi voluptates similique dolorum nulla sunt sequi nulla.
+672,9,183,Licenciamento,41757.48,2025-03-12,Veniam ut esse.
+673,6,184,Licenciamento,49128.69,2024-09-09,Vero atque facilis officia voluptas quia fuga.
+674,9,171,Consultoria,46342.7,2024-07-31,Officiis error alias blanditiis consequuntur itaque.
+675,10,117,Licenciamento,18001.98,2025-04-11,Blanditiis odio veritatis recusandae sunt.
+676,5,130,Consultoria,37818.33,2025-04-10,Cupiditate beatae quam iste suscipit possimus earum.
+677,5,199,Venda Produto,15685.5,2024-04-22,Laboriosam quasi corrupti aperiam perspiciatis adipisci libero.
+678,5,159,Serviço,62244.39,2025-03-02,Impedit voluptate nemo aliquid aperiam quo eligendi.
+679,3,192,Licenciamento,19045.77,2024-08-01,Dicta eaque perferendis vitae deleniti porro repellat.
+680,3,191,Serviço,16964.22,2024-12-22,Sit saepe ipsa.
+681,2,106,Licenciamento,57877.99,2025-01-11,Recusandae quaerat quia enim at facilis reprehenderit.
+682,8,134,Licenciamento,19265.16,2024-11-11,Fuga temporibus quas molestiae.
+683,9,191,Venda Produto,66889.77,2024-08-16,Illum neque fuga voluptatem quisquam corporis.
+684,6,119,Licenciamento,45394.48,2024-12-31,Perferendis illum vero assumenda ducimus consequuntur unde.
+685,3,169,Licenciamento,13027.51,2024-12-20,Iste molestiae perspiciatis suscipit exercitationem ullam voluptatem.
+686,1,152,Consultoria,77083.3,2024-06-09,Exercitationem odio quia sed nemo voluptate recusandae repudiandae.
+687,8,141,Serviço,1425.14,2024-09-14,Reprehenderit sunt voluptatibus molestias.
+688,9,165,Licenciamento,65077.15,2024-11-01,Nemo ducimus mollitia velit.
+689,5,161,Licenciamento,96990.95,2025-01-26,Placeat ratione laudantium eveniet saepe.
+690,10,186,Serviço,80158.04,2024-09-05,Vel minima reprehenderit dolor expedita illum quibusdam.
+691,8,144,Venda Produto,73432.41,2024-05-25,Odit iste rerum tempora deleniti.
+692,1,118,Venda Produto,31500.14,2024-04-14,Reiciendis libero totam possimus esse quidem esse.
+693,7,180,Serviço,45151.3,2024-07-04,Odit veritatis deleniti accusamus eos dignissimos repudiandae.
+694,2,142,Venda Produto,61206.97,2025-01-03,Architecto iste blanditiis velit.
+695,4,175,Serviço,78347.05,2024-12-26,Ab nisi exercitationem fugiat esse nulla.
+696,5,126,Venda Produto,9275.37,2025-04-06,Odio nihil perspiciatis voluptate libero expedita ducimus.
+697,8,187,Venda Produto,97608.11,2024-10-14,Quidem quo in nesciunt sunt veniam.
+698,7,125,Consultoria,32458.02,2025-01-04,Voluptatum fugit vitae quis assumenda dolorum at.
+699,10,166,Venda Produto,90936.25,2024-07-18,Ullam iste quibusdam dolores voluptates alias est quod.
+700,6,151,Serviço,71880.41,2025-03-11,Dolor illum ab consectetur sint quos vel.
+701,7,148,Consultoria,37910.28,2024-10-03,Magnam iure possimus harum.
+702,5,145,Licenciamento,31500.45,2025-04-08,Officiis aliquid nesciunt praesentium laudantium temporibus eos.
+703,8,172,Venda Produto,22353.82,2024-06-16,Enim ex autem.
+704,8,195,Consultoria,80564.86,2024-06-13,Dicta laborum ab quod.
+705,5,121,Consultoria,73131.95,2025-02-21,Quo aliquam delectus excepturi.
+706,7,118,Venda Produto,15220.29,2025-01-04,Sapiente dolorem ipsam praesentium tenetur aut consequuntur qui.
+707,5,161,Licenciamento,7545.46,2024-12-05,Ad libero recusandae inventore provident tempore fuga.
+708,10,197,Consultoria,9756.38,2024-11-11,In alias ipsa praesentium.
+709,7,182,Licenciamento,42036.89,2024-05-09,Assumenda soluta optio labore.
+710,9,160,Serviço,20726.5,2024-10-27,Tenetur soluta commodi cum necessitatibus.
+711,7,138,Consultoria,5181.06,2024-12-28,Ipsum voluptatum fuga ea architecto.
+712,5,175,Licenciamento,49915.95,2025-02-14,Neque blanditiis aliquam dicta.
+713,8,129,Venda Produto,79330.74,2024-08-08,Quia hic fuga magni.
+714,3,134,Licenciamento,95646.63,2024-04-18,Minima eaque minus esse.
+715,8,116,Licenciamento,42298.52,2025-02-23,Eum doloribus laboriosam distinctio.
+716,8,189,Serviço,3815.82,2024-12-27,Laboriosam distinctio cupiditate mollitia occaecati similique architecto.
+717,5,164,Venda Produto,60290.24,2024-12-29,Similique corporis quis labore.
+718,6,175,Consultoria,56991.88,2024-05-12,Cum occaecati impedit numquam vel repudiandae illo.
+719,5,181,Consultoria,97451.62,2025-01-31,Aliquam eum hic deserunt quas fugiat.
+720,2,148,Venda Produto,84682.73,2024-10-05,Saepe dolore tenetur laboriosam veniam magni illo sit.
+721,3,175,Venda Produto,15467.57,2024-12-16,Dolores maxime libero asperiores.
+722,8,189,Serviço,36381.16,2024-12-02,Impedit natus provident.
+723,1,135,Licenciamento,42531.89,2025-02-09,Quo aliquam eius eligendi.
+724,6,107,Licenciamento,29874.75,2024-12-22,Esse modi eveniet est veniam maiores.
+725,2,166,Serviço,76877.8,2024-09-10,Possimus unde non optio nemo iusto at laudantium.
+726,3,198,Venda Produto,60277.49,2024-08-24,Maxime occaecati dolorum eaque earum enim maiores.
+727,3,170,Licenciamento,87371.87,2024-08-13,Tenetur necessitatibus expedita esse repudiandae maxime.
+728,5,135,Licenciamento,10487.51,2024-09-20,Eaque incidunt omnis quisquam tempora.
+729,10,146,Serviço,2276.87,2024-06-07,Deleniti placeat quae mollitia dignissimos.
+730,9,137,Licenciamento,78101.98,2024-10-10,Maxime blanditiis quam eos doloribus nisi odio excepturi.
+731,7,144,Serviço,11139.37,2025-03-24,Fugiat hic quaerat ut itaque exercitationem ducimus.
+732,3,165,Serviço,83325.78,2024-05-11,Commodi fugiat mollitia hic architecto.
+733,9,179,Venda Produto,42317.28,2025-02-23,Unde iste voluptatibus nesciunt eius.
+734,2,115,Serviço,92417.57,2024-11-20,Dicta amet incidunt voluptatem nisi labore.
+735,8,145,Licenciamento,69414.02,2024-09-11,Blanditiis debitis facere reiciendis amet sed.
+736,3,157,Licenciamento,18048.51,2024-07-30,Molestias eaque quos unde.
+737,5,104,Venda Produto,23013.43,2025-01-05,Dignissimos tempora necessitatibus ab excepturi numquam.
+738,3,189,Serviço,31435.4,2024-07-30,Inventore dolorem nulla necessitatibus eaque.
+739,4,117,Venda Produto,43055.7,2024-11-14,Sapiente corrupti mollitia et dolore rem.
+740,2,110,Venda Produto,77694.54,2025-02-28,Dicta nulla veritatis at qui voluptatem.
+741,7,106,Serviço,11673.92,2024-07-27,Commodi doloribus illo doloribus non tempora ullam.
+742,9,176,Venda Produto,47439.15,2024-07-31,A perferendis ipsa similique.
+743,5,106,Venda Produto,30862.93,2025-03-09,Ipsum doloremque sed illum ipsam corrupti.
+744,1,197,Venda Produto,78454.71,2025-03-24,Sed quibusdam ad quisquam dignissimos perferendis.
+745,10,127,Serviço,19293.4,2024-09-30,Exercitationem accusantium magni harum ipsam dignissimos corporis.
+746,6,104,Venda Produto,15410.14,2024-05-14,Saepe placeat cumque illo dolor explicabo earum quaerat.
+747,5,175,Licenciamento,35868.12,2025-03-28,Fugit soluta vero placeat natus.
+748,9,200,Serviço,50986.01,2024-12-20,Iste reiciendis harum exercitationem.
+749,2,113,Venda Produto,53355.04,2024-09-08,Laudantium quam tenetur.
+750,4,137,Serviço,90264.37,2024-05-18,Ducimus dolorem facilis voluptatum laboriosam cumque.
+751,9,101,Venda Produto,92498.98,2025-03-11,Officia nobis repellat sapiente voluptatem facilis quis at.
+752,9,191,Consultoria,37279.84,2025-04-04,At possimus amet aspernatur.
+753,10,124,Consultoria,67679.04,2025-04-10,Iste eos similique eius totam.
+754,2,124,Licenciamento,98148.81,2024-07-11,Est maxime doloremque at amet omnis.
+755,7,128,Serviço,41350.22,2025-02-12,Enim iusto incidunt cumque.
+756,6,116,Consultoria,11921.3,2024-04-20,Nobis aspernatur quo eaque quos.
+757,3,164,Licenciamento,70768.36,2024-11-07,Quod mollitia fuga debitis.
+758,9,193,Venda Produto,9142.55,2024-11-07,Doloribus ab sequi quisquam.
+759,8,115,Consultoria,29077.53,2024-10-30,Magnam tempora hic.
+760,10,195,Licenciamento,69017.61,2024-06-17,Iusto sed doloribus.
+761,8,129,Consultoria,29768.34,2024-12-06,Nemo eius doloribus cupiditate autem dolorum.
+762,7,125,Venda Produto,89580.71,2024-12-18,Quidem architecto fugiat a itaque reiciendis perspiciatis hic.
+763,8,187,Licenciamento,18750.43,2024-11-10,Suscipit iure officia maxime ratione neque.
+764,8,187,Venda Produto,40240.61,2025-03-05,Quibusdam minima illum magnam libero rem.
+765,9,185,Venda Produto,12802.57,2024-07-03,Nobis facilis error non.
+766,7,152,Venda Produto,74401.78,2024-09-21,Fugiat fuga et dicta accusamus ipsa.
+767,3,109,Licenciamento,97545.54,2024-12-17,Ipsum nihil quis consequuntur.
+768,6,126,Consultoria,13153.45,2025-02-16,Id consequuntur tempore temporibus ducimus.
+769,7,193,Consultoria,28573.31,2024-09-16,Quae fuga dignissimos consectetur vero doloribus corporis.
+770,10,176,Licenciamento,75873.99,2024-12-18,Eos amet iure harum.
+771,7,146,Consultoria,67001.02,2024-12-23,Aspernatur eos reprehenderit mollitia aliquam voluptatem.
+772,7,163,Licenciamento,15590.04,2025-03-09,Architecto ex est magni accusamus aut quia.
+773,8,114,Venda Produto,25818.3,2024-11-18,Animi magni occaecati fuga ipsum.
+774,8,130,Serviço,3942.63,2024-08-21,Itaque numquam eligendi amet maxime commodi ipsa laborum.
+775,1,109,Consultoria,68132.64,2025-02-04,Alias quod quas necessitatibus architecto voluptas ut.
+776,3,149,Licenciamento,16120.93,2024-09-07,Optio ipsam quam eaque consequuntur totam.
+777,10,180,Venda Produto,76256.97,2024-05-20,Fugit hic aliquam esse veritatis deserunt necessitatibus in.
+778,9,199,Consultoria,79480.41,2025-02-28,Incidunt necessitatibus voluptatibus distinctio.
+779,4,138,Consultoria,49534.79,2024-05-09,Similique eaque laboriosam architecto.
+780,5,170,Licenciamento,81138.68,2024-10-12,Unde laudantium aspernatur itaque.
+781,9,170,Venda Produto,95305.47,2025-03-29,Nulla voluptatem sed veritatis ducimus nam.
+782,1,156,Venda Produto,38979.36,2025-03-25,Occaecati eveniet culpa placeat quaerat maxime.
+783,6,149,Consultoria,46505.97,2024-07-31,Quod doloribus repellendus inventore earum velit error voluptate.
+784,1,123,Licenciamento,88585.32,2024-09-18,Veritatis error sint.
+785,3,163,Consultoria,14314.34,2024-05-25,Nam sapiente dolor vero.
+786,7,163,Venda Produto,57316.67,2024-10-11,Unde possimus magni impedit.
+787,8,185,Consultoria,48115.19,2024-09-16,Necessitatibus error doloribus numquam veniam optio.
+788,3,165,Venda Produto,39747.1,2025-02-08,Unde animi illo inventore impedit voluptatem.
+789,8,176,Consultoria,62077.03,2024-08-21,Blanditiis doloremque soluta laudantium vero nihil.
+790,6,199,Licenciamento,32727.8,2024-09-18,Sed enim nostrum cumque culpa eveniet.
+791,1,176,Venda Produto,13691.61,2024-09-07,Aut aspernatur qui corrupti.
+792,6,145,Venda Produto,76754.21,2024-09-27,Tempore vel recusandae possimus corrupti amet iusto.
+793,6,149,Venda Produto,43386.67,2024-04-26,Eos sapiente perspiciatis ullam.
+794,6,153,Licenciamento,6588.48,2025-01-10,Pariatur assumenda cumque est aut voluptatum.
+795,4,132,Serviço,65160.2,2024-05-15,Nostrum reprehenderit deleniti.
+796,10,111,Venda Produto,87025.06,2024-06-18,Repudiandae laudantium eaque eos saepe asperiores.
+797,2,144,Serviço,2951.49,2024-12-07,Consequuntur iure sequi culpa quod.
+798,6,105,Consultoria,66119.01,2024-10-30,Libero dolore eligendi hic.
+799,7,173,Consultoria,27395.27,2024-08-23,Possimus repellat facere magni.
+800,8,176,Venda Produto,98590.71,2024-08-06,In ut recusandae sed pariatur distinctio.
+801,7,174,Consultoria,32919.72,2024-10-10,Praesentium alias animi soluta.
+802,2,163,Venda Produto,69395.53,2024-06-10,Voluptatum commodi quam eligendi.
+803,4,144,Consultoria,50774.08,2024-08-21,Neque quaerat ipsa commodi officia velit.
+804,6,122,Licenciamento,36970.1,2024-11-14,Esse quae tempora omnis facilis hic exercitationem aliquid.
+805,7,126,Consultoria,63908.98,2025-03-06,Harum repellat iure vitae quos.
+806,2,169,Serviço,29448.2,2025-03-14,Ipsum repellendus quia provident omnis vero.
+807,1,139,Consultoria,80655.7,2025-01-30,Sit delectus sit cum dolorum at soluta.
+808,10,196,Venda Produto,72052.98,2024-08-21,Aliquam consequuntur maiores libero.
+809,10,113,Licenciamento,28063.13,2024-07-30,Quam in quo occaecati quae.
+810,10,168,Consultoria,43283.48,2025-02-18,Fuga a laboriosam repudiandae magnam distinctio ex omnis.
+811,6,110,Licenciamento,50959.31,2025-01-25,Earum hic minus nihil unde deserunt quo.
+812,5,156,Licenciamento,20807.62,2025-01-22,Iste quaerat molestias.
+813,7,133,Consultoria,67484.46,2024-11-09,Aliquid ex illum occaecati recusandae labore soluta.
+814,9,124,Venda Produto,63156.55,2025-04-09,Totam non doloremque et nihil ipsum error.
+815,9,124,Consultoria,22082.33,2024-12-23,Repellendus pariatur neque.
+816,8,135,Consultoria,93528.96,2024-09-14,A dolorem dolore reprehenderit dolores.
+817,1,167,Serviço,37063.19,2024-04-14,Aliquid asperiores rem modi tempore velit.
+818,3,131,Serviço,74896.92,2024-04-20,Sit quasi quisquam ratione quisquam optio libero.
+819,5,156,Consultoria,32546.66,2024-11-25,Modi mollitia quod sequi unde.
+820,2,182,Serviço,84750.73,2024-09-12,Quas debitis omnis accusamus inventore eveniet doloribus.
+821,5,137,Serviço,26388.22,2024-10-17,Aut ut quasi.
+822,10,131,Consultoria,24609.86,2024-06-18,Perferendis impedit temporibus dignissimos cum.
+823,3,125,Venda Produto,25313.07,2024-05-21,Est molestiae molestias architecto voluptatem.
+824,5,160,Consultoria,56422.68,2025-03-19,Sequi a dolores quod.
+825,7,155,Venda Produto,20997.06,2025-02-16,Vitae beatae iste commodi quisquam.
+826,5,118,Venda Produto,26581.29,2025-02-10,Iure commodi pariatur eius assumenda ratione explicabo.
+827,5,185,Serviço,64785.09,2024-09-11,Molestias dolorum accusantium totam rem.
+828,1,193,Consultoria,78441.14,2025-02-16,Voluptatibus cum exercitationem minima.
+829,1,111,Licenciamento,60558.37,2025-01-06,Deserunt voluptatibus quidem expedita excepturi harum quidem.
+830,2,153,Licenciamento,67495.54,2024-05-24,Quod illo cumque numquam laboriosam nesciunt possimus.
+831,2,151,Serviço,24368.07,2025-01-28,Rerum ut quos nam itaque.
+832,10,195,Venda Produto,52673.8,2024-08-17,Dicta aliquam iste a explicabo voluptates.
+833,10,200,Licenciamento,50148.66,2025-04-11,Officiis impedit saepe voluptas similique assumenda.
+834,2,131,Venda Produto,77545.9,2025-03-07,Nisi natus blanditiis consequatur.
+835,6,143,Consultoria,80778.32,2024-10-22,Voluptatum quas exercitationem numquam adipisci saepe et.
+836,4,155,Serviço,15283.51,2024-08-13,Reprehenderit eos similique amet error vitae consequatur.
+837,3,128,Licenciamento,44508.07,2024-07-23,Voluptatum eligendi sed voluptatem voluptate facilis.
+838,5,176,Venda Produto,49545.5,2024-10-24,Qui illum ad eligendi delectus.
+839,6,190,Venda Produto,32332.5,2024-05-20,Ut nobis sed facere.
+840,7,161,Serviço,96368.22,2024-05-20,Quisquam et commodi nemo neque.
+841,3,147,Consultoria,71851.45,2024-05-14,Aliquid est quis quidem totam.
+842,5,103,Venda Produto,84305.82,2024-05-14,Vel sit molestias temporibus omnis aut illo.
+843,1,189,Serviço,26045.31,2025-04-10,Est soluta at.
+844,7,140,Licenciamento,90412.55,2024-08-21,Qui consequatur atque velit a.
+845,2,169,Serviço,85907.07,2025-03-26,Aliquam repellat illo autem culpa velit tempora.
+846,7,102,Consultoria,92823.23,2024-07-19,Ex delectus ullam praesentium.
+847,5,139,Venda Produto,93695.92,2024-05-24,Repellat iusto quas consectetur qui reprehenderit placeat dolores.
+848,4,139,Serviço,86082.26,2024-09-19,Placeat soluta nemo.
+849,3,157,Licenciamento,88067.26,2025-01-22,Laudantium dolores inventore nostrum harum.
+850,7,105,Licenciamento,86778.01,2025-02-28,Eos consequatur voluptate illum neque earum nulla.
+851,8,161,Consultoria,92723.22,2025-03-25,Provident ducimus non a.
+852,6,192,Consultoria,87799.36,2024-05-28,Nihil quia porro nemo repellendus neque.
+853,2,121,Licenciamento,51127.12,2024-12-30,Consequatur aliquam voluptatum quia quasi.
+854,6,154,Licenciamento,45872.91,2025-01-04,Consequatur dolor vero nemo officiis quaerat.
+855,1,198,Venda Produto,64495.91,2025-03-02,Impedit exercitationem ipsum.
+856,3,181,Consultoria,79310.91,2024-06-10,Sit eveniet illum optio.
+857,3,101,Consultoria,20807.46,2025-01-03,Ipsam dicta odio dignissimos explicabo.
+858,5,141,Venda Produto,11971.99,2025-03-17,Laudantium veniam ipsa dolorum inventore.
+859,4,167,Serviço,84849.08,2024-06-14,Quos rerum quibusdam minima.
+860,7,141,Consultoria,48358.18,2024-07-02,Beatae enim eligendi debitis quisquam labore.
+861,3,134,Serviço,69059.22,2025-02-04,Aperiam iste esse dolore dicta sint saepe.
+862,6,137,Serviço,9355.5,2024-09-12,Cum dolore temporibus accusantium doloremque.
+863,6,124,Consultoria,87762.61,2024-10-19,Dolor veniam magni ut autem quam.
+864,10,129,Venda Produto,94862.81,2024-11-02,Porro earum omnis reiciendis quia.
+865,9,183,Serviço,90777.63,2024-04-21,Necessitatibus suscipit dolores eligendi.
+866,8,126,Licenciamento,70424.85,2025-02-22,Quidem pariatur nam nostrum reiciendis.
+867,3,107,Consultoria,62182.4,2024-11-05,Occaecati voluptate a vero.
+868,10,134,Serviço,9817.07,2024-08-19,In exercitationem laboriosam deleniti quasi quam incidunt.
+869,6,122,Venda Produto,2397.38,2025-01-09,Nesciunt occaecati pariatur vero natus.
+870,9,156,Consultoria,82898.49,2024-08-30,Fugit numquam tempora eveniet.
+871,8,116,Serviço,71642.81,2025-03-13,Explicabo quis minus laudantium inventore natus.
+872,4,135,Licenciamento,74897.86,2025-01-06,Aut tempore doloremque sint.
+873,7,117,Consultoria,85777.44,2024-07-02,Impedit voluptatum asperiores perspiciatis voluptate ipsam consequatur.
+874,10,128,Licenciamento,72944.1,2025-01-25,Dolor atque ducimus ullam illum.
+875,4,154,Serviço,41443.89,2024-07-31,Suscipit tempora atque unde nostrum atque dolorum nisi.
+876,3,104,Licenciamento,97636.69,2025-01-28,Vel dolores labore eius cumque quidem quas unde.
+877,4,180,Consultoria,90825.5,2024-10-21,Recusandae suscipit aut magnam dolorem.
+878,6,175,Consultoria,9488.13,2024-11-23,A possimus vel quidem nam.
+879,8,118,Licenciamento,97465.52,2024-06-16,Qui voluptatem nemo.
+880,7,188,Serviço,71620.26,2024-12-29,Deserunt reprehenderit doloremque aliquid debitis.
+881,7,195,Licenciamento,8232.51,2025-03-01,Deserunt eos aperiam ipsum nulla.
+882,9,108,Venda Produto,33953.39,2024-04-26,Quas quam facilis quidem.
+883,4,161,Licenciamento,99677.2,2025-02-03,Rerum inventore porro rerum culpa.
+884,10,191,Venda Produto,1530.74,2024-09-07,Cupiditate alias cupiditate.
+885,9,180,Consultoria,30948.23,2025-03-07,Autem quisquam distinctio corrupti autem dolorem.
+886,7,186,Licenciamento,14091.59,2025-02-23,Eaque maxime nam perspiciatis.
+887,9,106,Serviço,26768.87,2025-03-29,Tempore totam voluptates suscipit culpa voluptatum minus necessitatibus.
+888,9,164,Licenciamento,87911.78,2024-10-05,Cupiditate saepe ipsum et non unde.
+889,3,112,Licenciamento,71315.3,2025-02-18,Deserunt eos quo.
+890,7,119,Licenciamento,12567.36,2024-10-11,Soluta beatae possimus tempore.
+891,1,117,Consultoria,87296.28,2024-07-12,Veniam beatae laboriosam tenetur neque qui consequatur.
+892,5,196,Licenciamento,92697.47,2024-11-01,Molestiae doloremque consectetur tenetur.
+893,5,134,Licenciamento,52180.3,2024-10-28,Molestiae asperiores molestiae assumenda minima atque ea molestias.
+894,7,122,Licenciamento,73950.05,2025-03-01,Aliquid laudantium saepe consequuntur.
+895,8,198,Serviço,56011.8,2025-02-14,Praesentium at corporis ipsam in.
+896,8,107,Serviço,15713.46,2024-12-16,Aspernatur quis itaque placeat voluptatibus excepturi alias.
+897,4,124,Venda Produto,47554.51,2024-04-18,Quod porro sint.
+898,3,191,Consultoria,44206.56,2025-01-19,Assumenda cumque quia.
+899,8,106,Consultoria,36295.49,2024-12-17,Aspernatur porro laboriosam rem ipsa tempora officia animi.
+900,9,163,Consultoria,49805.87,2024-12-14,Ad corrupti explicabo fugiat beatae totam officia quibusdam.
+901,3,116,Licenciamento,10264.21,2024-07-24,Assumenda repellat nobis nemo.
+902,5,124,Serviço,75243.73,2024-10-16,Laudantium tenetur asperiores cupiditate quis.
+903,5,173,Serviço,58771.19,2024-10-25,Ratione et iusto magni iusto aliquid aliquid optio.
+904,1,168,Serviço,42225.48,2025-03-24,Fugiat odio at quam eius.
+905,2,132,Consultoria,68013.94,2024-06-11,Fugiat commodi impedit reiciendis maiores voluptatibus.
+906,6,104,Licenciamento,68449.92,2024-09-04,Facilis reprehenderit quos.
+907,2,151,Licenciamento,59443.51,2024-09-06,Mollitia aliquam iusto.
+908,2,142,Serviço,3858.58,2024-09-18,Dolores nobis nostrum itaque explicabo.
+909,8,191,Consultoria,45951.5,2024-04-20,Quod veritatis sequi minima commodi aperiam reiciendis unde.
+910,5,177,Venda Produto,33613.27,2025-03-16,Ducimus minus tempora totam qui ea.
+911,1,184,Consultoria,33166.63,2025-01-23,Vitae officia molestias labore sunt.
+912,10,117,Serviço,86464.61,2024-07-19,Deserunt quaerat deleniti officia id doloribus perferendis.
+913,5,142,Venda Produto,74636.2,2024-06-07,Nulla eos cupiditate necessitatibus pariatur quas.
+914,9,178,Consultoria,10162.55,2024-09-19,Culpa doloribus in quaerat fuga.
+915,5,123,Serviço,96539.88,2025-01-20,Inventore aut vero dolorum iure aliquam hic.
+916,7,112,Venda Produto,85382.24,2024-12-15,Culpa veniam fugiat enim sit delectus.
+917,3,150,Consultoria,29208.65,2025-02-14,Quam fuga molestiae deleniti deleniti.
+918,3,116,Licenciamento,49593.66,2025-03-16,Pariatur iusto est.
+919,7,195,Licenciamento,90469.69,2025-02-15,Sint maiores vero minus totam.
+920,10,117,Licenciamento,66886.51,2024-04-22,Quasi fuga nam magnam debitis.
+921,6,166,Serviço,49472.68,2024-07-29,Quas consequatur nostrum possimus perferendis excepturi.
+922,7,161,Licenciamento,56742.65,2024-08-04,Voluptatibus eos dignissimos dolor.
+923,7,112,Consultoria,81288.44,2025-02-05,Deserunt minima nesciunt sunt commodi quas.
+924,10,124,Consultoria,63437.94,2025-02-21,Rem at quae iste.
+925,2,106,Licenciamento,97353.91,2024-10-12,Molestias non dicta nihil.
+926,4,183,Serviço,93136.09,2024-12-15,Laudantium consequatur officia voluptatum aliquam.
+927,9,181,Venda Produto,29779.6,2024-09-18,Quam vero ullam.
+928,7,111,Consultoria,30738.93,2024-12-07,Libero vitae voluptatibus atque vero similique quod.
+929,3,188,Licenciamento,84312.26,2025-01-18,Tempora ab delectus reprehenderit voluptatum adipisci autem.
+930,9,155,Licenciamento,57285.03,2025-02-10,Beatae consectetur nisi unde doloribus fugiat.
+931,9,110,Venda Produto,51828.04,2024-10-14,Eaque eligendi voluptatem blanditiis quam impedit a.
+932,9,155,Consultoria,10353.95,2024-12-11,Hic non exercitationem suscipit asperiores.
+933,10,133,Licenciamento,26231.16,2024-12-04,Repellat sit odit nemo.
+934,2,199,Venda Produto,12279.61,2024-05-26,Eos doloremque minus exercitationem ad consequuntur voluptatum.
+935,8,123,Serviço,84448.07,2024-06-28,Repellendus culpa dolor nobis.
+936,1,111,Consultoria,87798.78,2024-06-10,Dolores eius excepturi asperiores.
+937,5,141,Consultoria,75978.07,2024-07-22,Possimus similique eos.
+938,8,180,Licenciamento,34792.1,2024-11-01,Illum quia repudiandae occaecati quod excepturi laudantium.
+939,3,128,Serviço,8743.83,2024-09-14,Ipsa ratione aliquid possimus blanditiis consectetur.
+940,10,134,Venda Produto,43946.09,2025-02-11,Vel velit soluta.
+941,1,101,Consultoria,12551.15,2024-05-05,Suscipit facere id non repellendus quis harum.
+942,3,184,Consultoria,46556.14,2025-01-04,Asperiores velit distinctio veritatis quisquam ducimus excepturi.
+943,7,185,Consultoria,30977.2,2024-05-04,Magni delectus nemo laborum sed incidunt.
+944,10,147,Consultoria,80659.43,2024-11-18,Numquam voluptates rerum enim.
+945,2,117,Serviço,2373.72,2024-04-29,Doloribus tempore a minus.
+946,2,103,Serviço,86042.19,2024-10-04,Exercitationem dolores sint totam qui.
+947,4,162,Serviço,65324.24,2024-11-05,Illum distinctio officia nostrum.
+948,7,181,Serviço,9523.26,2024-06-01,Aut fuga porro.
+949,8,119,Consultoria,42766.04,2024-04-21,Reprehenderit magni voluptatibus neque aperiam enim nemo vel.
+950,2,122,Serviço,74139.34,2025-01-16,Voluptatibus nesciunt cumque quidem provident numquam numquam.
+951,8,163,Consultoria,2943.15,2025-02-05,Nemo fugiat quos eos mollitia non nobis quas.
+952,8,175,Serviço,20932.5,2025-01-02,At minima corporis quos neque odio necessitatibus.
+953,10,151,Venda Produto,34051.16,2024-06-10,Natus eos quo suscipit necessitatibus recusandae.
+954,2,181,Consultoria,97969.21,2025-03-12,Veritatis tempora autem saepe rem.
+955,8,195,Licenciamento,4664.7,2024-07-09,Quos quod inventore natus vero.
+956,7,163,Consultoria,23958.67,2024-05-05,Numquam ad nam culpa odit itaque.
+957,1,168,Venda Produto,42778.45,2024-09-23,Odit cupiditate dolor.
+958,6,171,Venda Produto,27517.04,2024-11-18,Maxime dolore pariatur nobis facere.
+959,7,161,Venda Produto,49984.09,2024-07-17,Consequuntur tempore quidem saepe voluptatem repudiandae tempore.
+960,6,158,Consultoria,3059.89,2024-09-19,Voluptatem temporibus necessitatibus ipsa.
+961,5,193,Serviço,47454.8,2024-04-25,Rem quos illo quis molestias corporis optio.
+962,8,130,Serviço,59178.21,2024-05-20,Fugit fugiat illum asperiores repudiandae accusamus laboriosam.
+963,6,178,Consultoria,13984.7,2024-09-26,Perferendis placeat corporis deleniti.
+964,5,193,Consultoria,96020.53,2024-11-05,Nemo voluptatem quibusdam dolorum deleniti eaque.
+965,6,161,Serviço,62562.4,2024-11-10,Dolores recusandae est magni.
+966,5,189,Venda Produto,67038.59,2024-12-13,Sequi rerum cum.
+967,3,123,Serviço,16475.1,2025-01-31,A pariatur maiores nobis tenetur.
+968,8,113,Consultoria,94362.42,2024-09-12,Voluptatum blanditiis voluptatem harum.
+969,8,139,Serviço,21733.86,2024-07-01,Aspernatur deserunt nostrum reprehenderit.
+970,1,103,Licenciamento,88209.7,2025-02-27,Aliquid architecto minus.
+971,6,187,Serviço,18296.76,2024-12-07,Aspernatur occaecati asperiores qui amet.
+972,9,105,Venda Produto,34435.74,2024-09-19,Sint maxime sit veniam.
+973,2,180,Serviço,12948.12,2024-12-19,Occaecati amet fuga odit earum tempore.
+974,4,163,Licenciamento,99372.62,2024-10-02,Nisi hic animi velit suscipit quas.
+975,6,199,Venda Produto,77239.39,2025-02-04,Perferendis nisi exercitationem nam at sit.
+976,9,135,Serviço,85487.41,2025-01-20,Repudiandae ullam unde voluptatem natus ut architecto quod.
+977,9,178,Venda Produto,70934.09,2024-04-22,Vel perferendis ea voluptas dicta iste.
+978,8,159,Venda Produto,97491.32,2024-05-18,Veritatis et quaerat cupiditate.
+979,10,179,Venda Produto,82537.41,2024-08-25,Autem molestias aspernatur ab sed tempore.
+980,1,165,Venda Produto,17537.58,2024-06-16,Aspernatur cum fugit dolor.
+981,2,127,Licenciamento,16546.22,2024-09-24,Repudiandae voluptatem et iusto molestias.
+982,5,191,Consultoria,76434.5,2024-08-25,Commodi dolor asperiores pariatur error eaque.
+983,8,194,Venda Produto,16275.28,2024-05-03,Sint eum consequuntur hic.
+984,6,143,Serviço,13175.36,2024-10-29,Voluptate atque eius.
+985,4,157,Consultoria,77152.71,2024-05-04,Iste placeat rerum id modi.
+986,1,132,Consultoria,34790.69,2025-04-09,Temporibus qui libero maiores.
+987,9,122,Venda Produto,27335.55,2025-04-04,Asperiores rerum odit soluta.
+988,7,147,Serviço,16009.51,2025-03-27,Modi delectus occaecati ea ut in nemo excepturi.
+989,9,154,Serviço,14661.44,2025-03-02,Quos placeat ipsa quidem sint doloremque reprehenderit.
+990,7,153,Consultoria,89908.46,2024-07-17,Sed debitis placeat et.
+991,9,188,Licenciamento,94430.29,2024-04-25,Dolorem quibusdam vero ad quos nihil.
+992,8,119,Venda Produto,72044.95,2025-01-18,Illo unde blanditiis laboriosam aperiam similique.
+993,9,109,Venda Produto,34492.06,2024-10-23,Tempore maxime rem similique accusamus.
+994,7,199,Serviço,43973.16,2025-02-04,Fugiat corporis omnis.
+995,7,198,Venda Produto,66357.44,2024-06-19,Dolore expedita perferendis assumenda.
+996,3,174,Venda Produto,97795.56,2024-09-13,Accusamus ex voluptates vel placeat illo.
+997,9,138,Consultoria,40798.28,2024-06-11,Minima quo cupiditate voluptatem.
+998,9,139,Licenciamento,91013.85,2024-06-06,Necessitatibus voluptas quidem veritatis nam modi.
+999,1,136,Serviço,70329.21,2025-01-03,Doloremque numquam molestiae quos sint.
+1000,8,183,Serviço,88870.4,2024-06-14,Tempora alias ex alias.

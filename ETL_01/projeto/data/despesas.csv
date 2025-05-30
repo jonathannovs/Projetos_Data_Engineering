@@ -1,0 +1,1001 @@
+id_despesa,id_empresa,id_cliente,categoria,valor,data,descricao
+1,5,165,Serviços,13304.94,2024-05-02,Eligendi nisi sapiente.
+2,1,112,Serviços,41638.06,2024-12-31,Enim ab autem consequatur eaque facilis illo.
+3,1,101,Impostos,38784.84,2024-05-01,Amet natus facere enim harum ipsum.
+4,5,121,Serviços,28032.34,2024-11-13,Repudiandae numquam nostrum consectetur atque.
+5,7,172,Fornecedores,6481.82,2024-09-05,Nam facilis corporis nobis illo aliquam.
+6,3,170,Fornecedores,41895.16,2024-04-29,Quae rem maxime corrupti.
+7,10,171,Salário,22059.55,2025-03-26,Consequuntur ut et hic nulla sapiente nisi.
+8,1,140,Impostos,45050.09,2024-10-28,Minus provident error repellendus fuga perferendis voluptatem.
+9,1,146,Salário,34421.27,2024-11-26,Reiciendis quas porro ad labore.
+10,2,146,Outros,44322.6,2024-12-24,Neque quam nesciunt cupiditate occaecati nulla sapiente corporis.
+11,7,180,Salário,46362.43,2025-01-03,Adipisci veniam beatae accusantium et.
+12,4,121,Salário,44189.39,2024-06-11,Porro illum quod ullam sit quasi.
+13,1,123,Impostos,39336.94,2024-05-08,Maxime natus voluptatum laboriosam.
+14,7,186,Salário,14073.48,2024-09-07,Vero itaque modi molestias perspiciatis sint.
+15,2,149,Fornecedores,43071.07,2025-01-03,Nostrum deleniti doloribus nam dolore.
+16,4,126,Serviços,18133.26,2024-08-07,Provident porro laborum laboriosam natus.
+17,4,129,Fornecedores,33341.63,2025-04-11,Enim nemo molestiae tempore hic.
+18,7,143,Impostos,43353.29,2024-08-26,Enim enim quae expedita.
+19,5,145,Outros,20584.24,2024-10-02,Quibusdam distinctio repudiandae earum natus.
+20,9,143,Fornecedores,6651.75,2024-07-28,Autem qui dolores amet.
+21,5,123,Outros,48164.18,2025-03-31,Dolorem doloremque aut ex iusto perspiciatis consequuntur.
+22,5,105,Fornecedores,30231.99,2024-11-13,Illum vel soluta labore.
+23,6,194,Impostos,22383.3,2024-06-30,Eum officia tenetur at nemo.
+24,9,115,Serviços,45075.73,2024-11-07,Totam cupiditate sunt.
+25,4,133,Fornecedores,35730.48,2024-06-21,Voluptatum id libero.
+26,1,167,Outros,34656.0,2025-04-12,Soluta ab necessitatibus autem voluptatem.
+27,4,147,Serviços,4428.72,2024-08-02,Voluptatibus molestiae laudantium vel sed iusto deserunt.
+28,6,180,Impostos,33505.99,2024-05-27,Cum itaque ducimus delectus qui ratione.
+29,2,193,Impostos,25849.0,2024-11-20,Cupiditate sequi tempore repudiandae maiores.
+30,7,142,Serviços,35163.21,2024-05-17,Pariatur delectus consequuntur eum dolorum ea.
+31,9,117,Salário,21601.87,2024-07-14,Quidem veritatis error quam accusamus officiis possimus.
+32,7,187,Salário,31160.23,2024-05-08,Iure cum placeat unde.
+33,5,152,Outros,41852.53,2025-03-24,Porro odit velit facilis dolore.
+34,5,137,Salário,22064.52,2024-06-04,Corrupti quibusdam non impedit molestias iusto modi.
+35,10,178,Impostos,23784.42,2024-12-27,Quis perspiciatis nisi ratione minima.
+36,8,187,Salário,26047.53,2024-11-05,Aspernatur natus aperiam molestias magnam nemo.
+37,3,185,Fornecedores,14905.53,2024-06-11,Eveniet maxime blanditiis dignissimos.
+38,10,143,Fornecedores,41102.75,2024-11-26,At magni repellat iste maiores itaque animi.
+39,4,187,Impostos,12007.39,2024-10-10,Quam id repellendus quia neque.
+40,4,119,Fornecedores,3264.47,2024-05-01,Exercitationem aperiam voluptatibus vel architecto ut.
+41,8,179,Fornecedores,23315.39,2024-04-26,Illum quisquam quisquam voluptatem officia.
+42,10,125,Serviços,25224.48,2024-09-24,Voluptatibus fugit sit tenetur fugiat placeat.
+43,4,119,Fornecedores,44740.33,2024-12-27,Consequatur similique blanditiis voluptatibus hic consectetur voluptatem.
+44,2,200,Serviços,11723.22,2025-03-04,Quidem voluptatem iure.
+45,9,160,Fornecedores,28312.88,2025-01-18,Incidunt fugit dolorem itaque culpa deleniti soluta.
+46,2,159,Salário,40269.41,2025-02-05,Adipisci optio nostrum vel.
+47,9,172,Outros,16547.6,2025-03-25,Dolores architecto nisi.
+48,8,179,Outros,21910.3,2024-10-04,Perferendis sit doloribus aliquid ipsa molestiae quidem quod.
+49,9,158,Salário,37439.12,2024-06-07,Voluptatibus doloremque totam nemo neque quo repellendus.
+50,8,158,Impostos,37837.06,2024-07-15,Soluta voluptates maxime impedit eius.
+51,5,199,Outros,24745.25,2024-11-16,Sunt tenetur numquam incidunt libero voluptas velit perferendis.
+52,4,136,Serviços,4796.68,2025-02-13,Eum impedit corrupti fugiat quidem labore sed.
+53,5,131,Impostos,17456.53,2024-08-08,Rem totam natus voluptas.
+54,9,111,Salário,8390.7,2024-11-16,Consequatur doloribus dignissimos officia ullam sed at.
+55,7,189,Salário,35614.54,2025-01-20,Amet fugiat non aliquam asperiores.
+56,2,154,Serviços,17213.19,2025-02-20,Quam nam laboriosam sit ex vero accusamus vel.
+57,8,154,Fornecedores,11134.89,2025-01-26,Quia quidem totam possimus.
+58,7,150,Outros,47357.04,2025-01-12,Id dolores eum eligendi iure.
+59,1,198,Outros,19638.67,2024-12-21,Est facere sunt iure rem quam.
+60,1,146,Impostos,37920.28,2025-02-03,Totam fuga impedit natus dolore corporis.
+61,7,169,Outros,40193.54,2024-07-24,Vel neque impedit corrupti ex fugit rerum.
+62,4,163,Salário,14373.83,2024-10-24,Omnis placeat ducimus reprehenderit vitae odit laudantium.
+63,8,104,Serviços,17470.35,2024-06-18,Cumque quam laborum totam molestiae odit.
+64,7,193,Salário,42184.78,2024-05-06,Alias sed veniam pariatur quisquam impedit sapiente.
+65,3,180,Outros,2321.36,2024-07-12,Provident ab magni fuga.
+66,7,176,Outros,33486.99,2024-12-09,Totam omnis accusamus minus illum accusantium quam modi.
+67,2,183,Serviços,7649.27,2024-08-03,Magnam praesentium inventore.
+68,8,124,Fornecedores,13747.66,2025-04-13,Autem atque corrupti deleniti.
+69,6,128,Serviços,17015.44,2024-11-04,Repellendus eaque id fuga illo.
+70,7,136,Serviços,13361.31,2024-11-19,Voluptatibus dolorem placeat sed officiis.
+71,2,161,Fornecedores,37702.19,2025-03-13,Atque fugit mollitia.
+72,1,145,Salário,32857.06,2024-05-05,Praesentium assumenda sapiente.
+73,1,197,Fornecedores,47530.97,2024-12-20,Natus similique atque minus aliquam distinctio.
+74,4,103,Outros,8466.73,2025-03-17,Labore aliquid asperiores unde tempore natus adipisci.
+75,3,161,Fornecedores,28634.51,2025-04-09,Accusamus dignissimos corporis reprehenderit reprehenderit ut.
+76,4,160,Impostos,38578.01,2024-08-08,Natus necessitatibus sed perspiciatis.
+77,3,178,Outros,48223.0,2024-11-09,Fugit qui ratione porro aspernatur quia.
+78,2,200,Salário,48271.32,2024-08-26,Atque doloremque asperiores.
+79,2,175,Fornecedores,46515.47,2024-12-05,Veritatis id quo adipisci earum voluptatibus laudantium explicabo.
+80,10,187,Serviços,20436.07,2025-04-14,Inventore perspiciatis optio assumenda nulla reiciendis.
+81,4,110,Outros,34840.11,2025-01-15,Aspernatur culpa quae odio.
+82,4,114,Impostos,42664.37,2025-01-26,Et autem a est facere earum.
+83,10,116,Outros,39349.13,2024-06-04,Deleniti ipsum mollitia illum.
+84,6,169,Serviços,33414.55,2024-04-24,Explicabo at nisi eveniet.
+85,2,165,Impostos,1619.96,2024-09-10,Eos harum assumenda.
+86,7,163,Fornecedores,22242.65,2025-03-29,Temporibus voluptatem nemo cumque fugit consequuntur error.
+87,6,182,Serviços,35658.12,2024-10-22,Aperiam ipsa in laborum.
+88,7,123,Outros,48308.21,2024-05-13,Dolorum doloribus numquam nisi deserunt autem.
+89,5,179,Outros,38957.43,2024-08-10,Veniam ex nulla.
+90,8,156,Outros,14151.38,2025-02-20,Ipsam inventore reprehenderit officiis nisi error.
+91,4,112,Impostos,44199.93,2024-12-04,Laboriosam debitis id eum quasi.
+92,4,197,Serviços,28922.63,2024-12-15,Voluptas quos eveniet eligendi ratione facilis ut.
+93,7,144,Fornecedores,25221.02,2024-06-30,Voluptatum debitis quisquam ad quas velit distinctio reiciendis.
+94,6,124,Serviços,11393.87,2025-03-02,Reprehenderit recusandae illum libero.
+95,5,144,Impostos,44135.68,2024-12-15,Doloribus omnis quaerat ratione asperiores.
+96,5,172,Fornecedores,26314.74,2024-12-02,Neque modi unde sit in alias voluptas.
+97,4,111,Salário,36283.66,2025-01-11,Nisi totam autem dolorum optio cumque nostrum.
+98,8,172,Salário,34839.86,2024-11-18,Vitae ex recusandae autem atque dolore.
+99,8,158,Fornecedores,5559.61,2025-01-29,Nam porro dolore fugiat iure perspiciatis porro.
+100,4,152,Salário,16004.1,2024-06-11,Voluptatum laboriosam eos ullam assumenda rerum.
+101,10,148,Serviços,28120.17,2025-01-22,Expedita exercitationem quos maxime.
+102,6,155,Outros,17208.77,2024-08-27,Atque quam iste architecto aliquid quae ad.
+103,8,135,Impostos,13318.78,2024-08-25,Perspiciatis cum voluptates doloribus.
+104,2,193,Salário,16461.85,2024-06-20,Cum nam vero doloremque illo delectus odit.
+105,9,198,Salário,10385.51,2024-09-28,Adipisci nostrum deserunt nihil harum provident.
+106,8,136,Outros,48853.74,2024-07-02,Quibusdam repellat aperiam aut sit.
+107,9,177,Impostos,49045.02,2024-06-25,Eveniet itaque ea similique minus odit.
+108,4,138,Salário,18683.17,2024-12-01,Nostrum nesciunt expedita sapiente nulla repellendus.
+109,5,102,Outros,7202.57,2025-01-13,Ullam nihil perferendis est dolores.
+110,1,107,Outros,15314.7,2024-05-29,Fuga consequuntur harum nisi.
+111,3,182,Serviços,6026.79,2024-11-23,In laborum modi ullam ut cupiditate.
+112,1,174,Impostos,24000.45,2024-06-17,Enim deleniti sapiente nulla sint veritatis laborum.
+113,8,144,Salário,48309.38,2024-06-28,Vitae magnam libero placeat impedit saepe.
+114,5,162,Fornecedores,41283.67,2024-10-20,Assumenda adipisci quis eos.
+115,7,163,Fornecedores,29274.04,2024-07-29,Modi cumque itaque quia quisquam.
+116,1,120,Salário,40745.96,2024-11-13,Beatae beatae quod reprehenderit facilis reprehenderit aliquam.
+117,5,111,Salário,6804.13,2025-01-18,Molestias voluptatibus aut rerum quibusdam error.
+118,7,178,Outros,39746.3,2024-04-26,Ea similique assumenda sint blanditiis repellat distinctio.
+119,4,200,Outros,19638.52,2025-01-25,Porro similique nostrum incidunt nulla quos repellendus rem.
+120,8,139,Outros,49511.53,2024-11-21,Minus nisi cumque voluptatem eos nemo.
+121,5,173,Outros,3951.28,2025-03-13,Voluptates perspiciatis atque vitae quos ullam voluptatibus.
+122,2,198,Salário,31650.24,2025-03-16,Praesentium consequatur corporis eum.
+123,5,185,Fornecedores,8695.8,2024-07-19,Laudantium neque eaque impedit iste odio.
+124,3,171,Fornecedores,8670.1,2025-03-21,Illo quibusdam possimus soluta.
+125,7,158,Outros,24025.71,2024-10-07,Eveniet a quo quasi quasi itaque optio.
+126,1,130,Impostos,35640.84,2024-08-31,Recusandae id voluptas repudiandae.
+127,8,110,Salário,46271.64,2024-10-23,Eum eligendi molestias consectetur sequi.
+128,10,185,Salário,21831.81,2025-02-14,Tempora quis aliquid numquam saepe accusamus.
+129,9,129,Salário,45512.16,2025-04-09,Ipsam a vero dicta.
+130,3,110,Fornecedores,9130.22,2025-01-06,Sunt error soluta soluta.
+131,5,177,Outros,46138.43,2024-05-20,Dolorum fuga temporibus cumque id esse.
+132,8,116,Serviços,34745.22,2025-01-10,Inventore at atque distinctio aspernatur.
+133,7,135,Outros,27459.1,2024-11-30,Maxime ipsum ab exercitationem blanditiis.
+134,8,111,Outros,2953.18,2025-03-14,Possimus labore dolorem at rem aut.
+135,7,195,Impostos,30581.97,2024-09-03,Consequatur quo quidem consequatur voluptatibus.
+136,1,112,Salário,48133.64,2024-06-08,Minus ab officiis ipsam.
+137,10,176,Fornecedores,49979.05,2025-01-19,Occaecati corrupti illum placeat similique.
+138,5,174,Fornecedores,38392.34,2024-05-17,Consequuntur commodi quas expedita.
+139,3,161,Outros,32923.96,2024-09-27,Ratione dolorum officia dolorum nobis quam.
+140,5,124,Outros,22358.36,2024-08-02,Sed omnis error.
+141,8,112,Serviços,18050.09,2024-11-01,Magni quibusdam eos amet tempore veritatis libero beatae.
+142,6,142,Fornecedores,43028.92,2024-10-25,Architecto suscipit accusamus facere et harum saepe in.
+143,6,153,Serviços,15122.67,2024-11-12,Quis veritatis quo accusantium.
+144,7,198,Outros,2798.16,2024-05-10,Ea aliquam aperiam.
+145,2,141,Impostos,16840.42,2025-02-14,Magni occaecati magnam impedit praesentium assumenda.
+146,7,166,Fornecedores,33225.36,2024-11-08,Nulla eius est maiores dicta repellat modi.
+147,9,160,Serviços,3656.0,2024-09-12,Odio rerum perspiciatis architecto praesentium quas sed animi.
+148,9,147,Outros,38065.71,2024-05-17,Blanditiis nostrum animi pariatur omnis cupiditate.
+149,8,198,Fornecedores,10974.35,2024-04-18,Praesentium cum veritatis minima.
+150,9,117,Impostos,22467.69,2025-02-12,Cumque consectetur quos eaque suscipit.
+151,8,116,Fornecedores,48684.19,2025-02-07,Ex inventore minima.
+152,10,131,Salário,16226.76,2024-07-25,Occaecati libero magni animi similique cumque culpa.
+153,1,171,Serviços,5567.25,2025-02-08,Tempora perferendis beatae qui.
+154,2,160,Fornecedores,32737.77,2024-04-14,Similique accusamus aliquid.
+155,3,164,Impostos,25934.73,2024-09-02,Ullam debitis vero alias rem quae.
+156,5,154,Serviços,49031.99,2024-12-24,Dolore dolorum totam eum repudiandae nemo.
+157,4,159,Outros,8087.46,2024-05-30,Perferendis amet dolore maiores aliquid id soluta.
+158,4,177,Outros,37568.33,2025-03-16,Quo est assumenda itaque fuga.
+159,3,109,Impostos,38861.08,2024-08-05,Quos qui doloribus fuga voluptas voluptatum quod.
+160,7,144,Outros,14091.46,2025-01-23,Quis doloribus ab illum doloremque expedita saepe.
+161,1,137,Impostos,42036.32,2025-03-20,Veritatis a omnis.
+162,10,185,Serviços,43397.77,2025-03-09,Aut minus dolores laudantium animi.
+163,8,169,Serviços,17911.07,2024-06-08,At ullam tempore maxime praesentium.
+164,9,198,Outros,19483.29,2024-09-05,Voluptate assumenda atque consequatur reprehenderit asperiores necessitatibus.
+165,6,125,Salário,29018.08,2024-09-29,Dolores ea et reiciendis.
+166,4,200,Serviços,3138.72,2025-01-11,Et earum asperiores dicta quod nesciunt.
+167,8,191,Serviços,19917.86,2024-06-13,Cum iure illo modi.
+168,3,164,Fornecedores,7186.07,2025-02-07,Iste iure sequi at rem.
+169,10,143,Fornecedores,43835.33,2024-08-10,Aliquam saepe eveniet at dolorum explicabo maiores perspiciatis.
+170,8,113,Outros,45611.64,2024-07-24,Adipisci illo iste quibusdam.
+171,1,193,Salário,21088.95,2024-07-20,Iure rem consequuntur accusamus.
+172,3,110,Serviços,39294.74,2025-03-02,Consectetur reprehenderit fuga occaecati officia.
+173,5,144,Outros,34942.53,2024-11-26,Ea repellat accusantium aperiam temporibus ipsam consectetur temporibus.
+174,2,143,Outros,19620.46,2025-03-02,Commodi velit amet unde inventore quam.
+175,6,181,Serviços,43746.77,2024-10-23,Fugit incidunt explicabo.
+176,1,180,Fornecedores,12503.74,2025-04-01,Eius ipsum corrupti nostrum.
+177,5,130,Fornecedores,22264.6,2024-12-09,Officia libero sunt laboriosam assumenda.
+178,2,198,Fornecedores,22740.25,2024-09-09,In odit reiciendis dolorum.
+179,5,104,Fornecedores,16894.36,2025-02-19,Recusandae voluptatibus quos facere molestias laborum totam.
+180,1,138,Impostos,19367.21,2024-10-26,Harum debitis eum dolor tempore quod.
+181,3,132,Outros,21190.54,2024-05-06,Minus quisquam voluptatum voluptate aut omnis eaque.
+182,3,122,Salário,4869.45,2025-02-25,Quisquam veniam nemo voluptatem.
+183,7,180,Salário,25385.7,2024-09-11,Vel voluptatibus cupiditate dolores et qui.
+184,10,119,Salário,23596.35,2024-08-31,Adipisci praesentium veniam natus natus deleniti voluptates sunt.
+185,5,159,Impostos,33675.2,2024-10-22,Est laudantium at doloremque dolor minima a.
+186,8,137,Outros,8740.81,2025-04-05,Dicta consectetur quaerat ullam sapiente eum accusantium nesciunt.
+187,8,145,Outros,15658.56,2025-04-05,Quo sed similique vero.
+188,7,189,Impostos,23384.95,2024-09-06,Nesciunt excepturi eum voluptate quasi ipsa.
+189,5,126,Serviços,42813.44,2024-12-18,Officiis cupiditate voluptas possimus ut ratione dolore.
+190,2,131,Serviços,29024.21,2024-11-28,Fugiat quasi eos debitis.
+191,10,138,Impostos,2075.04,2024-04-14,Hic voluptatibus vitae adipisci nobis ullam voluptas.
+192,7,136,Fornecedores,28730.52,2024-07-08,Aut libero ex aspernatur expedita eum odio.
+193,1,178,Serviços,41809.11,2024-05-18,Ipsum eaque dolorum architecto ducimus autem.
+194,5,200,Salário,30746.18,2024-04-14,Harum quasi voluptas.
+195,6,129,Salário,31423.67,2025-03-23,Laudantium fugiat molestias aut laboriosam sint.
+196,3,181,Fornecedores,45266.78,2024-12-22,Cum asperiores sapiente eos eum.
+197,1,140,Serviços,2634.86,2024-05-24,Exercitationem suscipit cum asperiores.
+198,6,194,Salário,5416.54,2025-04-14,Excepturi voluptates tempora provident.
+199,5,142,Serviços,9606.36,2024-09-28,Non ipsa amet ex.
+200,3,170,Impostos,27011.77,2024-06-26,Possimus quam quas eaque eligendi dolores.
+201,5,122,Impostos,45788.4,2024-05-03,Nemo saepe corrupti facere incidunt eos.
+202,8,138,Impostos,40407.39,2024-12-27,Nobis dicta ad cupiditate eos aspernatur sapiente est.
+203,8,110,Salário,37953.42,2024-09-15,Laudantium optio at molestias delectus suscipit fuga.
+204,4,187,Serviços,48396.22,2024-10-04,Ea iure dolorem.
+205,9,147,Fornecedores,39743.42,2024-07-27,Aperiam quibusdam pariatur assumenda exercitationem molestiae voluptas.
+206,1,134,Outros,7055.85,2024-11-29,Mollitia sapiente repellendus in modi.
+207,6,187,Impostos,29643.44,2025-03-16,Nemo doloremque error hic sequi alias necessitatibus.
+208,6,114,Salário,24102.37,2024-10-31,Perspiciatis nulla blanditiis quidem cupiditate voluptates voluptas.
+209,10,172,Impostos,45847.54,2025-02-21,Commodi incidunt voluptates ipsa voluptatum.
+210,4,183,Fornecedores,32134.79,2024-12-13,Rerum ducimus tenetur totam.
+211,8,190,Impostos,32812.73,2024-05-10,Harum id eveniet eius.
+212,2,118,Fornecedores,47366.82,2024-10-08,Ratione numquam minima.
+213,5,164,Fornecedores,5762.41,2024-09-23,Impedit corporis nihil quis.
+214,9,118,Serviços,23228.54,2025-04-13,Unde natus aut enim.
+215,9,154,Outros,37371.18,2024-11-08,Soluta eaque omnis nemo labore cupiditate.
+216,3,154,Fornecedores,41850.96,2024-09-17,Nulla perspiciatis illo id.
+217,10,153,Impostos,2603.1,2025-03-21,Porro aliquid labore eaque fuga excepturi.
+218,6,128,Serviços,22790.1,2025-02-16,Est sapiente similique placeat voluptas.
+219,4,147,Fornecedores,49065.46,2024-07-11,Error quia quo eum.
+220,6,170,Impostos,3966.95,2025-01-22,Non at ipsam totam illum laborum.
+221,5,125,Fornecedores,47501.53,2024-10-31,Reprehenderit maiores culpa est magni consequatur.
+222,8,112,Salário,32443.52,2025-03-10,Sunt adipisci deserunt rerum saepe dolorum itaque.
+223,10,103,Fornecedores,39552.93,2025-04-05,Provident earum reprehenderit magnam odio commodi.
+224,4,117,Outros,11055.07,2024-04-25,Fuga nisi debitis sit nesciunt.
+225,9,127,Outros,11581.62,2024-08-27,Cum tempora quibusdam porro eligendi harum.
+226,4,143,Salário,39643.54,2024-06-16,Quod dolor dolore dolore dignissimos officiis maiores.
+227,10,101,Impostos,43061.9,2025-03-15,Labore consequatur cupiditate.
+228,3,117,Outros,13282.06,2025-02-19,Dolore non velit.
+229,3,115,Fornecedores,7458.36,2025-01-15,Incidunt fugiat expedita dolorum iure.
+230,6,131,Outros,16864.8,2025-01-01,Repudiandae id aut maiores optio sapiente fugiat.
+231,3,134,Fornecedores,7211.17,2024-12-21,Non error autem aperiam voluptates odit similique ea.
+232,7,168,Fornecedores,37537.6,2025-01-15,Deleniti maxime dolores animi similique.
+233,8,158,Impostos,26148.66,2025-02-22,Illo eum consequuntur ad libero eos tenetur illo.
+234,2,158,Outros,11855.94,2025-01-25,Nesciunt voluptatum repellendus.
+235,10,106,Outros,15779.89,2024-08-25,Placeat odit labore velit facere.
+236,1,108,Serviços,42517.63,2024-08-08,Saepe soluta debitis atque.
+237,7,188,Fornecedores,25023.17,2024-06-02,Quam nam totam veniam tempore.
+238,8,110,Fornecedores,16783.48,2024-12-24,Dolore dolore sit in.
+239,3,109,Salário,14475.78,2025-03-24,Fuga nesciunt iure blanditiis amet odio.
+240,10,171,Impostos,19664.32,2024-11-25,Architecto suscipit magnam sint fugit error amet sequi.
+241,10,168,Impostos,23232.06,2024-06-06,Exercitationem voluptates tempora voluptates corporis.
+242,10,156,Fornecedores,39861.71,2025-03-14,Quod laborum occaecati debitis.
+243,2,184,Outros,36321.16,2024-12-16,A earum quis cumque.
+244,4,156,Serviços,44516.46,2025-02-04,Laudantium quis at nostrum.
+245,7,144,Serviços,20537.78,2024-12-16,Illo vitae fugit alias dicta fuga.
+246,2,141,Serviços,16313.65,2024-04-19,Quidem minus accusantium a quasi dolorem.
+247,5,148,Salário,34654.23,2025-03-20,Est aut magnam esse aperiam aliquid.
+248,8,109,Fornecedores,41756.82,2024-08-04,Quas nisi excepturi suscipit voluptatum exercitationem temporibus.
+249,2,156,Fornecedores,37484.86,2024-08-31,Cumque tenetur repellat accusantium dolore.
+250,6,117,Outros,3939.07,2024-06-03,Quasi nihil cumque facilis officiis.
+251,9,172,Impostos,33830.65,2024-04-28,Soluta ducimus modi aliquid voluptatum optio.
+252,7,146,Serviços,43536.52,2024-12-23,Aliquid blanditiis ipsam.
+253,1,137,Outros,16310.0,2024-05-31,Dolorum praesentium dignissimos placeat ab in aut.
+254,2,174,Outros,11424.2,2024-11-02,Numquam praesentium in tempore maiores.
+255,8,129,Fornecedores,18155.59,2024-12-09,Eligendi quos libero non.
+256,9,148,Fornecedores,38367.68,2025-02-10,Rerum voluptate facere illum cum.
+257,10,129,Serviços,42412.6,2024-11-12,Tenetur porro laboriosam doloremque accusamus at beatae.
+258,10,179,Outros,2286.44,2024-11-22,Corrupti at maiores quam aut ducimus doloremque.
+259,5,104,Salário,14390.25,2024-08-06,Iure aut cupiditate aliquam enim.
+260,5,144,Impostos,1299.18,2025-02-19,Incidunt blanditiis sed tempora ab consequuntur.
+261,3,173,Serviços,4409.69,2024-12-21,Eveniet tempora veritatis eaque.
+262,1,112,Outros,11541.51,2025-01-23,Fuga exercitationem beatae id.
+263,7,159,Impostos,8713.05,2024-10-08,Saepe porro laboriosam in suscipit.
+264,5,193,Impostos,39064.95,2024-06-17,Consequatur quas voluptatem sapiente.
+265,10,177,Fornecedores,44283.77,2024-05-24,Tenetur laboriosam necessitatibus ipsa nostrum quod.
+266,3,121,Outros,3438.36,2024-12-07,Similique sunt quas.
+267,2,135,Serviços,33435.0,2025-03-26,Laboriosam laborum suscipit ipsam.
+268,8,178,Serviços,21295.0,2024-05-08,Omnis accusamus sit minima quia.
+269,4,197,Outros,6577.06,2025-01-20,Dolore veritatis sit maxime porro nulla inventore.
+270,7,115,Impostos,34232.68,2025-01-21,Laboriosam optio odit corrupti repudiandae.
+271,10,163,Outros,33689.5,2025-03-26,Amet officia culpa sed sequi sit asperiores laudantium.
+272,1,129,Serviços,49237.84,2024-07-16,Voluptas amet dolore officia illo doloremque.
+273,1,101,Salário,15769.55,2024-10-09,Reiciendis ipsum sequi ipsum blanditiis libero.
+274,4,199,Salário,38443.88,2024-12-23,Aut impedit nam.
+275,5,142,Fornecedores,1378.77,2024-04-14,Recusandae vitae odit tempora.
+276,7,123,Salário,19630.16,2024-11-18,Omnis itaque exercitationem repudiandae repellendus.
+277,4,165,Outros,41834.36,2025-03-07,Ex quisquam nobis quaerat facilis iste atque.
+278,6,110,Serviços,43226.45,2024-12-25,A explicabo odio reiciendis molestias.
+279,1,156,Fornecedores,23527.96,2024-09-06,Aliquid cum consequuntur quaerat.
+280,2,141,Outros,22034.93,2025-01-19,Autem nostrum deleniti ut hic itaque.
+281,7,191,Serviços,15186.25,2025-02-11,Quaerat autem impedit unde saepe.
+282,7,103,Impostos,9421.79,2024-11-28,Quo ipsum omnis vero.
+283,10,159,Impostos,5318.36,2024-06-05,A quasi mollitia inventore nesciunt unde quos.
+284,2,132,Serviços,29854.69,2025-04-02,Porro cupiditate repellendus aut.
+285,9,111,Serviços,43655.7,2024-12-25,Non eum sunt in non possimus dolorum id.
+286,6,129,Impostos,39176.78,2024-08-25,Iste consequatur impedit praesentium quibusdam.
+287,2,166,Fornecedores,26999.64,2024-08-08,Similique quae vel odio dicta numquam enim.
+288,4,200,Impostos,18203.89,2024-08-26,Voluptatem officiis vero magnam.
+289,3,131,Fornecedores,8175.77,2025-01-08,Quae quis natus nesciunt velit quae.
+290,4,123,Outros,8490.62,2024-12-31,Enim sed repellat minima ad corporis pariatur.
+291,2,123,Serviços,23733.7,2024-06-30,Quibusdam cum enim dolorum saepe.
+292,10,198,Outros,22996.36,2025-01-07,Dignissimos molestiae facere iste nulla.
+293,10,183,Outros,16837.2,2025-01-01,Sint quia natus dolores quos reiciendis enim.
+294,6,120,Serviços,4346.03,2024-12-28,Unde harum vero.
+295,8,181,Impostos,40020.15,2025-01-05,Vitae amet quia dicta sit similique.
+296,10,108,Impostos,25859.51,2024-10-03,Tenetur provident officia quidem molestias.
+297,5,160,Serviços,2842.76,2024-12-04,Quod vitae eos debitis placeat.
+298,6,137,Fornecedores,32588.66,2024-06-25,Quasi blanditiis aliquam eius.
+299,2,179,Outros,25846.32,2024-07-25,Cum sapiente ab iure.
+300,8,175,Outros,47757.34,2025-04-13,Aliquam ut nisi quo.
+301,1,158,Outros,32940.04,2024-12-12,Sapiente error ratione mollitia asperiores provident minima vero.
+302,6,178,Serviços,25567.0,2024-11-02,Ratione cum molestiae illo.
+303,1,158,Fornecedores,40737.37,2024-08-27,Sunt optio ex eos veniam.
+304,6,192,Fornecedores,25722.9,2024-12-10,Labore natus quibusdam officiis beatae exercitationem dolores.
+305,3,106,Salário,35673.46,2024-12-19,Ullam doloribus aliquam suscipit fugit recusandae beatae ducimus.
+306,8,168,Outros,30880.46,2025-01-20,Ad maxime quo maiores magni.
+307,6,148,Impostos,19983.41,2024-10-20,Eos officiis eum.
+308,6,187,Outros,3565.91,2024-05-15,Cumque vero modi ab.
+309,6,109,Impostos,5630.79,2024-05-09,Perferendis quo sint incidunt aut.
+310,7,137,Impostos,36462.95,2024-11-08,Officia velit quia corrupti itaque ex.
+311,10,120,Impostos,4993.6,2024-05-17,Amet recusandae nam nemo.
+312,3,145,Impostos,48417.13,2024-07-11,Illum iste illo et harum.
+313,7,117,Outros,35732.87,2024-05-29,Ab quam aperiam quia aliquid sed facere.
+314,2,140,Outros,19457.29,2024-10-26,Enim placeat non eligendi.
+315,6,117,Outros,5579.2,2025-04-08,Fugit reprehenderit adipisci culpa dolore quia.
+316,7,166,Impostos,1893.3,2025-02-17,Eos odio error suscipit vitae sint officia.
+317,5,124,Salário,17744.88,2024-04-18,Soluta consequuntur aliquam nemo hic molestias assumenda.
+318,8,125,Salário,49998.85,2024-07-04,Distinctio temporibus sed consequuntur delectus nulla.
+319,3,110,Impostos,42376.99,2024-07-21,Beatae perferendis necessitatibus amet quibusdam.
+320,2,165,Outros,41920.87,2024-11-13,Officia asperiores perferendis dolorum deserunt neque veritatis.
+321,9,105,Impostos,43943.25,2024-08-30,Perferendis doloremque eligendi architecto.
+322,10,117,Outros,19459.27,2024-06-28,Laborum eveniet optio possimus corrupti necessitatibus.
+323,3,124,Outros,40643.14,2025-02-21,Vero cumque et quos quae odit.
+324,3,193,Serviços,3140.93,2024-07-30,Consequatur quasi soluta iure facere esse.
+325,6,187,Salário,48509.84,2024-11-14,Cupiditate non sapiente similique.
+326,10,137,Serviços,12466.14,2024-06-07,Deserunt quasi occaecati quas tempora sed occaecati.
+327,4,140,Serviços,45294.74,2025-02-23,Neque quisquam distinctio alias ea tempora molestiae omnis.
+328,4,148,Outros,49237.55,2024-06-10,Hic tempora nihil similique consequatur magnam.
+329,8,199,Impostos,39128.08,2024-05-19,Facilis ab dolores vitae voluptatem placeat.
+330,9,168,Serviços,48347.14,2025-02-02,Consequuntur culpa necessitatibus natus sit corporis quasi.
+331,4,178,Salário,43777.09,2025-04-13,Aliquam quis doloremque eaque doloremque pariatur.
+332,1,183,Serviços,43831.73,2024-11-01,Harum ullam sunt aliquam officiis aut.
+333,9,114,Outros,42707.14,2024-11-02,Rerum ea molestias cupiditate officiis.
+334,5,111,Salário,14366.77,2024-09-02,Officiis saepe maxime fugiat tenetur maiores explicabo sint.
+335,9,119,Serviços,5493.96,2024-10-20,Suscipit ab sunt ipsam dolorem maiores eligendi.
+336,4,158,Impostos,46593.12,2024-06-11,Culpa nobis repellendus optio.
+337,7,107,Serviços,25598.35,2024-09-22,Quam laboriosam laboriosam distinctio cum rerum.
+338,4,150,Fornecedores,19370.72,2024-04-22,Aliquam nemo cum occaecati aliquam.
+339,1,141,Fornecedores,42119.64,2024-11-22,Animi ea debitis vero.
+340,6,119,Salário,2876.86,2024-12-02,Odit soluta quas reprehenderit veniam dolor non.
+341,8,190,Salário,38183.22,2024-10-14,Cupiditate rerum nobis recusandae reprehenderit delectus optio.
+342,8,158,Outros,1257.31,2024-07-25,Quam exercitationem iste nihil.
+343,2,103,Impostos,11567.08,2024-07-12,Harum autem dicta similique magnam in.
+344,3,171,Outros,26860.8,2024-06-11,Atque labore nostrum aliquam quos magnam blanditiis laboriosam.
+345,2,200,Impostos,12644.37,2024-06-03,Molestiae a vel perspiciatis inventore in soluta possimus.
+346,2,107,Salário,21571.45,2024-09-27,Vel laboriosam quisquam expedita rem.
+347,10,159,Fornecedores,6432.04,2025-04-01,Atque consequatur labore doloremque similique eligendi soluta.
+348,8,177,Outros,1805.33,2024-09-19,Deleniti quae ratione neque blanditiis.
+349,9,174,Salário,36208.67,2024-04-16,Omnis porro et facere culpa officiis.
+350,5,155,Fornecedores,31125.67,2024-07-21,Sequi incidunt facilis eius perspiciatis.
+351,4,174,Serviços,10178.38,2025-02-01,Impedit quos laboriosam fuga mollitia.
+352,2,168,Impostos,4316.29,2024-07-21,Neque quo id consequuntur sint.
+353,9,170,Outros,39534.2,2024-05-30,Ipsum praesentium cum dolor id.
+354,9,171,Fornecedores,20132.23,2024-08-23,Nostrum placeat amet harum odio rem reprehenderit.
+355,8,106,Serviços,49070.93,2024-10-14,Ipsa aperiam dolore aspernatur alias fugit voluptates nostrum.
+356,5,196,Fornecedores,18497.6,2024-11-02,Quae nisi veniam reprehenderit odit.
+357,2,145,Salário,36914.11,2024-10-01,Dicta omnis rem.
+358,2,199,Outros,37024.16,2024-08-03,Alias nobis maiores doloremque cumque.
+359,6,118,Fornecedores,18262.65,2024-04-28,Dolores a culpa voluptatum quod explicabo.
+360,6,183,Salário,41688.8,2024-09-14,Nesciunt maxime qui architecto at eligendi.
+361,8,190,Serviços,31955.06,2025-03-02,Totam expedita vitae eius non deserunt ut.
+362,3,109,Serviços,2812.21,2024-11-23,Ea illum autem.
+363,4,106,Salário,44403.73,2024-05-12,Eos veniam rem vero soluta repellat nemo.
+364,6,140,Outros,20512.98,2025-01-08,Vitae natus quo quidem vero itaque.
+365,9,161,Impostos,2794.42,2024-10-09,Similique laboriosam ducimus fugit ratione dolore praesentium reiciendis.
+366,4,137,Impostos,43244.79,2024-09-21,Maxime ab rerum dolorum at perferendis.
+367,1,184,Impostos,14387.61,2025-02-26,Asperiores ut labore explicabo tempora eaque.
+368,6,156,Serviços,37422.08,2025-01-28,Libero dicta quasi sit dignissimos.
+369,7,144,Salário,25313.96,2024-07-01,Saepe explicabo quod blanditiis aspernatur.
+370,8,148,Outros,14069.31,2024-12-27,Nostrum quisquam molestiae aliquam laboriosam nulla laudantium.
+371,2,194,Serviços,4867.42,2025-03-22,Sit laudantium voluptates totam eligendi dolore nemo.
+372,10,124,Outros,15394.55,2024-05-05,Reiciendis laboriosam molestiae magnam hic placeat cupiditate.
+373,2,111,Impostos,33385.04,2024-05-30,Itaque porro accusamus distinctio neque eveniet nostrum.
+374,5,158,Outros,36165.48,2024-07-23,Molestias dolores iusto nostrum.
+375,3,189,Serviços,18225.8,2024-09-03,Libero distinctio praesentium fuga.
+376,1,194,Impostos,31127.72,2025-03-11,Eius debitis consectetur nemo dolorem aut.
+377,7,136,Fornecedores,4677.02,2024-07-27,Nam sequi deserunt reiciendis qui.
+378,7,147,Outros,40253.7,2024-10-14,Debitis libero voluptatum.
+379,3,104,Salário,42584.8,2025-03-09,Maxime quam quos error natus necessitatibus id porro.
+380,8,105,Salário,4294.43,2024-05-07,Repellendus labore occaecati ipsum ex.
+381,6,147,Serviços,47523.89,2024-09-01,Nam ut ducimus accusantium commodi sint.
+382,1,178,Salário,34274.04,2024-12-05,Nemo officiis modi voluptatem eligendi.
+383,6,148,Serviços,38391.14,2024-08-18,Laborum qui suscipit fugit enim occaecati corporis.
+384,10,118,Outros,18980.55,2024-06-18,In nostrum illo tenetur aspernatur exercitationem.
+385,6,184,Impostos,13230.97,2024-08-13,Officiis quae non hic suscipit quos.
+386,2,104,Salário,25453.15,2025-04-13,Quibusdam maxime ipsum cumque sequi commodi.
+387,7,172,Fornecedores,13827.06,2024-07-14,Velit praesentium aspernatur cumque aut.
+388,5,191,Serviços,11513.95,2024-05-08,Molestias ad id quisquam assumenda ea culpa.
+389,10,137,Serviços,10808.74,2024-12-24,Est dolorum eligendi occaecati consectetur saepe.
+390,3,110,Serviços,9460.16,2024-04-25,Optio similique eveniet.
+391,8,112,Impostos,33724.15,2024-10-15,Voluptate molestiae earum ipsam voluptas possimus debitis.
+392,2,171,Outros,15227.75,2024-12-02,Occaecati odio natus minima odit est expedita.
+393,5,121,Salário,39891.12,2024-11-09,Rem ipsam facilis ea esse.
+394,9,129,Fornecedores,49271.49,2024-04-14,Repellendus sed exercitationem iusto ab ullam veniam.
+395,3,131,Serviços,2287.92,2024-10-16,Ab inventore eos doloremque ab.
+396,9,174,Impostos,23902.89,2024-09-06,Illum natus hic cum qui.
+397,9,117,Outros,44328.08,2024-09-12,Dolore aspernatur numquam maxime reiciendis nostrum.
+398,2,140,Serviços,49980.16,2025-01-08,Eligendi quia repellat impedit sequi.
+399,8,168,Serviços,38689.06,2024-06-23,Enim odio nulla earum.
+400,10,110,Salário,48646.61,2024-12-11,Deleniti accusantium amet modi delectus aut eaque.
+401,2,158,Serviços,34325.34,2025-01-16,Quas doloremque corrupti laudantium exercitationem est.
+402,6,117,Outros,32349.9,2025-02-18,Voluptatum iure recusandae ex sapiente veritatis animi.
+403,3,199,Salário,22198.3,2025-02-09,Architecto iusto deleniti sapiente repellendus repudiandae.
+404,1,116,Outros,8497.76,2024-05-31,Harum voluptate doloribus voluptatum dicta.
+405,3,121,Impostos,46802.15,2025-01-24,Maxime voluptatem labore placeat.
+406,4,145,Outros,44851.37,2024-08-13,Culpa quas quia mollitia commodi laboriosam.
+407,2,133,Salário,32117.8,2024-08-08,Facere amet pariatur voluptate doloremque.
+408,9,136,Salário,31626.1,2024-09-29,Accusamus recusandae nesciunt id doloribus voluptas.
+409,10,169,Fornecedores,25626.08,2024-11-25,Porro culpa quo dolorum libero placeat excepturi.
+410,3,176,Outros,8555.52,2025-02-02,Animi explicabo culpa modi autem laborum et nam.
+411,10,193,Outros,17543.36,2024-12-20,Rem ipsa deserunt porro facere consequatur.
+412,10,106,Fornecedores,4979.92,2025-03-29,Laborum ipsa eos.
+413,10,134,Salário,38580.99,2025-01-09,Deleniti delectus expedita quasi eius rerum totam.
+414,7,180,Fornecedores,25403.86,2024-11-15,Architecto culpa eos ea.
+415,9,138,Impostos,24664.3,2024-09-03,A odit fugiat delectus accusantium sequi quod.
+416,7,139,Serviços,4575.68,2024-07-15,Quam omnis molestiae harum minima libero.
+417,1,121,Serviços,21365.47,2024-11-14,Nostrum eum odit beatae.
+418,8,127,Impostos,30726.35,2024-11-03,Aliquam vel debitis adipisci.
+419,6,192,Impostos,36975.79,2024-05-25,Deleniti adipisci odit harum laudantium numquam nihil.
+420,6,152,Salário,38272.58,2024-05-03,Dolore quaerat accusamus ullam omnis unde.
+421,9,172,Fornecedores,16636.68,2025-03-03,Iusto odit facere quia.
+422,8,116,Impostos,23030.2,2025-03-25,Reprehenderit recusandae animi nulla minus quasi.
+423,3,113,Fornecedores,15220.39,2025-03-04,Aspernatur dolor maxime aut doloremque.
+424,7,179,Serviços,13165.24,2024-09-10,Deserunt omnis necessitatibus veniam nam.
+425,3,142,Outros,36335.29,2024-11-16,Quia quisquam nemo perferendis praesentium incidunt.
+426,4,198,Salário,25415.01,2024-05-24,Recusandae mollitia magnam omnis.
+427,9,160,Serviços,44074.71,2024-11-07,Ipsam explicabo et voluptatibus eveniet fuga quisquam inventore.
+428,8,103,Fornecedores,47316.41,2025-01-20,Non natus distinctio quisquam unde ducimus.
+429,9,159,Salário,11542.08,2024-10-06,Vero a alias eligendi accusamus consequatur tempora.
+430,6,107,Fornecedores,14786.46,2024-04-16,Voluptates dolor et quo velit.
+431,10,184,Serviços,15001.67,2025-02-27,Ullam maiores necessitatibus nemo atque.
+432,1,114,Serviços,7562.81,2024-10-09,Culpa eaque suscipit dolorum ducimus error.
+433,5,194,Impostos,38428.98,2024-11-21,Necessitatibus dolor aspernatur eveniet laboriosam laborum.
+434,6,106,Serviços,3506.73,2025-03-29,Reprehenderit atque odit alias repellat fugit quod.
+435,9,125,Impostos,28107.92,2025-04-07,Expedita repellendus impedit sint sit dolorem.
+436,2,150,Outros,23067.36,2024-12-23,Ut odio odio amet minima eum natus eveniet.
+437,9,136,Outros,34339.53,2025-01-09,Corrupti perferendis voluptatum voluptas quidem.
+438,2,117,Fornecedores,20301.28,2024-11-23,At inventore ratione corporis excepturi labore quia.
+439,6,172,Impostos,37993.29,2024-11-12,Ea id ipsa praesentium quis laboriosam.
+440,4,178,Outros,20667.97,2024-06-29,Hic necessitatibus natus voluptatum minima doloribus eaque.
+441,1,106,Fornecedores,7714.78,2024-09-28,Placeat nemo beatae impedit facilis deleniti.
+442,6,161,Outros,23392.44,2024-08-25,Omnis quo cumque expedita reprehenderit rem numquam ipsam.
+443,10,166,Salário,17070.33,2025-04-07,Dicta fugiat quidem sequi beatae.
+444,10,141,Salário,20254.77,2024-05-05,Veniam unde sit reprehenderit accusamus.
+445,10,195,Impostos,30092.51,2025-01-08,Esse iusto ex qui.
+446,9,166,Outros,25002.49,2024-07-05,Molestias quibusdam molestias numquam voluptatibus.
+447,10,139,Serviços,40971.69,2025-01-08,Fugiat temporibus minima.
+448,6,143,Fornecedores,49015.0,2024-07-22,Animi dicta possimus earum.
+449,10,140,Fornecedores,30248.57,2024-10-11,Architecto optio optio.
+450,5,184,Outros,29304.09,2025-04-03,Sint accusantium sint officiis doloremque fugit.
+451,1,175,Serviços,9355.09,2025-01-14,Temporibus laborum nisi at.
+452,10,200,Serviços,8241.01,2024-06-30,Vitae natus quae aliquam ullam esse laudantium.
+453,4,105,Outros,47462.05,2025-01-28,Accusantium placeat explicabo esse.
+454,2,125,Fornecedores,22610.89,2024-10-25,Repellat numquam soluta tempora repellendus.
+455,7,120,Serviços,34834.51,2024-04-25,Veniam dolorem exercitationem hic consequatur quas maxime.
+456,7,165,Outros,46105.53,2025-01-02,Sit placeat impedit nemo incidunt est non ipsum.
+457,1,191,Salário,26415.48,2024-06-04,Officiis neque placeat dicta consequuntur.
+458,9,142,Serviços,26748.38,2025-01-06,Tenetur inventore tenetur quo omnis natus culpa.
+459,6,123,Serviços,45694.08,2024-05-10,Minus quaerat delectus saepe corporis adipisci eum.
+460,6,170,Impostos,34117.56,2024-09-21,Esse quia reprehenderit odio qui corrupti.
+461,5,179,Serviços,10420.94,2024-06-25,Consectetur ad voluptates nulla.
+462,4,136,Outros,15626.46,2024-12-05,Nostrum nisi doloremque ad aspernatur quod consequatur.
+463,5,199,Impostos,35540.15,2025-03-08,Iusto officiis delectus harum labore cum dolorem illum.
+464,8,141,Serviços,18091.36,2024-04-19,Veniam dolore perferendis dicta dignissimos.
+465,5,137,Fornecedores,29100.36,2024-06-21,Sint laudantium eveniet itaque doloribus illo.
+466,9,149,Serviços,41100.5,2024-04-30,Quasi fugit est nostrum quia nisi minima soluta.
+467,3,138,Fornecedores,15093.89,2025-02-13,Maxime iste repudiandae.
+468,2,145,Serviços,33142.63,2024-04-30,Maxime id quasi nam maiores.
+469,8,128,Salário,41569.63,2024-12-14,Deleniti ipsa sunt.
+470,5,172,Impostos,7726.37,2025-02-08,Itaque in nostrum amet maxime.
+471,10,195,Outros,12724.82,2024-06-08,Rerum iste quam beatae quod vel possimus.
+472,1,186,Outros,12057.91,2024-06-05,Impedit iste debitis nihil quae dicta.
+473,4,107,Fornecedores,21251.77,2024-10-07,Dolorum porro tenetur recusandae.
+474,8,113,Salário,1253.89,2025-01-17,At provident odio assumenda.
+475,9,121,Serviços,32991.75,2025-01-13,Quas voluptate nostrum cum mollitia aliquam.
+476,8,162,Salário,38039.64,2024-06-19,Natus optio corrupti sit debitis quae.
+477,5,142,Impostos,32649.0,2024-09-23,Est quisquam ipsum occaecati blanditiis.
+478,2,184,Outros,12378.79,2024-06-04,A quisquam accusamus libero libero.
+479,1,123,Serviços,44230.0,2025-02-21,Non laudantium dolor.
+480,3,105,Serviços,39610.07,2024-12-26,Iste ipsam nobis ab sunt eius occaecati.
+481,3,196,Impostos,43960.42,2025-02-26,Aliquid corporis officiis alias sequi.
+482,1,139,Outros,30536.37,2024-12-29,Saepe error ullam aliquid impedit debitis perferendis.
+483,6,137,Serviços,49465.87,2024-12-07,Nemo natus vitae quibusdam facere alias quisquam eum.
+484,9,168,Serviços,44573.74,2025-03-28,Reprehenderit quis sapiente aperiam iusto commodi.
+485,3,165,Serviços,14369.02,2025-03-13,Eveniet impedit distinctio distinctio animi.
+486,2,143,Salário,36824.84,2024-11-21,Minus assumenda quam non ratione provident incidunt sed.
+487,5,192,Salário,1690.13,2024-07-23,Nemo numquam unde nostrum libero quas libero.
+488,6,138,Outros,34045.66,2025-02-21,Sunt doloremque enim deserunt.
+489,4,123,Outros,42951.18,2024-05-29,Iure reiciendis qui.
+490,7,155,Outros,17068.41,2024-07-03,Voluptatum impedit ex nam odit accusamus dicta eligendi.
+491,7,186,Fornecedores,10054.28,2025-02-14,Est magni eum ab.
+492,3,162,Impostos,46855.44,2025-01-05,Exercitationem quam nulla adipisci cupiditate ex.
+493,1,134,Serviços,12540.54,2024-08-23,Totam reiciendis officia laboriosam occaecati tempora modi.
+494,5,143,Impostos,29540.58,2024-08-22,Quos impedit quia rerum error quam et.
+495,10,102,Impostos,33030.48,2024-11-08,Dignissimos placeat reiciendis.
+496,4,108,Fornecedores,23804.35,2025-03-24,Architecto corrupti sapiente excepturi fugiat modi.
+497,3,152,Outros,46232.19,2024-06-17,Non deleniti blanditiis quos est similique quae.
+498,5,189,Fornecedores,32296.85,2024-07-28,Assumenda soluta fuga repudiandae esse minima.
+499,5,148,Outros,11821.61,2024-06-20,Fugiat alias dicta at.
+500,3,162,Salário,23293.95,2024-10-27,Reiciendis temporibus culpa.
+501,10,148,Serviços,35395.1,2024-08-24,Quasi minima quod corporis sit reprehenderit vel.
+502,8,197,Outros,40297.75,2025-01-01,Dignissimos alias harum sint.
+503,4,198,Salário,34336.75,2024-05-28,Est aliquid sed.
+504,10,111,Outros,22890.65,2025-03-18,Ex suscipit aut quisquam.
+505,6,110,Outros,6498.23,2025-01-28,Ad quis odit distinctio dicta.
+506,9,165,Salário,29062.38,2024-08-03,Minus quo perferendis earum culpa.
+507,3,122,Impostos,42869.81,2024-05-28,Vero nam aut.
+508,8,115,Salário,36128.98,2024-11-10,Molestias earum velit rem nemo cupiditate.
+509,8,112,Outros,22828.65,2024-08-12,Tempora molestiae amet adipisci temporibus amet fugit assumenda.
+510,1,159,Salário,26149.14,2024-09-13,Provident tempora occaecati porro.
+511,8,173,Fornecedores,28381.06,2024-10-04,Explicabo ex dicta quis repellat aspernatur ullam quisquam.
+512,5,193,Fornecedores,20401.49,2024-11-20,At rem praesentium atque.
+513,1,196,Salário,29337.25,2024-08-12,Iusto veniam corporis tempore ducimus facilis delectus.
+514,1,155,Impostos,35318.86,2025-04-05,Ratione sunt iste adipisci labore expedita.
+515,9,108,Fornecedores,49320.73,2024-10-10,Eligendi expedita nemo magni.
+516,8,105,Impostos,21034.48,2024-09-18,Eveniet officiis recusandae minus.
+517,3,199,Serviços,19348.59,2024-09-16,Impedit nulla molestias voluptate fugit exercitationem repellendus nihil.
+518,7,158,Serviços,19406.63,2025-02-12,Necessitatibus exercitationem possimus cupiditate pariatur qui.
+519,9,118,Impostos,6813.03,2025-01-15,Saepe beatae nisi eveniet atque ipsum est.
+520,9,151,Outros,7240.01,2024-09-18,Nisi placeat nisi reprehenderit.
+521,4,101,Fornecedores,48946.04,2024-08-19,Officia aperiam dolor consequuntur neque quidem repellat.
+522,8,187,Outros,21782.27,2025-02-02,Optio iste eos nulla.
+523,7,130,Salário,23570.64,2024-10-04,Dignissimos soluta error recusandae perspiciatis.
+524,3,136,Salário,46933.11,2025-04-05,Quaerat totam voluptatibus nesciunt nostrum magni.
+525,2,105,Serviços,31131.24,2025-03-09,Sequi aperiam tempore voluptas.
+526,1,131,Salário,4297.25,2024-04-14,Reprehenderit facere similique sint doloremque praesentium hic.
+527,10,105,Serviços,30291.46,2024-08-15,Illo ipsa distinctio cupiditate consequuntur nam.
+528,1,132,Fornecedores,20711.0,2025-03-07,Saepe culpa voluptatum pariatur consequatur asperiores.
+529,4,170,Salário,37964.9,2024-04-20,Quam laborum ipsa voluptatibus.
+530,1,118,Outros,49680.69,2024-05-16,Odit impedit iste ratione.
+531,4,194,Outros,16626.28,2024-12-04,Numquam iste incidunt reprehenderit harum dolorem.
+532,10,199,Impostos,12608.3,2024-09-25,Ab libero quasi quae earum unde nemo alias.
+533,3,185,Outros,11831.09,2024-04-28,Laboriosam fuga neque vitae aspernatur quas minima.
+534,5,136,Fornecedores,28279.19,2025-03-13,Iure aspernatur suscipit at iusto.
+535,10,195,Salário,31673.66,2025-01-27,Placeat molestiae neque nostrum.
+536,7,172,Serviços,3297.32,2025-03-30,Modi ab iste temporibus nemo ex.
+537,6,183,Serviços,39504.43,2024-08-29,Enim alias ullam quibusdam quas.
+538,6,190,Serviços,21004.7,2024-11-18,Aperiam labore cumque amet voluptatibus.
+539,5,149,Salário,37966.39,2025-02-22,Ad laborum consectetur asperiores quos dolorum nulla eius.
+540,8,131,Salário,15736.08,2024-07-22,Qui nobis tenetur.
+541,3,160,Fornecedores,28556.91,2025-01-25,Omnis fuga cupiditate quos.
+542,7,172,Outros,7570.54,2024-07-14,Debitis minima alias voluptates voluptas nisi reprehenderit.
+543,4,133,Salário,17182.89,2025-03-05,Quidem impedit fugit optio quas cumque neque.
+544,2,158,Impostos,5530.74,2025-03-06,Amet eaque reprehenderit amet iure labore.
+545,4,107,Impostos,19481.23,2024-10-15,Doloremque placeat harum ea minus ipsa enim.
+546,10,178,Fornecedores,43807.4,2025-02-17,Fugit et minus veritatis atque minus explicabo.
+547,4,198,Outros,36490.96,2025-03-07,Nostrum officiis earum earum rem ducimus.
+548,9,128,Serviços,11235.57,2024-11-26,Itaque perferendis doloribus perferendis quo maxime.
+549,6,139,Fornecedores,11378.58,2025-01-02,Et ab ab architecto.
+550,4,195,Fornecedores,37597.08,2024-09-20,Minima placeat expedita quam.
+551,8,132,Outros,35484.66,2024-07-20,Alias nulla animi nisi tempora.
+552,7,131,Outros,16759.14,2024-07-07,Odit provident blanditiis sequi consectetur omnis tempore necessitatibus.
+553,5,149,Serviços,27148.86,2024-06-24,Possimus ducimus iure vel.
+554,6,140,Impostos,18622.59,2024-12-18,Ullam eius incidunt temporibus quo eum cum.
+555,8,160,Fornecedores,40338.01,2024-05-12,Quod fugit ex animi veritatis.
+556,8,198,Impostos,45802.19,2024-07-25,Ipsam laudantium ut nostrum.
+557,6,141,Serviços,3240.06,2024-06-22,Autem molestiae inventore nostrum autem ipsam ea.
+558,4,195,Salário,1794.78,2024-04-27,Architecto quas quod accusantium.
+559,9,175,Outros,36280.58,2024-10-24,Officiis a alias hic.
+560,5,120,Salário,17163.4,2024-06-11,Temporibus nemo maiores velit laudantium ipsa.
+561,7,173,Salário,25465.77,2025-03-07,Molestiae a veritatis repellendus.
+562,6,133,Serviços,48358.91,2024-10-18,Necessitatibus vel facere placeat.
+563,8,159,Salário,36905.84,2024-09-16,Odio vero at modi.
+564,6,122,Salário,36295.36,2024-08-24,Sapiente quis enim dicta.
+565,8,124,Outros,49525.85,2024-11-15,Voluptas optio error.
+566,1,168,Fornecedores,42114.36,2024-09-12,Occaecati facere assumenda odio.
+567,2,186,Fornecedores,38452.6,2025-01-24,Consequuntur deserunt quaerat nihil laudantium.
+568,7,118,Salário,4330.43,2024-05-08,Officia libero vitae repellat vitae accusamus excepturi.
+569,3,102,Salário,25780.91,2024-08-23,Illo distinctio omnis.
+570,6,108,Outros,32248.7,2024-11-03,Velit sit modi qui doloremque asperiores quasi.
+571,10,162,Serviços,1770.86,2024-10-20,Iusto ullam aliquid.
+572,9,171,Serviços,1580.7,2025-01-11,Accusamus odio temporibus reprehenderit.
+573,9,193,Impostos,27251.17,2024-05-21,Nostrum saepe aperiam repellendus beatae nisi nulla.
+574,5,103,Outros,40844.7,2024-05-08,Incidunt repellat voluptatem perspiciatis eveniet.
+575,7,123,Fornecedores,45984.39,2025-01-04,Molestias eum vitae distinctio aliquid cupiditate aperiam.
+576,9,120,Salário,10404.67,2024-07-29,Quidem cumque fuga cumque.
+577,9,133,Impostos,14098.91,2024-07-17,Aliquam aut sed nostrum quod accusamus laborum ab.
+578,7,111,Impostos,48005.59,2024-06-22,Provident nisi eligendi possimus.
+579,8,173,Salário,49521.42,2025-02-15,Possimus dignissimos odit minima illum vel nostrum.
+580,4,139,Fornecedores,33033.05,2024-04-28,Debitis libero veniam occaecati quos expedita a doloremque.
+581,1,112,Serviços,19583.94,2024-05-29,Voluptate nulla sint voluptates magni iure occaecati.
+582,9,161,Fornecedores,32200.66,2024-07-03,Amet beatae corrupti sapiente tenetur.
+583,3,111,Serviços,42421.16,2024-10-24,Cum ullam amet facilis.
+584,6,173,Fornecedores,44844.77,2024-07-04,Dolorum nulla suscipit iste autem amet.
+585,1,130,Salário,45162.37,2024-11-08,Culpa adipisci maiores architecto.
+586,10,161,Impostos,3281.54,2024-07-14,Nihil eveniet dicta perspiciatis eveniet quod.
+587,2,188,Impostos,45066.27,2024-08-18,Atque qui sit fugiat dolore.
+588,10,185,Fornecedores,9788.37,2024-10-13,Laborum tempora corporis unde iste harum consequatur quam.
+589,6,103,Salário,29764.77,2024-12-15,Voluptate dicta consectetur porro animi consequatur.
+590,7,110,Impostos,8960.06,2025-03-10,Itaque cupiditate exercitationem suscipit nobis ratione odit.
+591,4,173,Serviços,34174.71,2024-12-07,Neque mollitia dolorem illum.
+592,9,143,Serviços,38024.85,2024-11-02,Similique dolor labore iure accusamus incidunt sit.
+593,3,189,Fornecedores,25538.85,2024-07-19,Ipsa dolore unde veniam totam tempore.
+594,6,107,Fornecedores,22417.32,2024-09-23,Aliquam iusto quisquam.
+595,2,144,Outros,38681.28,2024-04-27,Minus laboriosam reiciendis reprehenderit iste dolores.
+596,10,151,Impostos,2451.66,2024-11-16,Possimus illum dolor.
+597,5,158,Serviços,12178.78,2024-08-31,Dolores voluptatum accusamus pariatur cum.
+598,9,149,Serviços,10101.15,2024-10-09,Quibusdam ad iste quo soluta illo ratione.
+599,10,185,Serviços,5199.01,2024-09-04,Iure odio similique architecto tempora ex adipisci incidunt.
+600,10,138,Salário,35942.32,2024-07-27,Molestiae recusandae ratione aspernatur sunt quasi amet veniam.
+601,2,135,Salário,19620.0,2025-01-01,Suscipit beatae facilis nulla facilis cupiditate.
+602,3,195,Serviços,16517.23,2024-11-17,Natus quo consequuntur ex.
+603,2,112,Fornecedores,47205.05,2024-11-09,Officiis qui quibusdam sit.
+604,8,147,Impostos,6009.34,2025-01-11,Quidem quis eum tempore magnam.
+605,2,124,Serviços,22993.34,2024-09-25,Amet fuga iste magnam repudiandae.
+606,9,166,Serviços,6061.35,2024-10-13,Perspiciatis minus eos numquam reiciendis veniam repellat.
+607,2,146,Outros,5560.15,2025-04-14,Deleniti sunt assumenda hic.
+608,10,142,Serviços,1604.69,2024-06-22,Vero aspernatur cum beatae corporis.
+609,7,150,Fornecedores,36517.35,2024-06-11,Maxime occaecati eos voluptas molestiae.
+610,9,132,Outros,26534.12,2024-06-04,Expedita ipsam officia eos aperiam sit doloremque.
+611,7,122,Salário,14177.03,2024-11-01,Illum exercitationem officia eveniet nihil possimus.
+612,5,164,Salário,4100.09,2025-03-06,Ipsum esse consequatur ratione cupiditate ea laborum.
+613,7,136,Serviços,15687.86,2024-08-03,Corporis eligendi vero.
+614,2,147,Impostos,47266.89,2024-12-10,Quae eligendi voluptate saepe.
+615,8,177,Outros,10581.86,2025-01-08,Cum blanditiis voluptatibus nemo.
+616,2,118,Impostos,1331.6,2024-10-02,Fuga dignissimos provident pariatur voluptatem.
+617,7,143,Outros,19614.61,2024-06-10,Ipsum voluptate modi commodi ad ut.
+618,6,157,Impostos,22100.19,2025-02-06,Veniam unde culpa voluptas.
+619,10,118,Impostos,16712.59,2024-11-12,Ex provident labore enim velit voluptatem nemo.
+620,4,162,Impostos,9704.23,2024-06-10,Quas ullam excepturi beatae laboriosam aliquam perspiciatis.
+621,7,141,Impostos,37008.84,2024-05-29,Ad nulla dolore facere eveniet.
+622,8,174,Salário,16968.43,2024-12-06,Nesciunt dolore vel eius ad.
+623,5,151,Impostos,6580.5,2024-11-09,Perspiciatis vero voluptate hic laudantium nobis maiores.
+624,10,126,Outros,49865.98,2024-05-05,Id quaerat incidunt harum accusamus exercitationem.
+625,3,188,Outros,2318.89,2024-08-11,Soluta assumenda quas ipsam voluptatibus rem enim.
+626,8,191,Salário,22484.29,2025-02-20,Quas impedit saepe nisi corporis esse.
+627,5,189,Fornecedores,41129.31,2025-03-16,Voluptates architecto vero quidem at illum totam.
+628,7,187,Serviços,7819.78,2024-09-21,Nam quae quidem consequatur.
+629,5,131,Impostos,33274.49,2024-06-25,Enim laudantium reprehenderit error nesciunt laudantium.
+630,7,149,Fornecedores,23004.27,2025-01-26,Dolore recusandae culpa error odit odio commodi.
+631,10,162,Outros,20639.45,2024-12-28,Impedit laudantium porro doloribus blanditiis.
+632,9,189,Serviços,27638.61,2024-07-30,Voluptatibus architecto quia neque natus sit occaecati.
+633,6,190,Outros,30097.18,2024-10-15,Fuga quasi accusantium ea.
+634,2,114,Salário,33222.48,2024-11-25,Corporis itaque possimus facere.
+635,6,122,Outros,3170.54,2024-05-04,Facere odio veritatis aliquid eos.
+636,7,197,Impostos,48320.12,2024-12-18,Maiores quisquam delectus atque.
+637,7,114,Fornecedores,5831.72,2025-01-31,Molestiae sit repudiandae placeat.
+638,4,166,Outros,28341.68,2024-08-08,Placeat porro atque neque reprehenderit.
+639,10,129,Serviços,19331.86,2024-04-19,Maxime fuga laborum excepturi.
+640,8,199,Outros,34831.43,2025-04-02,Aut culpa dolore deleniti.
+641,3,145,Fornecedores,24655.78,2025-03-28,Nostrum rerum minima minus mollitia quidem beatae.
+642,5,154,Fornecedores,6687.4,2024-10-09,Blanditiis consectetur accusantium expedita.
+643,3,145,Impostos,17810.27,2025-01-07,Consequuntur ipsam voluptates minima voluptas cupiditate.
+644,4,167,Serviços,18066.71,2024-08-10,Quia blanditiis consectetur.
+645,2,157,Serviços,16626.56,2025-01-08,Porro esse distinctio voluptatem.
+646,5,106,Fornecedores,2106.67,2024-09-25,Aspernatur quo quidem aliquam.
+647,6,183,Fornecedores,34179.83,2024-05-25,Recusandae maiores animi.
+648,3,195,Salário,26283.7,2024-05-30,Aliquam error ab atque commodi.
+649,9,121,Impostos,28432.6,2024-12-03,Nesciunt dicta perferendis adipisci corporis.
+650,8,130,Serviços,31858.26,2025-01-28,Veniam expedita cum magnam quas.
+651,3,182,Serviços,20383.54,2024-07-16,Necessitatibus aut neque accusamus dolor deleniti eligendi.
+652,10,126,Serviços,30017.95,2025-03-30,A quas unde ullam sed labore praesentium.
+653,7,101,Salário,11083.44,2024-06-24,Perferendis autem rerum voluptatem incidunt maiores.
+654,2,174,Fornecedores,40175.62,2024-09-19,Quis et iure maxime.
+655,9,124,Impostos,16973.26,2024-10-23,Provident nam aliquam eveniet blanditiis eligendi.
+656,8,115,Impostos,33864.37,2024-12-03,Porro sapiente dolorem illum voluptates.
+657,8,168,Impostos,30251.57,2024-09-27,Sequi tempora rem vel facilis.
+658,10,151,Outros,6597.37,2024-04-18,Perferendis id minima perspiciatis blanditiis hic possimus.
+659,6,159,Outros,9453.85,2024-05-23,Aperiam voluptate excepturi nisi.
+660,5,179,Outros,5152.85,2024-09-18,Doloremque incidunt libero quisquam.
+661,3,141,Fornecedores,12690.06,2025-02-05,Nisi quidem reiciendis velit explicabo pariatur veniam voluptates.
+662,2,124,Impostos,34978.39,2024-10-29,Corporis iste commodi laudantium doloremque.
+663,9,150,Serviços,30224.87,2025-04-14,Adipisci qui rerum libero.
+664,10,150,Serviços,10101.93,2024-04-24,Fugit perspiciatis corrupti numquam.
+665,9,189,Salário,28190.72,2024-05-21,Optio maxime laudantium iure.
+666,8,137,Salário,10167.83,2024-08-06,Laudantium ea exercitationem similique molestias veritatis adipisci.
+667,8,180,Fornecedores,43410.59,2024-09-28,Fugit et fugiat itaque.
+668,1,163,Salário,10561.3,2024-04-26,Nam similique esse provident.
+669,7,172,Outros,33000.42,2024-10-21,Consequatur quaerat laborum autem perferendis optio.
+670,7,188,Serviços,21365.89,2025-01-05,Nemo labore sequi magni hic libero voluptas.
+671,8,163,Salário,5050.86,2024-12-09,Quisquam eligendi aperiam nihil consectetur facilis.
+672,1,198,Salário,15312.41,2025-02-22,Ad tempora exercitationem atque exercitationem facere expedita optio.
+673,5,129,Outros,15144.85,2024-07-19,Officia nihil tenetur aperiam esse.
+674,8,173,Serviços,27936.58,2024-08-23,Accusantium eveniet itaque sint.
+675,2,174,Fornecedores,14126.56,2024-11-20,Temporibus eaque possimus nihil voluptates fugiat hic.
+676,9,147,Outros,41307.94,2024-11-22,Repellat aut perferendis excepturi.
+677,1,198,Serviços,27771.31,2024-10-26,Cumque error voluptas dicta odio voluptate.
+678,7,114,Salário,15587.74,2024-05-13,Distinctio eaque error nemo rem numquam vero.
+679,1,158,Impostos,18080.27,2025-01-17,Atque excepturi architecto reiciendis labore distinctio recusandae officiis.
+680,2,157,Fornecedores,39005.95,2024-08-09,Rem inventore molestiae dicta illo numquam iste.
+681,4,127,Outros,34767.55,2025-02-04,Debitis accusantium provident sint nemo distinctio vitae.
+682,10,181,Serviços,9133.1,2025-01-27,Eaque odit repellat sequi tenetur vel quas.
+683,3,127,Salário,40466.58,2024-05-07,Dicta iure dolores quia quisquam sapiente illum.
+684,10,145,Outros,14773.17,2025-03-14,Odio sapiente eaque enim.
+685,9,122,Impostos,48971.01,2024-06-15,Porro doloremque dolores corrupti adipisci.
+686,5,138,Outros,14099.81,2025-02-17,Iure nam ipsa officia alias.
+687,9,187,Fornecedores,7643.86,2024-06-14,Consequatur ea rem omnis debitis.
+688,7,108,Impostos,43485.33,2025-03-11,Vitae laborum accusantium.
+689,3,190,Salário,13234.18,2025-03-13,Et error aperiam veritatis.
+690,6,132,Serviços,24983.48,2025-03-28,Perferendis suscipit id saepe sapiente doloremque.
+691,10,181,Impostos,31762.83,2024-11-21,Ut maxime repudiandae veniam ut dolorum sunt.
+692,7,158,Fornecedores,32047.76,2024-07-15,Commodi rem eveniet nesciunt harum quibusdam doloremque in.
+693,2,152,Outros,37740.32,2024-06-09,Cupiditate voluptas ipsa ducimus.
+694,6,159,Serviços,17037.17,2024-11-28,Laudantium fugiat veniam et.
+695,1,200,Fornecedores,36815.66,2024-09-25,Placeat vitae sunt vel facilis quaerat reprehenderit.
+696,8,182,Impostos,42655.21,2024-04-22,Alias qui reiciendis amet totam perferendis ducimus harum.
+697,9,151,Salário,48438.3,2024-12-18,Temporibus placeat modi dolores ipsam ab.
+698,4,164,Impostos,16820.39,2024-09-13,Error vel quidem error similique.
+699,5,144,Outros,29318.75,2024-06-15,Occaecati sunt quisquam illo alias sint.
+700,10,163,Impostos,44813.58,2025-02-27,Iusto impedit sapiente quaerat soluta reprehenderit repudiandae.
+701,1,106,Fornecedores,31682.8,2025-01-10,Magni explicabo nobis repellendus qui.
+702,8,103,Fornecedores,46542.21,2024-10-07,Quis odit delectus.
+703,3,157,Serviços,1033.12,2024-10-03,A dicta esse nemo.
+704,7,126,Salário,44225.24,2024-05-27,Dolorum quae quisquam officiis.
+705,5,121,Impostos,5573.66,2024-06-03,Placeat recusandae eum laboriosam quasi ea porro repudiandae.
+706,6,133,Fornecedores,19220.34,2025-02-18,Dicta impedit delectus soluta velit.
+707,3,107,Serviços,31654.61,2025-03-23,Dolore veniam unde officia occaecati tenetur voluptate.
+708,4,155,Fornecedores,35481.2,2024-06-29,Praesentium cumque id inventore ea.
+709,1,128,Serviços,4819.0,2024-05-18,Cumque necessitatibus accusamus minima quo unde.
+710,10,129,Outros,34319.15,2025-03-01,Blanditiis quae deleniti similique quos enim laudantium.
+711,1,102,Impostos,41038.34,2024-06-03,Sequi nobis voluptatum eligendi perspiciatis in.
+712,7,189,Salário,24407.31,2024-09-19,Adipisci voluptate doloremque iste.
+713,4,150,Fornecedores,36807.41,2024-07-19,Nesciunt officia assumenda iusto sit voluptate.
+714,2,114,Impostos,19010.52,2024-09-15,Quae provident quasi ducimus atque.
+715,5,118,Serviços,38899.56,2024-05-06,Ex doloremque tenetur.
+716,3,183,Salário,4352.17,2024-12-05,Quae repellat a magnam fugit voluptate perferendis consequatur.
+717,10,102,Outros,32850.99,2025-03-26,Aliquam debitis cumque laudantium excepturi iusto at.
+718,8,145,Salário,31775.92,2025-01-14,Inventore ea et voluptatem libero voluptate eligendi.
+719,3,153,Outros,34641.74,2024-09-01,Eligendi soluta nostrum quis eaque est.
+720,4,112,Fornecedores,7860.64,2025-03-26,Et voluptatum quis corrupti.
+721,2,176,Serviços,18225.25,2025-03-11,Amet corrupti dolorem alias ea provident.
+722,7,141,Salário,13141.53,2024-09-30,Voluptatum unde aliquam explicabo.
+723,2,132,Outros,30448.95,2025-01-14,Laborum laudantium sapiente sint commodi atque sit.
+724,10,137,Fornecedores,42546.71,2024-06-23,Quibusdam reprehenderit natus optio.
+725,5,127,Outros,30739.42,2024-07-05,Voluptatum a quisquam debitis ullam doloribus libero atque.
+726,4,196,Serviços,15481.56,2024-08-19,Eligendi voluptatem commodi.
+727,1,131,Serviços,19908.39,2024-09-06,Ut autem eum adipisci itaque provident laboriosam occaecati.
+728,4,164,Outros,4479.59,2024-07-27,Omnis eveniet aliquam numquam iste veniam voluptatum tenetur.
+729,1,147,Impostos,7467.16,2025-02-17,Consectetur sint reiciendis eligendi reiciendis quia molestias.
+730,10,154,Impostos,27771.45,2024-12-03,At ducimus dolores quo id accusantium.
+731,3,198,Serviços,47768.2,2024-07-03,Harum illo officia veritatis.
+732,2,103,Outros,4309.1,2024-06-12,Error reiciendis quasi ullam.
+733,5,128,Fornecedores,46206.39,2025-03-30,Consectetur pariatur rerum maiores laudantium suscipit labore natus.
+734,7,165,Impostos,31799.96,2024-09-25,Quidem repellat nostrum ipsa.
+735,9,199,Serviços,21755.19,2024-09-26,Aliquam exercitationem iure dolore.
+736,7,111,Outros,27345.11,2025-01-05,Ut minima officia assumenda.
+737,3,136,Fornecedores,16185.44,2024-10-12,Aspernatur reiciendis error voluptates placeat error.
+738,9,127,Salário,27283.12,2024-07-19,Incidunt necessitatibus mollitia totam maiores magni impedit.
+739,7,176,Fornecedores,16198.31,2024-10-11,Repellat explicabo nesciunt quisquam accusamus qui iure.
+740,7,194,Salário,3837.39,2025-02-13,Sapiente aliquid impedit provident.
+741,2,156,Fornecedores,23215.22,2024-08-13,Quam quidem ipsum repellat exercitationem ullam repellat distinctio.
+742,10,108,Impostos,33637.9,2024-05-14,Ea perferendis inventore accusantium hic accusamus omnis itaque.
+743,3,116,Fornecedores,35687.13,2024-09-18,Quas esse repellat nulla porro vitae perferendis rem.
+744,1,121,Serviços,47697.79,2024-05-18,Consequatur deleniti repellendus possimus.
+745,9,167,Impostos,9181.18,2024-06-26,Distinctio officiis officiis.
+746,3,196,Impostos,36913.86,2024-09-30,Similique molestiae assumenda quo corporis in blanditiis temporibus.
+747,2,199,Fornecedores,17415.54,2025-01-25,Vitae iusto similique nesciunt dicta necessitatibus.
+748,7,135,Outros,4129.73,2025-03-03,Amet ab occaecati quae voluptatem sed.
+749,10,181,Fornecedores,25311.23,2025-01-25,Nisi mollitia enim laborum laborum nihil nostrum perspiciatis.
+750,9,147,Fornecedores,25480.89,2025-02-25,Doloremque aperiam accusantium nemo mollitia eaque officia.
+751,10,122,Impostos,8708.19,2025-03-25,Blanditiis numquam officia ipsum ipsa cum quas.
+752,2,174,Fornecedores,12191.82,2024-10-13,Ipsa magni nesciunt placeat ullam sequi.
+753,9,101,Fornecedores,43075.76,2025-01-16,Consectetur eos quae vero rerum perferendis quasi.
+754,1,132,Fornecedores,24116.46,2025-02-17,Reiciendis sapiente numquam eligendi quibusdam pariatur consectetur.
+755,7,120,Salário,46626.84,2024-06-30,Non aut impedit voluptatibus.
+756,1,171,Serviços,12001.25,2024-08-09,Distinctio aliquid accusantium sunt explicabo.
+757,4,154,Impostos,14291.64,2024-06-14,Repudiandae tempora adipisci aperiam.
+758,2,174,Impostos,6850.65,2024-09-28,Nulla blanditiis dolore ducimus.
+759,1,123,Salário,40412.56,2024-08-24,Quo quo nam tempore sequi soluta.
+760,1,152,Fornecedores,43972.57,2024-12-04,Provident unde ipsa itaque.
+761,5,200,Impostos,17037.75,2025-03-06,Voluptate quos non similique.
+762,9,159,Fornecedores,19077.05,2024-05-23,Aliquam autem occaecati sit tenetur culpa eos.
+763,5,173,Impostos,37239.22,2024-10-02,Libero sit culpa facilis reprehenderit commodi dicta.
+764,4,160,Impostos,29992.86,2024-09-22,Doloribus repellat exercitationem.
+765,8,199,Salário,36890.7,2024-10-27,Assumenda fuga quidem facere.
+766,9,198,Salário,8377.75,2024-12-28,Corrupti quidem in dolorem reiciendis.
+767,7,104,Salário,27535.71,2024-09-21,Tempore veritatis maiores placeat velit ipsam.
+768,1,143,Fornecedores,38187.53,2025-02-07,Quaerat maxime architecto.
+769,7,195,Impostos,6093.5,2024-08-23,Illo quo ipsa hic alias ullam.
+770,9,131,Serviços,25109.41,2024-06-11,Animi occaecati quae optio maxime eos illo.
+771,1,119,Impostos,5558.31,2025-01-03,Sit quam et exercitationem repudiandae tempore nostrum.
+772,4,167,Serviços,35341.5,2024-06-10,Ipsum dignissimos molestias ratione officiis possimus.
+773,6,159,Fornecedores,29457.76,2025-03-24,Quod sunt assumenda modi harum quaerat.
+774,9,118,Serviços,4666.69,2025-03-21,Maxime molestiae distinctio maiores.
+775,10,108,Serviços,33459.75,2024-08-13,Exercitationem odio ad tempora molestiae ea rerum.
+776,3,131,Impostos,13788.56,2024-08-10,Voluptates beatae animi fuga occaecati explicabo.
+777,6,151,Impostos,16584.83,2024-05-02,Ipsum nemo a excepturi.
+778,5,130,Fornecedores,47234.18,2024-07-14,Natus tempora occaecati modi nisi expedita eligendi quos.
+779,3,200,Outros,6339.67,2025-01-16,Perferendis quaerat maxime dolorum eveniet neque reprehenderit.
+780,2,122,Serviços,23836.7,2024-09-01,Atque quae repudiandae aspernatur aperiam suscipit labore.
+781,7,116,Outros,18556.08,2024-10-04,Fuga minima nihil maxime.
+782,4,158,Impostos,23703.98,2024-09-14,Nesciunt odio voluptatum porro veniam.
+783,2,112,Salário,40572.25,2025-01-23,Reprehenderit corporis consectetur quae consectetur provident.
+784,5,191,Outros,2976.16,2025-03-15,Blanditiis distinctio labore quia velit fuga veritatis.
+785,6,119,Fornecedores,35846.71,2024-12-03,Beatae fuga enim minima blanditiis esse.
+786,6,151,Outros,3398.58,2024-09-06,Eos adipisci corporis quos in.
+787,5,134,Salário,2523.02,2025-04-12,Suscipit dolor reprehenderit laborum commodi.
+788,7,158,Outros,37655.84,2024-08-27,Sit impedit nemo natus.
+789,4,113,Serviços,5993.46,2025-03-29,Quos labore quam non quis magnam.
+790,3,116,Fornecedores,4021.79,2024-10-10,Pariatur corrupti quas at numquam numquam harum.
+791,4,117,Salário,41360.0,2025-03-29,Excepturi aliquid perferendis ipsam eius at.
+792,6,188,Fornecedores,29533.87,2024-06-17,Nemo recusandae provident.
+793,5,110,Fornecedores,49860.91,2024-11-17,Officia assumenda veritatis molestiae.
+794,4,183,Serviços,40655.63,2025-02-02,Vero maxime quibusdam.
+795,2,143,Fornecedores,3092.12,2024-10-26,Blanditiis vel debitis.
+796,8,107,Salário,46282.45,2024-04-21,Ratione doloribus provident suscipit ipsam.
+797,7,193,Serviços,25310.19,2025-02-21,Non illo aliquid similique ad ipsa impedit.
+798,7,188,Serviços,9467.55,2025-03-13,Et ducimus beatae aut cumque corporis ducimus.
+799,4,124,Impostos,14712.87,2024-05-18,Esse illum cumque nostrum.
+800,3,105,Outros,31339.65,2024-08-18,Ad animi harum eum.
+801,4,183,Impostos,25445.69,2024-09-21,Ducimus velit tempore amet dolores nisi.
+802,9,162,Fornecedores,5298.36,2024-07-14,Magni magnam veniam earum et mollitia aperiam.
+803,7,118,Serviços,10773.43,2024-04-25,Odio totam accusantium mollitia nesciunt aut.
+804,9,132,Outros,39947.47,2025-02-04,Officiis commodi necessitatibus ipsum sed magnam quos.
+805,7,192,Impostos,24504.54,2024-06-08,Molestiae cumque doloribus veritatis vero nam.
+806,8,145,Outros,25617.27,2024-04-30,Repellat vero nulla.
+807,7,135,Salário,2277.09,2024-12-23,A ut laboriosam nisi.
+808,10,129,Fornecedores,44892.47,2025-03-06,Voluptatum sapiente distinctio sapiente eligendi cum.
+809,5,108,Serviços,26942.18,2024-11-07,Architecto at praesentium rerum quam voluptatum soluta.
+810,10,130,Salário,5906.58,2024-07-04,Magnam reiciendis sunt veniam odio voluptatem provident earum.
+811,4,135,Outros,40997.97,2024-12-27,Exercitationem itaque nobis accusamus porro officia.
+812,1,198,Salário,29208.91,2024-04-14,Labore temporibus perferendis impedit tempora provident quis modi.
+813,7,146,Salário,9628.92,2025-02-13,Molestiae tempora repellendus ipsum.
+814,10,141,Impostos,45785.02,2024-05-31,Voluptas fugiat nobis harum saepe repellat.
+815,1,191,Impostos,47430.38,2024-04-17,Iure vel ipsam dolore.
+816,10,119,Outros,47470.06,2024-04-21,Perspiciatis quae deleniti repellendus numquam.
+817,8,170,Impostos,9602.28,2025-02-21,Doloremque laudantium facilis eligendi temporibus.
+818,1,112,Fornecedores,12398.54,2025-01-13,Distinctio deserunt reprehenderit id sit necessitatibus laudantium mollitia.
+819,4,103,Outros,24421.46,2024-12-26,Perferendis nobis cupiditate nihil quia consectetur ut.
+820,6,179,Salário,40515.83,2025-03-12,Sunt quas earum sed ad.
+821,6,192,Salário,46020.26,2025-01-08,Nostrum perspiciatis sunt a incidunt perferendis officiis.
+822,6,108,Fornecedores,8237.89,2025-03-11,Inventore voluptatum earum perspiciatis iure facere.
+823,3,200,Fornecedores,42477.56,2025-02-02,Sunt dolore eius.
+824,6,110,Impostos,35522.36,2024-09-24,Ipsum a deserunt aspernatur nemo ad qui.
+825,7,176,Fornecedores,17491.49,2025-01-06,Vero totam deserunt eveniet aperiam numquam.
+826,6,118,Salário,36885.25,2024-04-24,Inventore ad reiciendis vel saepe doloribus labore.
+827,7,182,Serviços,32809.83,2024-08-24,Reprehenderit maxime dolores.
+828,3,191,Outros,34984.46,2024-05-12,Nulla quisquam numquam neque assumenda aperiam alias et.
+829,10,146,Salário,33611.05,2025-03-09,Quos aperiam rem amet.
+830,3,149,Impostos,36965.75,2024-12-07,Inventore aut animi amet sed illo nulla illum.
+831,5,117,Salário,36712.72,2025-03-15,Ratione numquam iste iure incidunt nulla aut officiis.
+832,10,151,Outros,2586.75,2025-01-01,Iste eveniet deserunt.
+833,10,141,Outros,11823.87,2024-05-23,Nisi architecto ratione.
+834,10,114,Serviços,7891.53,2024-06-28,Commodi magni explicabo laboriosam nulla delectus consequuntur.
+835,2,131,Impostos,49136.6,2024-05-01,Consectetur nesciunt maiores officiis.
+836,3,182,Fornecedores,41261.43,2024-08-30,Nesciunt molestiae corporis iusto nobis.
+837,6,158,Fornecedores,13995.41,2024-08-05,Voluptas maxime omnis corporis dolores reprehenderit.
+838,4,189,Fornecedores,18173.58,2024-11-17,In deserunt dicta.
+839,2,193,Fornecedores,3359.23,2025-04-01,Quos exercitationem pariatur possimus voluptatem.
+840,8,194,Serviços,48485.99,2024-12-02,Sequi necessitatibus excepturi error eveniet autem.
+841,7,164,Serviços,18210.33,2025-03-20,Libero ullam odit.
+842,7,113,Serviços,39647.77,2025-01-08,Iure distinctio laboriosam quisquam repellendus.
+843,10,184,Salário,8970.17,2025-02-21,Dignissimos delectus voluptatibus facilis asperiores adipisci.
+844,2,105,Impostos,1983.82,2024-05-28,Enim deserunt nesciunt quisquam.
+845,5,114,Fornecedores,17748.6,2024-05-01,Dicta eligendi dolor.
+846,7,121,Fornecedores,27805.27,2024-07-24,Excepturi mollitia debitis accusantium.
+847,2,144,Outros,49278.53,2025-03-07,Tenetur accusantium perspiciatis fugiat ratione.
+848,8,191,Fornecedores,22134.84,2024-05-27,Vel esse dolores repellat optio velit.
+849,3,178,Serviços,8698.09,2025-02-18,Sunt soluta aperiam corporis unde recusandae deleniti fugiat.
+850,2,143,Salário,48745.52,2024-09-06,Nobis voluptate doloribus aliquid nulla deleniti.
+851,7,190,Outros,36379.87,2024-11-07,Ratione eveniet amet recusandae sit.
+852,9,134,Impostos,15572.63,2025-03-10,Voluptas suscipit distinctio aspernatur iusto optio aperiam.
+853,2,107,Serviços,29016.72,2024-10-28,Quibusdam officia magni libero iure eum.
+854,8,120,Fornecedores,18680.62,2024-09-06,Possimus quaerat libero eaque id ullam nesciunt.
+855,7,112,Impostos,41370.97,2024-04-28,Dolor dicta sint id esse.
+856,10,162,Salário,5752.36,2025-03-25,Necessitatibus vel fugiat mollitia consequatur assumenda.
+857,4,122,Impostos,48875.83,2024-10-03,Expedita nesciunt iure numquam incidunt iusto illum.
+858,8,115,Impostos,39458.95,2025-02-20,Et fugit debitis doloremque officia facere assumenda.
+859,8,163,Impostos,5465.71,2025-03-07,Maiores officia ratione unde atque architecto alias.
+860,9,150,Salário,19180.01,2024-06-30,Deserunt eveniet esse repellendus placeat earum.
+861,7,148,Salário,22842.99,2025-01-13,Voluptatum voluptatum quibusdam qui totam ab error reprehenderit.
+862,5,157,Serviços,13906.64,2025-02-12,Veniam reprehenderit quidem accusamus omnis voluptatibus.
+863,5,173,Fornecedores,8405.4,2024-06-10,Dolorem quam distinctio doloremque nesciunt mollitia.
+864,2,111,Impostos,40600.83,2024-10-13,Exercitationem assumenda sapiente inventore velit in ipsa.
+865,7,197,Outros,12148.13,2025-03-11,Adipisci consequuntur soluta esse qui libero omnis.
+866,1,150,Outros,21512.97,2024-08-29,Dolorem incidunt quibusdam quis porro error.
+867,9,188,Serviços,29063.0,2024-11-27,Necessitatibus adipisci consequuntur.
+868,4,161,Impostos,4868.8,2024-08-20,Occaecati nobis non sint voluptatem dignissimos hic.
+869,1,165,Outros,45122.3,2024-11-07,Deleniti autem necessitatibus iste tempora at.
+870,10,187,Outros,8224.94,2024-05-24,Debitis repudiandae nobis ad dicta tenetur harum.
+871,8,123,Salário,48636.08,2024-07-02,Enim minima iste fuga accusamus.
+872,4,117,Fornecedores,21745.37,2024-08-18,Hic voluptatibus consectetur in quia harum.
+873,7,126,Salário,41871.3,2025-03-30,Consectetur dignissimos inventore quae labore.
+874,5,141,Fornecedores,5264.34,2024-12-04,Vel nesciunt magnam placeat eius ab consequuntur.
+875,9,151,Outros,16980.21,2024-05-08,Non doloribus eveniet necessitatibus laudantium iure.
+876,5,167,Serviços,45940.93,2024-04-29,Enim sunt itaque praesentium.
+877,1,190,Outros,29791.23,2025-01-15,Hic reprehenderit sed impedit debitis.
+878,7,115,Serviços,8332.47,2024-12-09,Itaque tenetur delectus necessitatibus hic veniam.
+879,10,176,Outros,38160.49,2024-07-16,Earum occaecati eos totam.
+880,2,114,Outros,39197.69,2025-01-10,Tenetur illum quis commodi fuga.
+881,5,169,Impostos,44016.78,2025-02-01,Magnam quod illum cumque.
+882,5,150,Serviços,29029.14,2024-07-03,Aliquid ad odit perferendis iure exercitationem id.
+883,8,105,Salário,14495.29,2024-06-28,Alias dolorum quae consequatur pariatur iure.
+884,3,180,Outros,34359.83,2024-10-10,Assumenda omnis quae ipsa.
+885,7,105,Serviços,44589.14,2024-10-13,Sapiente cupiditate accusantium aut eos.
+886,6,189,Salário,3415.26,2024-11-07,Cumque perferendis accusamus earum ipsam debitis.
+887,8,135,Impostos,1991.41,2025-01-16,Tempora minus ipsam.
+888,5,140,Impostos,42299.48,2024-05-02,Odit quaerat tempore hic est amet a.
+889,2,130,Salário,15723.54,2025-02-07,Quisquam ut fugiat dolores at in.
+890,8,200,Impostos,14201.58,2024-04-19,Reprehenderit perspiciatis aperiam vero atque saepe.
+891,7,178,Fornecedores,10208.85,2024-12-27,Quam aliquid maiores repellendus.
+892,4,153,Serviços,38215.17,2024-08-17,Occaecati numquam vel hic incidunt doloremque autem.
+893,6,108,Outros,39783.03,2024-08-17,Accusamus omnis accusamus distinctio.
+894,2,140,Outros,20765.87,2024-07-08,Omnis eius numquam aliquam.
+895,9,173,Fornecedores,9513.13,2025-03-23,Illum quisquam libero voluptatibus quae.
+896,4,108,Salário,2620.48,2025-02-15,Cupiditate vero nobis voluptatem possimus perspiciatis voluptas.
+897,1,147,Salário,14424.9,2025-01-08,Ex odio sunt et.
+898,8,165,Serviços,32135.08,2025-03-10,Architecto accusantium totam ipsum maiores quia magnam.
+899,2,188,Fornecedores,12854.97,2025-01-12,Doloremque nulla tempore.
+900,8,177,Serviços,9701.6,2024-08-11,Qui quidem nulla animi fugiat.
+901,8,176,Outros,18138.24,2024-08-07,Corrupti dignissimos alias unde nisi.
+902,3,134,Fornecedores,14968.4,2024-10-03,Consequatur et ratione aliquam recusandae impedit.
+903,7,107,Salário,42837.25,2025-02-23,Quibusdam dolorem quasi exercitationem dignissimos.
+904,4,129,Salário,34207.07,2024-05-05,Reiciendis possimus dolore sit maxime.
+905,5,184,Serviços,26150.78,2024-06-24,Occaecati aperiam laudantium veritatis amet voluptatibus.
+906,1,161,Salário,32721.21,2025-04-13,Commodi cupiditate molestias recusandae dignissimos.
+907,10,102,Salário,13367.13,2024-10-28,Incidunt iusto cum deserunt.
+908,5,192,Impostos,21766.53,2024-09-25,Non esse nemo voluptas.
+909,7,145,Serviços,13347.94,2024-07-01,Similique laboriosam veritatis facere fugiat.
+910,8,139,Outros,41391.23,2024-10-13,In non inventore culpa veritatis laboriosam.
+911,7,175,Fornecedores,1360.03,2025-02-03,Incidunt assumenda temporibus error modi mollitia.
+912,6,172,Outros,30843.46,2024-06-21,Fugit esse eligendi natus laboriosam.
+913,5,188,Fornecedores,24605.18,2024-08-21,Quaerat deserunt totam a.
+914,6,136,Impostos,43213.09,2025-03-14,Quas fugiat illo impedit hic quia fugit.
+915,5,184,Impostos,10229.64,2024-08-11,Architecto suscipit voluptatibus commodi ut cum quis vero.
+916,9,198,Salário,45084.67,2025-02-07,Magni laborum porro possimus officiis unde.
+917,10,152,Impostos,34357.03,2025-01-24,Doloribus alias repellat occaecati perspiciatis.
+918,1,184,Serviços,49875.99,2025-01-09,Ea iste perspiciatis ducimus.
+919,5,154,Serviços,20025.47,2024-12-03,Veritatis sapiente accusamus quo officia totam id nesciunt.
+920,1,175,Outros,40984.72,2025-03-29,Maxime deleniti in rerum.
+921,6,193,Salário,34629.59,2024-07-21,Magnam modi suscipit nesciunt quasi.
+922,8,186,Impostos,25858.43,2025-01-31,Autem nemo reiciendis repellendus.
+923,3,185,Outros,9875.66,2024-07-27,Ut id est voluptates repellendus.
+924,2,161,Salário,37305.03,2024-04-14,Architecto possimus minima omnis.
+925,9,198,Salário,47399.25,2025-01-23,Cupiditate fugiat provident dicta delectus veniam.
+926,6,184,Fornecedores,11890.42,2024-10-06,Repellendus delectus animi delectus quis ea temporibus.
+927,4,196,Impostos,21603.16,2024-09-19,Occaecati numquam sit cumque eos fugiat.
+928,6,148,Impostos,29692.96,2024-07-30,Exercitationem nesciunt labore perferendis.
+929,8,116,Serviços,3630.17,2024-05-23,Aperiam quibusdam ab.
+930,10,175,Outros,4489.57,2024-11-26,Atque minima ab.
+931,4,165,Fornecedores,43507.39,2024-12-04,Voluptates quis ut labore excepturi inventore fuga.
+932,7,168,Impostos,21242.26,2025-03-25,Voluptatum repellendus velit pariatur fugiat animi.
+933,3,118,Salário,17790.82,2024-08-30,Rem a sit illo saepe unde.
+934,10,159,Salário,16502.79,2024-04-23,Commodi minus veritatis quibusdam dolorum iste placeat sit.
+935,3,200,Fornecedores,24891.46,2024-10-30,Optio a odit velit eum odio.
+936,3,141,Fornecedores,1230.96,2025-03-19,Voluptas quasi perspiciatis.
+937,5,127,Salário,29237.67,2024-07-13,Laborum qui recusandae expedita vel velit labore omnis.
+938,3,163,Fornecedores,7340.89,2025-01-10,Quasi eos deserunt corporis.
+939,7,182,Serviços,20766.28,2024-11-01,Quos quaerat adipisci libero assumenda rerum voluptatum.
+940,8,150,Fornecedores,2848.54,2025-03-19,Cumque ipsum blanditiis optio dolores distinctio quidem.
+941,4,194,Impostos,47553.36,2024-12-26,Autem voluptatibus adipisci ut.
+942,6,197,Outros,10338.26,2024-08-18,Quisquam dolore ducimus labore tempore commodi.
+943,1,181,Salário,12087.02,2024-06-05,Odio laudantium recusandae ex dolore nemo unde.
+944,6,140,Salário,6032.7,2024-05-09,Fugiat quaerat quasi fugit odit natus.
+945,9,176,Impostos,9183.99,2025-03-12,Repellat dolore blanditiis assumenda at qui.
+946,1,139,Impostos,23340.39,2025-04-12,Quia blanditiis facilis sequi veritatis.
+947,9,177,Outros,17553.92,2024-11-24,Est nihil deleniti.
+948,3,144,Serviços,18603.29,2024-09-11,Eum facilis perspiciatis recusandae maxime nobis.
+949,4,122,Serviços,1937.11,2024-07-09,Hic modi itaque corporis.
+950,4,194,Salário,11348.32,2024-08-07,Libero iste nobis corporis pariatur.
+951,1,176,Outros,9280.25,2025-02-19,Nisi est voluptatibus.
+952,6,192,Fornecedores,19384.43,2024-05-31,Voluptatum provident laboriosam repudiandae libero.
+953,5,199,Outros,31533.6,2025-01-12,Animi repellat corrupti quaerat sed vel.
+954,10,107,Fornecedores,33024.81,2024-07-10,Unde quod sequi.
+955,1,107,Fornecedores,21422.0,2025-01-21,Error repellendus totam culpa accusantium hic.
+956,7,116,Outros,13384.18,2024-09-25,Voluptatibus quidem hic minus eligendi possimus deserunt.
+957,3,127,Fornecedores,15754.71,2025-03-12,Hic consectetur quibusdam neque rem sed quae.
+958,2,185,Outros,14228.88,2024-10-08,Neque ipsam laboriosam tempore.
+959,10,190,Salário,21522.46,2024-07-04,Rem deserunt officiis facere sequi.
+960,2,166,Outros,6768.99,2024-05-23,Fugiat voluptatem perspiciatis cumque.
+961,2,114,Serviços,10733.69,2024-05-05,Explicabo labore veniam blanditiis.
+962,4,200,Impostos,41743.44,2024-10-31,Nihil voluptas occaecati illo alias dolores.
+963,4,146,Serviços,15472.21,2024-10-20,Porro veritatis officiis fugiat porro.
+964,1,171,Serviços,45607.47,2025-02-16,Quod sint officiis eius.
+965,8,143,Salário,1134.16,2024-12-23,Facilis blanditiis assumenda laudantium pariatur magni.
+966,2,115,Outros,33782.07,2024-04-22,Nemo nemo earum quia recusandae debitis laborum officia.
+967,3,112,Outros,4677.36,2024-09-29,Necessitatibus aut aperiam tenetur recusandae.
+968,2,133,Salário,23380.81,2024-06-24,Repellat accusantium nam modi repellat laborum.
+969,5,134,Serviços,3453.93,2024-11-01,Molestiae reprehenderit officiis quidem dignissimos omnis blanditiis similique.
+970,3,106,Impostos,18650.52,2025-01-08,A ipsum et aliquam.
+971,6,155,Fornecedores,5654.93,2024-11-23,Officiis assumenda ducimus quidem assumenda.
+972,1,102,Salário,33504.4,2024-06-01,Error vitae cupiditate voluptate omnis dolorum aliquid.
+973,3,143,Impostos,44831.85,2024-11-01,Omnis ipsam neque possimus minima.
+974,10,135,Fornecedores,19258.49,2024-08-28,Modi distinctio aut reprehenderit dolores deleniti error rerum.
+975,6,124,Fornecedores,20638.1,2024-06-05,Mollitia nihil eius quas in mollitia ea officiis.
+976,8,135,Serviços,34805.22,2024-06-16,Itaque velit perspiciatis velit corporis dignissimos.
+977,8,154,Salário,6539.77,2024-12-14,Voluptatum possimus deserunt fuga omnis.
+978,1,121,Fornecedores,21385.36,2025-02-26,Non in corrupti voluptatibus inventore ad nobis.
+979,10,162,Outros,34241.26,2024-05-14,Commodi beatae molestias architecto odit.
+980,3,179,Serviços,39179.05,2024-09-01,Quod corporis reiciendis earum atque voluptatem.
+981,10,104,Salário,24670.9,2024-07-09,Veritatis quos commodi minima soluta nihil.
+982,8,115,Serviços,22593.71,2025-02-21,Atque expedita nemo eligendi earum aut aliquid.
+983,2,134,Impostos,1605.65,2024-08-15,Debitis rem perspiciatis ratione mollitia sunt.
+984,9,199,Outros,36464.9,2024-09-17,Nihil ea placeat quae omnis consequuntur necessitatibus.
+985,4,186,Impostos,26435.88,2024-07-26,Ullam odit fuga.
+986,10,113,Serviços,33423.95,2025-02-09,Perspiciatis in itaque ipsa explicabo.
+987,4,162,Impostos,33521.82,2024-10-13,Enim veritatis maxime quaerat unde dolorem odio.
+988,7,120,Outros,44711.03,2024-05-17,Illo est at aspernatur quas.
+989,10,107,Fornecedores,32526.54,2024-05-20,Nemo assumenda enim ut.
+990,3,165,Serviços,42741.69,2025-02-21,Vitae incidunt magni.
+991,3,110,Serviços,16711.06,2025-01-22,Laboriosam maiores voluptatum suscipit.
+992,6,136,Fornecedores,25839.54,2025-01-10,Illo nulla tenetur quia.
+993,9,183,Serviços,20760.57,2025-01-16,Praesentium quibusdam doloribus qui veritatis reprehenderit.
+994,4,111,Serviços,22765.25,2025-03-21,Placeat aliquam ipsum cumque ut quis temporibus.
+995,10,158,Fornecedores,42972.87,2024-06-20,Facilis consequatur explicabo amet.
+996,8,141,Fornecedores,49052.87,2024-10-23,Cupiditate voluptas excepturi perspiciatis rerum sed.
+997,1,114,Serviços,21204.59,2025-03-13,Enim laboriosam eaque a.
+998,9,171,Fornecedores,41469.53,2024-12-15,Hic ullam ut vero maiores tempora vel.
+999,10,180,Impostos,44615.43,2025-03-26,Sed animi ab itaque error autem expedita quam.
+1000,9,127,Serviços,47567.4,2024-09-17,Ab inventore deserunt minus tempore illum.

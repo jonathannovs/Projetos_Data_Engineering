@@ -1,0 +1,101 @@
+id_cliente,nome,email,cpf
+101,Bruna Pereira,mnascimento@souza.org,801.542.697-94
+102,Bruna Ramos,clara28@jesus.net,259.460.718-58
+103,João Guilherme Lima,duarteisabel@cardoso.br,182.953.647-82
+104,Marcelo da Paz,cmoura@bol.com.br,713.802.549-14
+105,Clarice Almeida,diasdaniel@melo.net,473.916.805-75
+106,Caroline Castro,bmoraes@rezende.com,106.528.947-20
+107,Lavínia Cunha,matheusrezende@hotmail.com,179.054.632-06
+108,Juan Rodrigues,alanacaldeira@hotmail.com,609.237.541-99
+109,Diogo Gonçalves,vianacaua@caldeira.com,972.046.158-67
+110,Eduarda Nunes,isadorabarbosa@peixoto.br,435.128.679-28
+111,Gabrielly Cardoso,ecastro@santos.br,135.298.640-05
+112,Maria Clara Jesus,luiz-miguelcorreia@vieira.org,435.172.860-44
+113,Pedro Miguel Pereira,almeidaraul@hotmail.com,427.953.068-83
+114,Srta. Maria Cecília Azevedo,ana-juliacostela@gmail.com,450.218.796-85
+115,Sofia da Costa,joao-gabrieloliveira@da.br,634.150.879-48
+116,Eduardo Ramos,yasmin33@gmail.com,365.208.491-89
+117,Maria Alice Melo,ferreirajoao-gabriel@azevedo.com,965.723.014-43
+118,Augusto Pinto,thomaspinto@melo.br,148.532.679-64
+119,Ana da Mota,nda-luz@bol.com.br,460.281.359-33
+120,Laura Pires,qda-cunha@gomes.br,134.965.082-05
+121,Mariana Cardoso,tda-mota@ig.com.br,679.180.453-00
+122,Samuel Silveira,fariasfelipe@uol.com.br,275.634.891-00
+123,Vinicius Ribeiro,raquel34@bol.com.br,734.802.169-78
+124,Sr. Daniel da Costa,tda-costa@campos.br,876.013.429-13
+125,Isis Rocha,noah66@rodrigues.br,706.253.148-08
+126,Maria Alice Araújo,cardosoluna@uol.com.br,279.083.561-68
+127,Dr. Vitor Hugo Nascimento,ffernandes@uol.com.br,089.217.436-69
+128,Anthony da Costa,brunacorreia@rezende.com,912.704.586-20
+129,Raquel da Paz,emanueljesus@barbosa.br,519.037.682-68
+130,Laís da Costa,nicolesilveira@ig.com.br,487.369.210-50
+131,Guilherme Porto,vnascimento@sales.com,735.629.481-82
+132,Alana Silveira,duartemilena@rodrigues.net,798.605.241-49
+133,Srta. Gabriela Moura,ana-carolina85@yahoo.com.br,748.210.539-50
+134,Dra. Sophie da Mata,oliviarocha@souza.org,134.926.508-05
+135,Augusto Barros,luizarodrigues@gmail.com,047.362.195-99
+136,Ana Sophia Campos,kcardoso@ig.com.br,028.647.935-47
+137,Sophie Peixoto,cporto@pereira.org,901.675.238-21
+138,Erick da Luz,alexandreoliveira@ribeiro.org,034.528.967-65
+139,Yuri da Paz,vianalevi@ig.com.br,249.061.738-96
+140,Ana Vitória Rezende,gfogaca@bol.com.br,791.403.268-96
+141,Bryan Dias,isabelly02@silveira.br,426.530.718-35
+142,Dr. Raul Cavalcanti,alicia74@vieira.com,715.260.394-43
+143,Maria Cecília Rezende,da-motaelisa@yahoo.com.br,978.601.235-68
+144,Leonardo Rodrigues,duartemarina@lima.br,139.807.624-40
+145,Rafaela Fogaça,pribeiro@uol.com.br,826.145.703-62
+146,Heloísa Santos,gomesmirella@yahoo.com.br,972.346.815-82
+147,Giovanna da Mota,xdias@barbosa.br,768.591.302-02
+148,Maria Sophia Melo,hcastro@alves.com,621.385.940-33
+149,Dr. Ian Rodrigues,duartelorena@dias.com,618.372.095-02
+150,Gustavo Moraes,pda-conceicao@bol.com.br,628.104.375-80
+151,Maria Luiza da Conceição,dfernandes@alves.br,482.037.951-88
+152,Sra. Laís Jesus,grocha@nascimento.org,406.289.571-49
+153,Yago Dias,luanada-mota@bol.com.br,421.560.879-11
+154,Isabelly Costela,pietro62@costela.org,247.695.013-07
+155,Vitor Gabriel das Neves,diego60@yahoo.com.br,817.256.349-37
+156,Renan Dias,martinslarissa@hotmail.com,174.530.982-97
+157,Luiz Felipe Correia,esthercunha@ramos.br,862.350.971-40
+158,Arthur Moura,ppires@castro.br,850.321.746-53
+159,Clara Aragão,luigi29@campos.net,352.640.789-47
+160,Eloah da Luz,costelaantonio@duarte.br,024.913.687-22
+161,Lavínia Moreira,osantos@silveira.br,097.635.812-30
+162,Bruno Martins,costelamarcos-vinicius@nascimento.org,786.059.132-40
+163,Juan Mendes,upeixoto@gmail.com,569.728.143-91
+164,Bryan Cardoso,vcastro@costela.com,985.703.241-97
+165,Srta. Esther Lima,santoskevin@hotmail.com,731.246.098-40
+166,Maria Eduarda Araújo,da-matamarcelo@ig.com.br,458.017.362-71
+167,Dra. Alice Carvalho,dpeixoto@da.br,451.078.623-90
+168,Leonardo Pereira,rpeixoto@hotmail.com,815.302.649-60
+169,Enzo Gabriel Novaes,da-rochaotavio@cunha.br,107.539.468-66
+170,Maria Eduarda Moraes,bbarbosa@ramos.br,968.573.201-95
+171,Igor da Cunha,davi61@hotmail.com,691.325.780-59
+172,Luiz Gustavo Correia,samuel23@da.net,291.753.486-91
+173,Maria Fernanda Martins,ana-lauracampos@uol.com.br,748.902.516-85
+174,Alícia Caldeira,davi-lucas19@bol.com.br,867.490.325-83
+175,Dr. Luiz Fernando da Costa,zcavalcanti@cardoso.com,037.845.162-62
+176,João Pedro Oliveira,melocaue@yahoo.com.br,186.274.930-22
+177,Mirella da Conceição,manuela62@bol.com.br,146.529.078-85
+178,Isabelly Aragão,joao-guilherme35@uol.com.br,392.107.548-32
+179,Heloísa Costela,igorda-mata@ig.com.br,927.038.154-41
+180,Sra. Daniela Teixeira,stephany73@pires.br,468.179.530-57
+181,Luana Moura,gomesdavi-luiz@fogaca.com,613.972.085-03
+182,Lívia Moura,xcardoso@araujo.br,290.831.547-50
+183,Anthony Fernandes,gabrielasouza@correia.org,341.079.862-50
+184,Maria Vitória Teixeira,melissada-conceicao@pereira.com,953.471.026-16
+185,Luiz Miguel Viana,cribeiro@moura.org,051.279.643-25
+186,Dr. Pedro da Luz,zda-mata@hotmail.com,170.298.543-14
+187,Luiz Gustavo Novaes,breno34@yahoo.com.br,054.923.781-04
+188,Heloísa da Mata,zmoura@bol.com.br,416.039.825-15
+189,Sr. Bruno Martins,ana-livia96@hotmail.com,759.082.316-30
+190,Raul Nunes,benicioda-conceicao@bol.com.br,702.819.456-67
+191,Brenda Porto,ana-luiza19@hotmail.com,856.297.104-94
+192,Srta. Luna Silveira,ferreirasophie@yahoo.com.br,734.581.062-35
+193,Camila Pires,maria-cecilia51@jesus.com,253.018.476-35
+194,Dr. Lucas Gabriel Vieira,campospedro-henrique@rocha.br,612.750.389-21
+195,Yago Vieira,ana-juliasantos@costa.com,428.751.639-73
+196,Fernando da Paz,leticiajesus@bol.com.br,812.469.573-37
+197,Amanda Araújo,ferreiramaite@peixoto.org,473.658.210-35
+198,Srta. Bruna Pires,nrezende@yahoo.com.br,925.678.410-67
+199,Sr. Ian Duarte,fogacaana-sophia@hotmail.com,210.934.576-43
+200,Dr. Diogo da Cruz,tsales@uol.com.br,016.438.725-08

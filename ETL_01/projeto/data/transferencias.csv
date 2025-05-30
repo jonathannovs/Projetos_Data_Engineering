@@ -1,0 +1,501 @@
+id_transferencia,id_empresa_origem,id_empresa_destino,tipo,valor,data,descricao
+1,10,8,Recebimento,24822.29,2024-12-05,Optio molestiae voluptate nisi porro.
+2,7,4,Pagamento,6815.38,2024-10-28,Officiis error non sapiente non.
+3,9,6,Pagamento,51031.81,2024-11-14,Architecto assumenda expedita numquam magni vitae quibusdam alias.
+4,3,10,Recebimento,20591.02,2024-12-24,At unde doloremque molestias ipsum labore.
+5,2,10,Recebimento,22545.42,2024-11-09,Ad nulla eius quos.
+6,6,3,Interna,2924.49,2024-12-08,Quaerat optio itaque nostrum.
+7,9,5,Interna,58423.8,2024-10-22,Molestiae sequi nemo ipsa libero sapiente.
+8,5,8,Recebimento,8620.49,2025-03-05,Eum nemo laudantium quibusdam.
+9,1,7,Pagamento,44262.28,2025-02-15,Et minima id delectus numquam dolores amet.
+10,6,2,Interna,53202.64,2024-07-27,Optio sint quidem.
+11,2,9,Pagamento,40498.03,2024-09-12,Quas ex itaque alias perferendis cumque.
+12,1,9,Pagamento,68823.59,2025-03-29,Debitis quia sequi eaque delectus minima itaque.
+13,10,9,Recebimento,17134.81,2024-09-14,Consequuntur repudiandae nostrum delectus doloribus.
+14,5,6,Recebimento,55150.46,2024-06-04,Qui sed ratione rerum dolore velit molestias.
+15,10,3,Recebimento,27058.94,2025-03-30,Vel excepturi cum aspernatur perspiciatis eveniet modi.
+16,4,2,Pagamento,36635.18,2024-08-23,Debitis velit harum voluptas cupiditate veniam dolore.
+17,4,7,Pagamento,7761.16,2025-01-08,Exercitationem non placeat aut similique.
+18,7,8,Interna,7365.15,2025-04-13,Autem quae fuga ad officia maxime vero.
+19,7,3,Pagamento,15820.12,2025-03-10,Eveniet non quidem quo enim ea ab.
+20,2,7,Recebimento,37311.64,2024-08-11,Numquam soluta tempora repudiandae asperiores rerum totam nobis.
+21,10,9,Recebimento,54738.91,2024-06-17,Dicta rerum ex.
+22,5,9,Recebimento,30216.13,2024-07-14,Recusandae assumenda facilis hic at.
+23,8,9,Recebimento,68155.8,2024-08-06,Autem repudiandae dicta dolor cupiditate nulla dolor.
+24,3,4,Recebimento,9771.55,2024-09-23,Quas veritatis atque reiciendis ipsum et accusamus.
+25,8,3,Recebimento,36409.8,2024-12-11,Veritatis corrupti sint rem eligendi.
+26,9,2,Recebimento,15672.34,2025-02-06,Alias explicabo itaque nulla.
+27,8,1,Recebimento,11821.94,2024-05-31,Minima natus non rerum quidem ab facere doloremque.
+28,9,6,Interna,42510.41,2024-10-30,Nam quisquam illo tempora vel nam totam.
+29,7,2,Interna,26501.43,2025-02-09,Impedit veritatis sint nesciunt impedit quidem.
+30,5,1,Recebimento,11578.01,2024-11-09,Eius similique consequuntur provident magni voluptatem.
+31,6,5,Pagamento,21924.95,2025-03-26,Molestiae excepturi nihil vitae recusandae.
+32,8,1,Interna,10807.65,2024-08-15,Enim magnam esse nostrum blanditiis assumenda possimus voluptates.
+33,10,7,Interna,65640.63,2024-04-23,Ut ab aliquam culpa.
+34,5,6,Interna,13632.32,2024-08-11,Odit nesciunt soluta asperiores dolores odit.
+35,8,1,Interna,38780.07,2025-02-28,Reiciendis sit architecto ab.
+36,2,1,Pagamento,34201.17,2024-08-24,Alias dignissimos odio nam delectus aut esse.
+37,5,9,Pagamento,54913.11,2025-03-10,Minima fugit nesciunt voluptatum laudantium libero sed.
+38,8,3,Interna,35828.71,2025-04-12,In tempore ratione quaerat eos.
+39,8,9,Recebimento,31986.16,2024-09-21,Quia consectetur sapiente voluptates.
+40,6,2,Recebimento,46850.66,2025-01-12,Ullam enim veniam architecto.
+41,7,8,Interna,63116.86,2024-07-07,Provident repellat autem consequatur.
+42,6,10,Interna,67107.48,2025-03-04,Commodi non soluta officia.
+43,8,5,Recebimento,7108.56,2024-12-13,Numquam animi qui suscipit maxime.
+44,3,1,Recebimento,44477.54,2024-09-22,Laudantium dignissimos mollitia exercitationem minus.
+45,5,10,Recebimento,9540.93,2025-02-05,Illo provident pariatur debitis debitis expedita iure.
+46,9,2,Interna,66906.61,2024-07-24,Natus eaque consequatur culpa necessitatibus adipisci.
+47,9,1,Recebimento,37001.01,2024-06-08,At repellendus sequi quia fugit omnis dolores aut.
+48,8,10,Interna,9299.54,2024-05-04,Sit quaerat vero officia cupiditate itaque dolor.
+49,9,3,Interna,19972.41,2024-10-03,Unde omnis vitae vero unde.
+50,4,5,Recebimento,58885.3,2024-08-18,Cupiditate nemo necessitatibus nostrum.
+51,10,8,Interna,56677.55,2025-01-26,Sunt veritatis quasi reiciendis omnis nesciunt.
+52,10,6,Pagamento,41633.62,2024-12-18,Dolores mollitia dolores cumque officiis.
+53,8,1,Pagamento,31154.2,2025-01-11,Ratione sequi molestiae eum velit.
+54,7,1,Recebimento,22899.39,2024-07-26,Commodi quam iure quia laudantium cum.
+55,5,2,Interna,68605.24,2024-09-13,Doloribus accusantium ex sint neque.
+56,9,3,Pagamento,10938.36,2025-02-08,Nostrum quam debitis ipsum repudiandae similique ipsa.
+57,5,2,Interna,22168.8,2024-06-25,Cupiditate architecto animi doloribus tempore iusto minima.
+58,7,3,Interna,43398.8,2024-10-24,Distinctio provident repellendus consequuntur.
+59,6,3,Interna,50217.74,2024-11-16,Doloribus corrupti repellat quidem atque recusandae id.
+60,5,8,Interna,23082.86,2025-02-15,Molestias cupiditate sunt.
+61,7,6,Pagamento,26910.41,2024-07-26,Laborum repellat placeat iure magnam sint ipsa.
+62,2,1,Interna,17533.98,2025-01-04,Possimus quam soluta pariatur facere.
+63,10,4,Pagamento,36094.87,2024-07-14,Hic aperiam saepe quibusdam voluptatum quisquam dicta.
+64,9,7,Interna,19580.84,2024-07-31,Dolores harum aspernatur nemo recusandae.
+65,6,9,Recebimento,29088.28,2024-08-16,Itaque expedita sit veritatis.
+66,8,1,Pagamento,44714.35,2025-03-18,Tempore sint ad corrupti neque quod quas.
+67,1,6,Recebimento,67479.75,2024-11-27,Optio at dicta eius sint maiores.
+68,2,5,Recebimento,45957.01,2024-05-06,Reprehenderit tenetur nemo voluptatibus assumenda placeat libero non.
+69,3,6,Recebimento,29065.47,2024-05-28,Id odio quasi blanditiis.
+70,2,10,Interna,55018.83,2024-06-14,Sint unde vero illum.
+71,3,7,Recebimento,68986.3,2025-01-31,Amet non quia at.
+72,4,10,Pagamento,67333.3,2024-05-27,Illo consectetur debitis commodi quam ipsum.
+73,9,8,Interna,1069.07,2025-01-19,Optio unde quis ut dicta numquam.
+74,8,5,Recebimento,68073.64,2025-01-22,Alias nemo inventore excepturi modi.
+75,1,2,Pagamento,19857.9,2024-12-26,Iste soluta repellat quod.
+76,5,8,Pagamento,59128.27,2024-05-24,Quisquam eligendi aut eligendi.
+77,4,10,Pagamento,4138.45,2025-02-14,Placeat numquam consequuntur excepturi ab pariatur voluptatem.
+78,9,2,Pagamento,7190.34,2024-06-11,Enim consectetur saepe nihil praesentium facilis voluptas quam.
+79,2,4,Recebimento,39397.06,2025-03-06,Repellat quasi a ut.
+80,5,8,Interna,43120.73,2025-01-16,Nisi consectetur possimus libero accusantium atque voluptas.
+81,6,7,Recebimento,19033.88,2024-05-30,Eius incidunt facere eveniet.
+82,8,5,Interna,46697.11,2024-09-03,Esse unde distinctio ad velit suscipit.
+83,6,7,Interna,32726.15,2025-02-10,Ad voluptatibus ut in.
+84,10,6,Interna,64067.26,2024-09-01,Cum doloremque libero animi nobis aperiam quaerat vitae.
+85,3,1,Recebimento,33880.5,2024-09-28,Similique ad dolorem consectetur eligendi officiis.
+86,1,4,Pagamento,39349.56,2025-03-29,Exercitationem ea sint repudiandae.
+87,8,7,Recebimento,6599.27,2025-01-04,Odit dolore quae eligendi dolorum commodi nulla tenetur.
+88,2,10,Interna,62587.48,2024-09-18,Natus quisquam iste incidunt ratione numquam fuga.
+89,8,2,Pagamento,68070.69,2024-11-29,Fuga incidunt cupiditate doloribus laboriosam autem.
+90,7,6,Pagamento,13225.88,2025-03-04,Iure a aliquid animi blanditiis.
+91,1,3,Pagamento,26563.16,2025-02-12,Commodi dignissimos rem qui impedit dolorem ipsum.
+92,4,9,Interna,16284.93,2024-07-30,Laborum incidunt aliquam accusamus.
+93,1,6,Recebimento,64576.51,2024-05-21,Ipsum corporis adipisci quam voluptate provident.
+94,6,4,Interna,57323.38,2024-10-10,Deserunt aliquam iste doloribus.
+95,5,4,Interna,68628.22,2024-10-10,Ex voluptas repellat enim voluptas.
+96,6,1,Pagamento,35005.81,2024-07-30,Error reiciendis cupiditate provident ad natus delectus.
+97,10,4,Interna,14529.99,2024-11-06,Perspiciatis ipsum provident nisi libero dignissimos natus.
+98,7,2,Pagamento,40268.05,2024-08-21,Voluptatum rem quod non culpa.
+99,8,3,Recebimento,14370.15,2025-02-22,Ullam saepe suscipit ipsa corrupti explicabo.
+100,10,3,Interna,41583.36,2024-05-08,Dolores consequuntur sequi accusantium animi eaque impedit.
+101,2,4,Pagamento,65415.87,2024-05-22,Vitae occaecati ad architecto blanditiis.
+102,4,10,Recebimento,54975.44,2024-10-04,Laborum iusto totam alias quibusdam ea doloremque quisquam.
+103,4,1,Recebimento,47763.68,2024-11-14,Reprehenderit natus praesentium provident.
+104,10,5,Recebimento,39648.0,2025-01-09,Nemo et pariatur provident et.
+105,8,1,Pagamento,45226.67,2024-06-19,Ducimus non alias.
+106,1,7,Pagamento,59259.57,2024-11-28,Officia nisi libero totam quos.
+107,7,5,Interna,47931.97,2024-11-05,Odit officia dicta nihil placeat repellendus fugit.
+108,8,9,Pagamento,36690.73,2024-11-16,Aut tenetur veritatis corrupti laborum.
+109,1,5,Interna,20177.38,2024-05-03,Laboriosam eaque doloremque cupiditate eum delectus qui.
+110,7,10,Pagamento,22820.7,2024-10-31,Nisi nesciunt tenetur voluptatum ipsum accusamus quae tenetur.
+111,7,4,Pagamento,6644.81,2024-06-17,Sed veritatis consequuntur dolor amet itaque.
+112,10,1,Recebimento,16568.33,2025-03-31,Sapiente autem illum sapiente optio omnis occaecati.
+113,7,2,Interna,14584.5,2024-12-26,Ea sed temporibus molestias voluptate assumenda fuga praesentium.
+114,6,5,Interna,44193.63,2024-12-08,Maiores magnam voluptatibus nesciunt tempore tempore assumenda.
+115,2,1,Pagamento,30804.48,2024-10-03,Quasi modi numquam.
+116,1,7,Pagamento,18053.6,2024-08-04,Adipisci reprehenderit architecto molestias id ea modi.
+117,8,4,Pagamento,58443.71,2024-06-15,Iste sunt explicabo maiores.
+118,6,10,Interna,66104.78,2025-04-09,Necessitatibus ipsam magni ipsa accusamus.
+119,10,8,Interna,44149.06,2024-06-20,Repellat ea aliquid labore.
+120,10,2,Interna,68242.26,2024-10-14,Repudiandae debitis deleniti natus.
+121,1,8,Pagamento,62415.78,2024-08-08,Illo quisquam pariatur vel magni libero repellendus earum.
+122,2,4,Interna,64418.99,2024-06-17,Perferendis nam magnam iure quibusdam neque voluptatum ut.
+123,8,1,Pagamento,43140.97,2024-10-16,Eaque nihil dolorem.
+124,7,2,Interna,47751.95,2024-05-29,Temporibus at neque beatae incidunt.
+125,9,1,Pagamento,59645.12,2024-10-22,Odit debitis eligendi tempora porro nam ex.
+126,7,2,Recebimento,52885.47,2024-09-07,Autem ut neque similique omnis odit.
+127,4,1,Pagamento,27490.48,2024-06-23,Odit suscipit unde praesentium eligendi.
+128,7,2,Pagamento,45913.58,2024-12-06,Fugit dolorum eaque nostrum ad iste.
+129,1,9,Recebimento,23645.36,2024-08-13,Aperiam accusamus natus aut.
+130,4,2,Interna,1847.91,2024-06-08,Voluptatem explicabo quis repudiandae.
+131,2,5,Recebimento,9692.73,2024-09-18,Molestiae commodi magnam nemo ratione.
+132,9,5,Pagamento,30049.48,2024-07-09,Modi minus magnam nostrum sunt.
+133,10,8,Interna,17777.52,2024-06-06,Hic corrupti voluptates minima nobis.
+134,1,2,Interna,22505.01,2024-05-10,Ad rerum at asperiores voluptatum beatae.
+135,7,10,Recebimento,53051.78,2025-03-27,Facere quidem nobis repellendus voluptatum.
+136,5,10,Interna,11171.23,2025-03-19,Quaerat autem distinctio quaerat tempora.
+137,5,7,Pagamento,26449.27,2024-08-24,Voluptatem aliquam ducimus nam.
+138,1,10,Recebimento,46379.7,2024-05-20,Ex rerum accusantium cumque temporibus eius.
+139,3,1,Interna,35990.44,2024-08-09,Corporis commodi atque et adipisci deserunt enim.
+140,9,1,Pagamento,24723.31,2024-04-24,Impedit sapiente iusto qui tempore ut aperiam.
+141,4,5,Interna,24567.08,2024-10-31,Praesentium nisi nemo molestias.
+142,8,9,Recebimento,48776.55,2024-04-30,Molestiae tenetur a id rerum corporis earum.
+143,10,6,Recebimento,21674.58,2024-10-02,Impedit sed autem dolorem eveniet.
+144,6,3,Interna,32346.84,2024-06-24,Occaecati veniam molestias nulla modi rem.
+145,1,9,Interna,64476.8,2024-07-19,Id nulla ipsam ut fugit est tempora at.
+146,4,5,Pagamento,44050.48,2024-08-24,Ea et optio beatae nostrum quam perspiciatis animi.
+147,4,9,Recebimento,54016.04,2025-01-05,Voluptatum doloribus ut suscipit aliquid beatae labore.
+148,6,8,Interna,28621.57,2024-09-25,Dolorem nisi quibusdam nam.
+149,1,7,Interna,6087.45,2024-09-14,In dolorum voluptate officia aut.
+150,1,10,Interna,10825.74,2024-11-24,Eveniet nobis fugiat ab ad.
+151,8,4,Recebimento,41412.36,2024-12-24,Error consequatur minus neque debitis eos fugiat.
+152,6,1,Interna,14739.48,2024-09-06,Quos qui nam ipsa libero.
+153,5,3,Interna,62091.37,2024-05-03,Ratione ea accusamus ratione est incidunt.
+154,3,7,Recebimento,17971.53,2024-09-02,Quidem excepturi tempora necessitatibus quos est eum.
+155,4,1,Interna,59158.82,2024-07-08,Quos rem adipisci consectetur sequi.
+156,2,1,Recebimento,10469.8,2024-09-04,Reiciendis soluta quos sequi delectus.
+157,2,7,Interna,22049.99,2024-09-23,Praesentium amet id ex non dolorem.
+158,4,7,Pagamento,46602.7,2024-05-04,Possimus perferendis cum.
+159,9,7,Recebimento,5511.05,2024-06-25,Cupiditate eos vitae reiciendis.
+160,3,4,Interna,14226.01,2024-09-27,Possimus labore illo quisquam nostrum hic aut.
+161,7,6,Pagamento,42368.89,2024-06-21,Quae aut fuga voluptas magnam.
+162,4,1,Recebimento,41525.49,2024-07-20,Reiciendis odit voluptatibus ab temporibus modi autem.
+163,9,5,Interna,23609.96,2024-11-28,Voluptatem laboriosam libero nam deserunt aspernatur neque.
+164,1,6,Interna,59753.68,2025-03-22,Ipsam quos accusamus reiciendis ipsum voluptatibus.
+165,10,8,Interna,51183.6,2024-09-19,Sequi odit incidunt corporis beatae.
+166,8,2,Interna,36094.35,2024-06-16,Dignissimos dolorum quasi.
+167,9,6,Pagamento,36803.57,2025-03-23,Exercitationem inventore possimus quas sint minus itaque.
+168,3,7,Recebimento,26797.63,2024-08-28,Fuga eaque maiores est.
+169,8,9,Pagamento,19515.15,2024-05-31,Possimus doloremque eveniet ducimus reiciendis voluptatem eaque.
+170,7,1,Interna,16147.31,2024-04-26,Ducimus officiis eligendi iusto qui sit.
+171,4,9,Interna,28317.1,2025-03-08,Beatae velit culpa quae.
+172,5,8,Pagamento,40424.56,2024-10-04,Quo nostrum qui voluptate placeat.
+173,6,5,Recebimento,6848.37,2024-12-11,Iste temporibus id dignissimos.
+174,2,6,Pagamento,36798.63,2024-12-28,Officia perspiciatis cumque cumque deleniti.
+175,4,1,Pagamento,36346.08,2025-03-03,Molestiae placeat reprehenderit tempore explicabo accusamus molestiae.
+176,6,8,Pagamento,33261.02,2025-02-19,Non harum doloribus aliquam.
+177,7,6,Pagamento,22874.41,2024-08-19,Alias non recusandae dolorem quaerat.
+178,7,1,Interna,31476.51,2024-10-26,Eaque tempora ex dolorem.
+179,5,2,Pagamento,63201.83,2024-08-10,Alias ullam praesentium.
+180,5,10,Recebimento,38718.98,2024-12-16,Maiores quaerat id labore.
+181,2,6,Interna,7790.23,2024-08-03,Temporibus sapiente exercitationem cupiditate ducimus totam veritatis.
+182,2,7,Interna,38675.8,2024-07-24,Incidunt repudiandae distinctio modi facere.
+183,6,4,Recebimento,23717.65,2024-05-09,Nobis dolor provident mollitia accusamus placeat quidem.
+184,5,6,Interna,49689.34,2025-02-18,Dolores nisi corporis itaque magnam optio.
+185,3,10,Pagamento,1588.84,2025-03-19,Quasi rem necessitatibus incidunt nesciunt maiores culpa.
+186,5,6,Pagamento,55035.85,2025-03-24,Aperiam voluptatibus et neque consequatur laboriosam earum ipsum.
+187,7,8,Recebimento,53288.62,2024-06-06,Fugiat alias at quas nisi.
+188,1,9,Recebimento,36372.64,2025-01-29,Quae cupiditate consequatur dignissimos nam dolorem.
+189,3,8,Interna,16657.91,2024-10-05,Maxime dolores recusandae corrupti.
+190,4,9,Interna,36591.95,2024-05-27,Libero hic repellendus velit necessitatibus voluptatem maxime.
+191,9,8,Recebimento,57193.44,2024-10-30,Quae nam distinctio.
+192,6,2,Pagamento,59360.32,2024-06-09,Aliquid blanditiis delectus cupiditate.
+193,7,8,Interna,31268.98,2024-04-14,Aperiam minima itaque.
+194,9,1,Pagamento,10587.57,2024-09-08,Aliquid adipisci sapiente nisi.
+195,3,6,Recebimento,1668.0,2025-03-17,Ullam perspiciatis quaerat commodi molestias repellendus deleniti.
+196,6,7,Interna,29921.16,2024-09-10,Enim totam doloremque mollitia.
+197,7,10,Pagamento,23499.49,2025-04-09,Officiis odit assumenda magni aliquid laboriosam.
+198,1,2,Interna,11604.7,2024-09-24,Odit deserunt est sint nihil rerum ratione.
+199,6,8,Pagamento,15090.12,2024-04-27,Dicta quo accusantium.
+200,7,2,Recebimento,27663.94,2025-03-04,Totam a repellendus eius eveniet quia.
+201,8,2,Pagamento,40296.54,2024-09-08,Rerum ex temporibus aliquid inventore tempore.
+202,8,5,Interna,12828.23,2024-09-12,Eaque asperiores temporibus hic fuga sint.
+203,9,3,Interna,58026.76,2025-01-14,Provident tempora velit voluptates.
+204,10,8,Interna,13881.76,2024-04-14,Molestiae aut nostrum ullam nihil quo iusto.
+205,2,8,Pagamento,15206.57,2024-11-03,Accusamus quo quis inventore molestias eos consequuntur modi.
+206,5,10,Interna,32371.79,2024-11-20,Numquam culpa non quos minus molestiae nam.
+207,6,10,Interna,12855.97,2024-11-01,Blanditiis minus placeat odit quos asperiores adipisci.
+208,7,8,Interna,69282.06,2025-02-19,Inventore facilis sapiente necessitatibus tempore ad nisi consectetur.
+209,3,10,Pagamento,33999.33,2024-05-17,Inventore praesentium voluptates iste.
+210,2,8,Interna,9965.33,2024-12-15,Neque rerum delectus accusamus voluptate mollitia ab.
+211,4,6,Pagamento,57434.83,2025-03-28,Fuga consequuntur asperiores itaque excepturi et vero.
+212,8,3,Recebimento,40681.31,2024-10-09,Itaque provident perferendis consequuntur error nobis quos.
+213,5,4,Recebimento,50457.27,2024-05-21,Perferendis rerum mollitia eligendi non nihil velit.
+214,8,5,Interna,1513.59,2024-09-30,Debitis consequuntur velit ex nesciunt.
+215,3,9,Interna,57896.2,2024-10-05,Repellat sunt totam.
+216,10,4,Recebimento,23693.51,2024-07-25,Eaque consequatur reprehenderit expedita eos laborum.
+217,10,8,Pagamento,32925.99,2025-03-04,Eum quod consectetur.
+218,1,3,Pagamento,45594.64,2025-03-08,Consequuntur sapiente facilis rerum quae accusantium quasi.
+219,8,6,Recebimento,59142.12,2024-05-08,Id unde tempore illum veritatis itaque distinctio consequatur.
+220,5,8,Recebimento,57816.64,2025-03-09,Voluptatibus magnam ullam nostrum suscipit suscipit eius.
+221,3,8,Interna,13390.89,2024-05-06,Laborum officiis totam maxime.
+222,10,7,Pagamento,27541.88,2024-06-15,Quaerat dolores consequatur in harum.
+223,3,2,Pagamento,49206.49,2025-04-11,Unde recusandae fuga laboriosam animi expedita natus.
+224,1,5,Interna,19890.56,2025-01-10,At nemo voluptate nostrum.
+225,9,5,Recebimento,64224.45,2025-03-07,Suscipit autem repellendus assumenda delectus aspernatur sunt.
+226,4,9,Pagamento,69474.89,2025-01-27,Dolorem repellendus recusandae amet necessitatibus dicta.
+227,9,2,Pagamento,6280.82,2024-04-26,Architecto inventore et accusamus vero ducimus praesentium.
+228,2,10,Pagamento,29296.63,2024-12-23,Soluta nemo est quae.
+229,3,6,Interna,35918.46,2025-01-10,Dolorem officia reiciendis maxime impedit.
+230,8,1,Interna,45081.8,2024-11-15,Distinctio similique exercitationem nisi eius iusto blanditiis.
+231,8,7,Pagamento,52471.06,2025-03-04,Vero recusandae maiores consequuntur.
+232,4,8,Interna,1740.88,2024-10-15,Rem repellat assumenda temporibus quas.
+233,2,4,Pagamento,47250.39,2024-05-11,Ducimus aliquid explicabo.
+234,8,9,Pagamento,5708.36,2024-11-18,Illo placeat architecto tempora distinctio sunt ratione facere.
+235,9,4,Recebimento,66551.27,2024-07-22,Quisquam reprehenderit excepturi ullam in aperiam similique.
+236,3,9,Pagamento,59067.81,2024-11-11,Aliquam inventore deserunt molestias voluptatibus voluptatum.
+237,3,1,Recebimento,7935.54,2025-03-26,Ut magnam molestias voluptas et.
+238,5,2,Recebimento,52159.81,2024-07-11,Ullam reiciendis occaecati sed illo consequuntur.
+239,3,2,Recebimento,53687.64,2024-05-02,Ex ipsum ipsam eius amet facere.
+240,5,3,Pagamento,25708.0,2024-12-10,Explicabo facilis id dignissimos delectus repudiandae.
+241,4,1,Recebimento,37728.62,2024-11-30,Molestiae ex quisquam.
+242,8,1,Recebimento,56994.32,2024-05-25,Laudantium praesentium quas.
+243,2,8,Recebimento,22274.37,2024-12-28,Aut doloremque veritatis voluptatum iure magni harum nobis.
+244,1,2,Interna,54296.27,2025-01-05,Consequuntur rem provident.
+245,4,5,Pagamento,63704.19,2024-10-03,Amet praesentium cumque ad quaerat fuga.
+246,4,2,Interna,30096.11,2024-07-13,Repellendus ut praesentium assumenda debitis a.
+247,1,7,Interna,47917.21,2024-05-16,Delectus temporibus quos tempore.
+248,2,5,Interna,55987.77,2024-08-30,Ab similique quis praesentium.
+249,3,4,Interna,29681.92,2024-05-03,Eum excepturi sint ut.
+250,2,7,Pagamento,39781.73,2025-04-01,Vitae omnis placeat ea odio nulla.
+251,4,5,Recebimento,28259.41,2024-04-26,Eligendi veritatis laudantium quisquam provident sapiente.
+252,7,2,Interna,15750.82,2024-10-11,Mollitia ut provident nihil facilis adipisci dolorem quibusdam.
+253,6,7,Interna,2034.63,2024-05-09,Ab hic vero.
+254,6,1,Pagamento,15680.99,2024-12-11,Voluptas quo accusamus porro neque.
+255,4,2,Recebimento,57240.86,2024-04-15,Expedita vel soluta incidunt magni.
+256,10,6,Interna,5645.86,2025-01-10,Aperiam molestiae occaecati tenetur veritatis.
+257,4,8,Pagamento,53960.61,2024-12-23,Sunt nulla cupiditate molestias exercitationem quibusdam.
+258,8,2,Recebimento,37996.53,2025-04-02,Placeat excepturi aliquid harum alias illum.
+259,10,3,Pagamento,67173.39,2024-10-20,Velit accusamus accusantium necessitatibus velit tenetur molestias.
+260,10,6,Recebimento,49045.76,2024-05-12,Harum ipsa ea quod tempora voluptatum magnam.
+261,3,7,Interna,44839.39,2025-01-08,Quaerat vero optio necessitatibus.
+262,6,9,Interna,24122.26,2024-08-04,Neque vitae fugiat dolore a.
+263,10,8,Pagamento,36260.8,2024-10-21,Fugiat sed culpa eveniet dolor odio repudiandae.
+264,4,10,Recebimento,49619.41,2024-05-12,Distinctio fugit ducimus tempore delectus autem modi.
+265,1,5,Interna,43528.06,2024-06-24,Aperiam delectus veniam praesentium corrupti ratione est sequi.
+266,2,6,Interna,51916.02,2024-05-11,Qui adipisci aliquam.
+267,4,2,Interna,10491.33,2025-03-27,Saepe aliquid doloribus odio vero nam.
+268,8,5,Interna,11465.27,2024-09-21,Ducimus accusamus suscipit blanditiis fugit ipsam recusandae.
+269,4,1,Interna,64715.23,2024-12-09,Eligendi perspiciatis vero.
+270,10,8,Recebimento,61535.9,2025-04-07,Ex soluta natus ratione molestiae eum natus.
+271,3,6,Pagamento,45408.54,2024-06-25,Cupiditate qui quo est.
+272,1,10,Pagamento,45715.2,2024-09-14,Doloremque sapiente in.
+273,5,1,Interna,59438.5,2025-02-20,Reiciendis suscipit consequuntur fuga.
+274,6,7,Interna,15201.4,2024-11-02,Aspernatur iure iure ad.
+275,1,5,Recebimento,49043.19,2024-12-01,A ipsam at exercitationem.
+276,4,8,Recebimento,23192.95,2024-06-15,Quae mollitia debitis inventore vero.
+277,8,1,Interna,61020.81,2024-05-22,Quas cupiditate explicabo tenetur quos minima tenetur quam.
+278,2,5,Interna,44771.32,2025-01-05,Natus inventore quo magnam distinctio fuga.
+279,3,5,Interna,7331.4,2024-11-13,Aspernatur nihil est quibusdam porro iusto provident.
+280,10,9,Interna,17305.4,2024-05-20,Nam aliquid amet voluptatibus excepturi dolores.
+281,2,8,Recebimento,33228.12,2024-11-07,Similique architecto voluptatem non culpa tenetur laboriosam cupiditate.
+282,3,5,Interna,30257.16,2024-10-28,Ex sunt sint omnis voluptatum.
+283,10,4,Pagamento,20689.35,2024-06-06,Quam labore a debitis.
+284,8,4,Pagamento,60507.36,2024-07-06,Eos consectetur unde voluptatem consequatur veniam animi at.
+285,8,2,Pagamento,28478.87,2024-07-31,Voluptates omnis quasi unde similique quibusdam architecto.
+286,3,9,Pagamento,30166.11,2024-08-31,Nobis deserunt ab consectetur occaecati accusamus alias.
+287,10,7,Interna,57552.66,2024-07-03,Eius quaerat corrupti.
+288,8,1,Pagamento,30490.41,2025-03-11,Consectetur ipsa facere ut.
+289,2,6,Recebimento,38066.64,2025-01-09,Doloribus quaerat aliquam quod.
+290,9,3,Pagamento,27251.07,2024-06-03,Atque excepturi aliquid ducimus deserunt placeat repudiandae.
+291,5,9,Pagamento,26885.14,2024-08-25,Doloremque repudiandae itaque explicabo temporibus atque modi consequatur.
+292,10,8,Interna,23993.16,2024-05-11,Officiis voluptatibus at.
+293,8,4,Interna,64213.1,2025-01-04,Iusto fugiat non similique.
+294,1,2,Recebimento,51395.44,2024-06-14,Quibusdam minus blanditiis quos ea sapiente quia reprehenderit.
+295,6,9,Pagamento,64872.68,2024-05-09,Harum cum necessitatibus reiciendis dicta blanditiis laborum magnam.
+296,7,6,Pagamento,34779.03,2024-09-03,Nam fuga sapiente sapiente tenetur itaque.
+297,10,2,Pagamento,62064.97,2025-01-31,Fugit praesentium ut.
+298,2,8,Recebimento,12203.0,2024-05-16,Maiores hic facere esse enim quis ducimus.
+299,7,5,Recebimento,25051.93,2024-12-24,Ipsam inventore voluptatem.
+300,8,6,Recebimento,4981.62,2025-01-04,Non deleniti dolore impedit ab.
+301,7,8,Recebimento,18028.64,2024-12-21,Fugiat iste consectetur cumque consequatur sunt blanditiis eos.
+302,8,1,Pagamento,44535.74,2024-06-10,Dolor illum consequuntur repudiandae exercitationem.
+303,1,4,Pagamento,42775.06,2024-12-24,Possimus eaque corrupti perspiciatis sed odio veritatis.
+304,3,6,Interna,42548.3,2024-11-07,Veniam nisi porro atque numquam illum odit.
+305,3,1,Interna,54197.08,2025-01-20,Tenetur quae omnis necessitatibus fugit.
+306,7,8,Recebimento,41445.07,2024-07-08,Nam rem suscipit quam vitae.
+307,2,10,Interna,61444.43,2024-08-01,Voluptate delectus facilis animi minus dolore ea.
+308,3,8,Pagamento,48736.74,2024-07-01,Repellat dolores aspernatur.
+309,9,10,Recebimento,62178.91,2025-03-04,Sed minus illo fugiat quaerat fuga.
+310,10,5,Recebimento,29401.02,2024-10-12,Totam natus eaque ex iste nesciunt.
+311,2,3,Recebimento,40510.21,2025-03-27,Quam velit totam excepturi dicta.
+312,6,3,Pagamento,52662.37,2024-07-16,Fuga iusto similique hic ut nisi.
+313,7,5,Interna,69104.76,2024-10-26,Vitae aperiam dignissimos eligendi aspernatur exercitationem.
+314,8,1,Interna,5819.06,2024-09-04,Modi tenetur nemo.
+315,7,10,Pagamento,46161.96,2025-04-08,Totam esse assumenda exercitationem quis nisi eum velit.
+316,7,3,Interna,26850.95,2024-11-23,Id sapiente delectus sequi dolores iste.
+317,3,5,Pagamento,13556.92,2024-07-30,Dolores quod nihil blanditiis.
+318,2,9,Recebimento,57191.56,2024-06-23,Commodi repellendus amet pariatur eaque molestias.
+319,3,5,Interna,52744.19,2024-06-28,Recusandae culpa impedit blanditiis quod.
+320,4,6,Pagamento,31410.4,2025-03-24,Distinctio repellat iste impedit omnis.
+321,10,2,Recebimento,12462.7,2024-10-08,Aut tenetur temporibus adipisci officia.
+322,5,2,Pagamento,9603.03,2025-01-22,Libero minus explicabo cumque.
+323,2,7,Interna,41409.6,2025-04-10,Aspernatur quas ipsum totam.
+324,8,9,Recebimento,53476.82,2024-11-16,Et distinctio repellendus omnis qui.
+325,1,2,Pagamento,52874.11,2024-06-21,Suscipit magnam itaque eaque perspiciatis tempora.
+326,1,2,Interna,15563.72,2024-10-24,Beatae deserunt vitae.
+327,1,8,Recebimento,36885.11,2025-03-17,Porro illum exercitationem.
+328,5,9,Pagamento,53226.9,2025-01-27,Dolore ipsam iste neque.
+329,10,7,Pagamento,26584.17,2024-09-16,Illum deserunt a eius aperiam repudiandae.
+330,6,7,Interna,65928.38,2025-04-08,Praesentium repellendus repellendus ut aperiam unde facilis officiis.
+331,7,8,Recebimento,4949.67,2024-12-25,Alias ullam laborum.
+332,6,7,Interna,1212.84,2025-01-04,Quas aperiam delectus iure.
+333,7,3,Interna,42531.73,2025-03-08,Blanditiis ad error voluptas porro.
+334,9,5,Recebimento,52849.34,2024-05-31,Quis minus occaecati assumenda voluptatibus.
+335,4,7,Pagamento,43666.27,2025-04-01,Dicta dicta numquam.
+336,8,10,Pagamento,46555.76,2024-08-28,Maxime hic temporibus ad.
+337,1,7,Interna,44730.63,2024-12-20,Nemo occaecati laborum doloribus.
+338,1,7,Recebimento,31657.12,2024-06-02,Vitae explicabo tempora omnis distinctio doloremque.
+339,10,8,Pagamento,52005.12,2024-06-18,Odit quo ipsam praesentium.
+340,2,7,Pagamento,65796.85,2024-06-26,Nobis cupiditate enim sequi porro repudiandae quos.
+341,8,2,Recebimento,27555.24,2024-07-09,Dolorem dolorem incidunt magni voluptas iusto.
+342,10,4,Recebimento,10878.14,2024-05-19,Mollitia itaque maiores.
+343,9,10,Interna,9822.43,2024-09-12,Libero vero quisquam rem rerum dicta aliquam accusamus.
+344,2,6,Recebimento,69745.03,2024-06-01,Id explicabo sapiente reprehenderit.
+345,8,3,Pagamento,66898.53,2024-11-15,Tempora nam nam vitae provident.
+346,8,10,Interna,17791.56,2025-03-13,Pariatur sapiente ipsa provident ea similique quod.
+347,3,2,Interna,31007.65,2024-10-16,Eveniet quidem consectetur distinctio voluptas.
+348,1,4,Pagamento,63282.75,2024-07-07,Consequuntur cum quae accusantium.
+349,5,4,Recebimento,18776.37,2024-05-25,Eos voluptatum exercitationem voluptatibus similique necessitatibus quaerat pariatur.
+350,8,2,Recebimento,10367.19,2025-01-05,Similique debitis vero illo fugiat reprehenderit nulla voluptatibus.
+351,9,8,Interna,55892.29,2024-07-04,Omnis tempore doloribus tempore ratione laboriosam.
+352,6,4,Recebimento,53877.28,2025-02-18,Architecto officia minus earum placeat.
+353,10,2,Recebimento,24682.58,2024-10-21,Autem dolores laborum et sequi.
+354,7,10,Pagamento,56782.88,2024-08-10,Officiis eum accusamus optio.
+355,4,6,Interna,21077.38,2024-07-08,Cupiditate optio magni enim id necessitatibus.
+356,2,3,Pagamento,52100.1,2025-01-18,Omnis harum et eius labore facere dolorum.
+357,4,2,Recebimento,26373.85,2024-05-12,Vel optio fuga incidunt.
+358,6,8,Recebimento,51847.33,2025-01-18,Asperiores necessitatibus ullam exercitationem incidunt.
+359,5,1,Recebimento,37956.61,2024-04-20,Ut at quam nihil distinctio eum molestias.
+360,7,8,Pagamento,54218.38,2024-08-30,Animi rem repellat accusantium.
+361,3,10,Recebimento,42511.62,2024-06-18,Voluptate pariatur architecto sint libero consequatur.
+362,4,2,Pagamento,1634.01,2024-12-26,Corrupti asperiores dicta doloribus.
+363,8,6,Interna,57314.21,2025-01-17,Temporibus nulla iure necessitatibus iste alias.
+364,5,4,Pagamento,47918.68,2024-11-03,Dolor cumque laudantium laborum aspernatur nobis quo.
+365,3,6,Interna,52547.14,2024-06-04,Officiis perferendis adipisci vero possimus vitae.
+366,1,7,Pagamento,35664.08,2024-11-07,Labore molestias explicabo sapiente vel velit placeat tempore.
+367,2,6,Recebimento,40604.06,2025-01-10,Dicta nobis occaecati fugit est.
+368,4,9,Pagamento,49585.69,2024-04-25,Perferendis quos odio delectus commodi aliquid commodi.
+369,7,1,Pagamento,11536.45,2024-05-10,Sapiente quo laborum fugiat voluptatibus natus.
+370,4,5,Recebimento,51765.06,2024-10-08,Laboriosam quae a in natus.
+371,3,9,Recebimento,28034.74,2024-09-14,Est pariatur ipsa id nemo.
+372,3,1,Recebimento,28067.7,2024-11-30,Unde suscipit at repellendus harum expedita porro.
+373,7,9,Pagamento,53282.28,2024-04-27,Similique alias illum explicabo praesentium.
+374,7,2,Recebimento,51146.07,2024-10-13,Alias qui voluptate natus nulla.
+375,5,4,Recebimento,60081.4,2024-10-11,Aspernatur sunt natus facere necessitatibus fugit.
+376,7,2,Interna,23315.88,2024-08-16,Amet fuga iure ab facilis.
+377,10,1,Recebimento,21981.11,2024-05-26,Minus iure perferendis incidunt.
+378,3,4,Pagamento,49020.93,2024-07-14,Sequi nostrum totam nulla.
+379,5,3,Interna,16051.42,2024-11-17,Quis nostrum expedita eligendi omnis dolorum voluptas.
+380,4,1,Pagamento,51091.07,2025-01-31,Soluta velit eos dolore quae.
+381,10,2,Recebimento,55199.45,2025-02-13,Recusandae esse commodi necessitatibus.
+382,3,8,Pagamento,47881.72,2024-12-04,Doloribus non rerum velit ea neque eligendi nemo.
+383,3,1,Interna,25535.29,2024-07-27,Eaque minima perspiciatis omnis natus corporis.
+384,8,3,Interna,9096.93,2024-05-02,Eveniet in non labore vel voluptates pariatur modi.
+385,9,6,Recebimento,30933.68,2025-02-07,Nesciunt ut aut culpa voluptas voluptatum quis.
+386,3,8,Interna,3345.51,2024-10-04,Aperiam cupiditate similique quis.
+387,4,8,Pagamento,21885.58,2024-10-16,Error sed expedita enim quae impedit.
+388,10,3,Recebimento,52418.82,2024-08-22,Reiciendis consequatur quod alias ab error necessitatibus.
+389,2,9,Recebimento,27364.96,2025-03-09,Fugit aperiam quam dolore amet.
+390,8,6,Interna,9280.03,2024-04-24,Tempore soluta autem quod.
+391,2,3,Pagamento,45257.24,2024-07-02,Ex hic explicabo provident hic ex excepturi.
+392,9,4,Interna,41492.68,2025-01-02,Vitae nam inventore rem ullam non velit.
+393,10,8,Pagamento,48867.08,2024-07-24,Mollitia deleniti possimus id dolore asperiores.
+394,2,4,Pagamento,34409.21,2025-04-11,Mollitia aliquid dignissimos tempora deleniti illum ut.
+395,7,5,Recebimento,9641.31,2025-01-26,Alias dolorum est eos.
+396,6,2,Recebimento,63712.76,2024-07-25,Dignissimos autem error optio quae impedit.
+397,9,3,Pagamento,57087.89,2025-01-26,Quos molestiae adipisci mollitia temporibus veniam.
+398,1,8,Recebimento,57404.94,2024-08-13,Necessitatibus eligendi quidem vero.
+399,9,8,Interna,36804.18,2024-06-12,Officia voluptas ipsa enim.
+400,10,9,Recebimento,57499.1,2024-10-11,Deleniti alias dignissimos et culpa.
+401,2,5,Recebimento,62934.56,2024-11-08,Veniam cum repellendus non eligendi hic.
+402,3,4,Interna,39275.8,2024-06-23,Quibusdam quas quidem quis dicta consequatur voluptatibus.
+403,6,2,Interna,9888.3,2024-12-12,Ab accusamus ex nemo autem.
+404,4,3,Interna,39812.24,2024-07-02,Dolorem dolor ducimus.
+405,1,3,Interna,35924.23,2024-10-12,Architecto porro pariatur incidunt itaque ut.
+406,6,10,Interna,30190.54,2024-04-18,Sequi consequuntur laboriosam nostrum quibusdam et.
+407,1,5,Pagamento,4185.47,2025-03-28,Cupiditate odit distinctio aspernatur.
+408,9,5,Recebimento,37853.07,2025-03-30,Tenetur quasi nam ea.
+409,3,9,Recebimento,22592.59,2024-10-20,Doloremque dolor quaerat veritatis.
+410,6,10,Recebimento,15478.93,2024-06-04,Consectetur eos architecto.
+411,2,1,Interna,3534.64,2025-02-18,Repellat reiciendis totam accusamus iste cum cum reiciendis.
+412,3,6,Interna,67062.18,2024-08-05,Sunt animi repellendus.
+413,10,9,Interna,41833.04,2025-01-19,Totam ea sunt iure quod aut.
+414,5,3,Recebimento,43939.58,2025-04-05,Odit porro eum ea autem ratione nobis.
+415,2,10,Pagamento,18986.54,2025-03-14,Unde amet facere molestiae.
+416,3,8,Pagamento,6744.53,2024-11-08,Culpa perspiciatis occaecati excepturi sit aperiam.
+417,5,8,Recebimento,10883.83,2024-06-13,Nisi rem nesciunt porro harum quis.
+418,4,2,Recebimento,51554.57,2024-08-01,Totam quam corporis dolorum dolorum.
+419,4,7,Recebimento,46354.95,2024-06-25,Nemo velit recusandae aut assumenda voluptatem blanditiis.
+420,9,3,Pagamento,57688.18,2024-10-08,Aliquam possimus voluptatem mollitia rem quia amet.
+421,6,8,Pagamento,2787.78,2025-04-04,Iste amet repudiandae eos.
+422,10,4,Interna,19638.64,2024-04-28,Ut nisi explicabo nesciunt nulla dolorum explicabo nisi.
+423,9,2,Recebimento,38837.45,2025-01-24,Laudantium cupiditate consequuntur laudantium.
+424,2,7,Recebimento,7139.22,2024-09-11,Dolorum nam delectus accusantium similique.
+425,6,5,Interna,60951.02,2024-06-11,Beatae debitis perspiciatis placeat.
+426,4,6,Interna,7758.33,2024-07-24,Soluta fugit vero tenetur qui a molestiae deserunt.
+427,4,8,Interna,55008.62,2024-08-04,Error soluta rerum esse saepe.
+428,2,4,Recebimento,51254.59,2024-10-24,Nobis ullam accusamus iure rem ab fugiat.
+429,5,9,Interna,37498.25,2025-01-04,Quisquam placeat architecto quisquam et ratione.
+430,10,5,Recebimento,19702.72,2024-10-05,Ducimus praesentium delectus incidunt omnis cum soluta.
+431,2,1,Interna,22941.75,2025-01-26,Impedit eaque iste libero eum cupiditate.
+432,7,3,Pagamento,56619.86,2025-04-03,Necessitatibus accusantium aspernatur id molestiae consequuntur.
+433,9,10,Recebimento,61859.46,2024-12-04,Adipisci fuga quam culpa.
+434,7,9,Recebimento,9802.48,2024-11-30,Blanditiis eum sint ut illum.
+435,1,10,Recebimento,11728.9,2024-04-30,Nihil et pariatur neque.
+436,3,4,Pagamento,40161.69,2024-07-13,Doloribus pariatur repellat officia cupiditate numquam.
+437,5,1,Recebimento,45104.35,2024-08-07,Aliquam fugiat excepturi ea.
+438,6,4,Recebimento,43000.51,2024-10-30,Officia mollitia atque.
+439,8,3,Pagamento,69050.99,2024-07-02,Dolore modi sed aliquam.
+440,8,10,Pagamento,20031.79,2024-11-22,Sequi dolore sequi aperiam odit debitis corrupti.
+441,7,10,Recebimento,61815.75,2025-03-01,Quos fuga eos optio.
+442,4,6,Recebimento,60196.58,2025-03-23,Quae modi sit molestiae.
+443,5,8,Pagamento,59321.95,2024-11-08,Voluptatibus error ab quis autem eveniet nam.
+444,2,3,Recebimento,17562.54,2024-05-06,Est esse consequatur saepe a recusandae.
+445,2,4,Recebimento,4961.4,2024-06-21,Unde totam libero odit laboriosam rerum maxime.
+446,5,10,Pagamento,56775.94,2025-02-09,Odit eligendi sit quibusdam quod blanditiis.
+447,1,8,Recebimento,36099.08,2024-09-30,Dolor omnis beatae consequuntur.
+448,3,9,Pagamento,36535.79,2025-04-10,Repellat debitis deserunt accusantium porro aliquid.
+449,9,2,Pagamento,1959.12,2024-06-16,Ducimus dolor voluptate eligendi laborum maiores sunt quo.
+450,4,1,Recebimento,30323.54,2025-01-10,At sint ipsum repudiandae.
+451,9,6,Interna,69601.31,2024-09-18,Non voluptate eius porro atque cum praesentium beatae.
+452,9,1,Recebimento,31956.99,2024-11-13,Animi soluta in.
+453,3,10,Interna,13062.18,2024-04-22,Provident aperiam expedita deserunt.
+454,6,3,Recebimento,25377.12,2024-06-15,Excepturi molestias deleniti atque eum aliquid repellat.
+455,1,8,Pagamento,27157.54,2024-07-27,Suscipit tempore mollitia a explicabo.
+456,6,2,Pagamento,64069.12,2025-01-06,Unde sapiente nulla optio.
+457,4,10,Interna,21014.47,2024-11-19,Aperiam iste modi inventore reprehenderit quidem ut similique.
+458,8,5,Pagamento,15701.55,2024-06-21,Voluptatibus dignissimos sit non harum ratione vero.
+459,10,7,Interna,64690.89,2024-07-06,Illum quia magni odio sunt vitae totam.
+460,9,1,Pagamento,62582.08,2025-01-30,Debitis iste dolorum mollitia vitae autem.
+461,8,1,Pagamento,1406.49,2024-05-12,Culpa magni culpa tempore quaerat.
+462,8,6,Pagamento,25418.6,2024-06-12,Perferendis sed quasi dolore.
+463,1,7,Recebimento,13844.88,2025-03-28,Itaque nobis sequi minus.
+464,6,1,Interna,30725.46,2024-08-18,Illo tempore laudantium.
+465,4,2,Recebimento,36487.98,2024-05-20,In occaecati fuga.
+466,3,8,Interna,64004.53,2024-11-26,Ab tempore modi aut.
+467,1,4,Recebimento,18259.3,2024-12-24,Dolorum asperiores consectetur non vero.
+468,8,7,Pagamento,21650.66,2024-05-29,Ullam possimus explicabo nisi neque modi doloribus.
+469,7,3,Recebimento,56996.53,2025-01-08,Expedita libero quasi accusantium quaerat.
+470,2,9,Recebimento,58915.66,2025-01-23,Praesentium fugiat possimus reprehenderit.
+471,3,4,Pagamento,52549.29,2024-11-07,Quis nostrum explicabo repudiandae consequuntur ipsum.
+472,1,7,Recebimento,14694.06,2024-08-11,Magni natus veritatis exercitationem dolore earum ipsa odio.
+473,4,6,Interna,10223.94,2025-02-04,Qui suscipit neque non ipsam occaecati.
+474,7,6,Interna,12061.56,2024-06-08,Illum nihil voluptatum aperiam ipsa nulla laborum natus.
+475,4,9,Recebimento,68822.08,2024-11-14,Itaque placeat libero nam placeat sed eligendi eius.
+476,2,8,Pagamento,38958.53,2024-10-28,Rem reiciendis sed beatae iure.
+477,3,7,Pagamento,35628.24,2024-08-04,Maxime occaecati dignissimos quasi modi modi voluptatum.
+478,7,3,Interna,67079.82,2024-08-05,Modi eaque et recusandae cumque odit rem soluta.
+479,1,4,Interna,24744.32,2024-08-18,Blanditiis suscipit adipisci id.
+480,1,5,Interna,47803.41,2024-10-09,Id enim nobis.
+481,6,8,Recebimento,51882.78,2024-05-07,Saepe debitis modi.
+482,7,9,Pagamento,20473.41,2024-07-21,Maxime quo a soluta nemo deleniti.
+483,2,8,Interna,43615.31,2024-12-28,Ex esse repellendus.
+484,9,3,Interna,20398.58,2024-11-14,Nulla qui ea sequi voluptatum.
+485,2,6,Recebimento,18067.45,2024-11-14,Impedit sint accusamus unde ipsum fuga.
+486,7,4,Pagamento,49745.8,2024-04-18,A aliquid exercitationem.
+487,2,10,Recebimento,13501.99,2024-09-12,Aut suscipit quod explicabo dignissimos tenetur.
+488,10,3,Interna,9311.82,2024-08-30,Eos nam quisquam deleniti ipsa molestiae.
+489,7,1,Pagamento,69337.52,2025-03-08,Inventore necessitatibus magnam laboriosam quam.
+490,3,8,Interna,43536.25,2024-04-21,Minus cum soluta rem.
+491,2,1,Pagamento,29103.51,2024-04-26,Occaecati dignissimos fuga porro.
+492,5,4,Interna,24196.27,2024-05-02,Earum eos veniam dolorum nobis.
+493,8,1,Recebimento,30468.03,2025-04-13,Hic earum exercitationem.
+494,1,6,Interna,19577.98,2024-09-24,Temporibus id totam cum velit fugiat ratione.
+495,5,7,Recebimento,29847.12,2024-06-01,Eum exercitationem nisi sit.
+496,6,1,Interna,3821.35,2024-06-06,Ut quisquam delectus sequi commodi ab.
+497,1,7,Interna,20686.87,2024-07-14,Ut officia eos recusandae ea.
+498,5,2,Pagamento,13753.96,2024-08-11,Tempore esse enim quos fuga dolore ipsa.
+499,8,6,Pagamento,22000.61,2024-06-19,Sed repellendus modi est.
+500,2,1,Recebimento,39072.01,2024-10-20,Voluptas enim quas dolor.
